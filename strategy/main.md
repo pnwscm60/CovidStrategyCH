@@ -6,7 +6,7 @@ Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei
 ## Übergeordnete Module
 Die vier übergeordneten Module bilden vier unterschiedliche Angriffspunkte ab, mit denen ein Pandemie bekämpft werden kann:
 
-1. **Virus nicht ins Land lassen**><br/>Gelangt das Virus gar nicht erst ins Land, ist keine Verbreitung möglich. Da keine vollständige Isolation möglich/sinnvoll ist, wird es immer einige Fälle von importierten Infektionen geben. Daher sind weitere Module als «Auffangnetz» notwendig.
+1. **[Virus nicht ins Land lassen](modul1)**<br/>Gelangt das Virus gar nicht erst ins Land, ist keine Verbreitung möglich. Da keine vollständige Isolation möglich/sinnvoll ist, wird es immer einige Fälle von importierten Infektionen geben. Daher sind weitere Module als «Auffangnetz» notwendig.
 1. **Virus vom Menschen fernhalten**<br/>Überwindet das Virus das Modul 1 und gelangt ins Land, müssen Massnahmen installiert werden, die verhindern, dass das Virus zu den Menschen gelangt. Dies können beispielsweise Einschränkungen von Gruppengrössen, Veranstaltungsverbote, Schliessen von Restaurants und Bars sein.
 1. **Infektion mit dem Virus verhindern**<br/>Gelangt das Virus trotzdem zu den Menschen, soll so weit als möglich verhindert werden, dass es zu einer Infektion kommt.
 1. **Infektion aufspüren + isolieren**<br/>Kommt es trotzdem zu einer Infektion, muss diese aufgespürt und isoliert werden, damit sich das Virus nicht weiter verbreiten kann.
