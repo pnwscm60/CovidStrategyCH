@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:100,300,700");
+body {
+	background-color:#eee;color:#222;font: normal 16px/20px;
+	font-family:"Open Sans Condensed";
+	font-weight:100;
+	max-width:1024px;
+	margin: auto;
+	}
+em {
+	color:rgb(29,112,183); font-family:"Open Sans Condensed";font-weight:700;font-style:normal;padding-right:0.5em;
+	}
+a {
+	color:rgb(29,112,183);text-decoration:none; font-weight:700;
+	}
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Open Sans Condensed",sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	color:rgb(29,112,183);
+	clear:both;
+	}
+h1 {
+	font-size: 12px;line-height: 16px;margin-bottom:0.8em;margin-top:16px;border-bottom:1px #fff solid;padding-bottom:3px;
+	}
+h1 a {border:none;}
+h2 {
+	font-size: 21px;line-height:20px;margin-top:2px;
+	}
+h3 {
+	font-size: 17px; line-height:17px;
+	}
+h4 {
+	font-size: 14px; line-height:14px;
+	}
+.nodisplay {
+	display: none
+	}
+.graph {
+	width:29%;
+	background-color:#fff;
+	min-width:300px;
+	height:180px;
+	float:left;
+	padding:8px;
+	border:1px solid #fff;
+	border-radius:5px;
+	box-shadow:1px 1px 2px #666;
+	margin:0 1.1em 1em 0;
+}
+.imglink {
+	border-radius:3px;
+	box-shadow:1px 1px 2px #666;
+	border:none;
+	padding:2px;
+	float:left;
+	margin:0 1em 0.5em 0;
+}
+.ntext {
+	margin-bottom:0.4em;}
+.twocol {column-count: 2; column-gap:1em;}
+@media only screen and (max-width: 800px) {
+	body {
+	margin: 0.5em 1em 1em 1em;
+	}
+.twocol {column-count: 1;}
+}
