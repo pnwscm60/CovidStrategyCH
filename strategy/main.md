@@ -1,8 +1,7 @@
 # Umfassende Pandemiestrategie
 Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei Ebenen und einem darübergelegten Ampelsystem gebildet. Vier übergeordnete Module bilden die Hauptgliederungsebene. Jedes dieser Module enthält eine unterschiedliche Anzahl von weiteren Komponenten («Käsescheiben»). Jede dieser Komponenten entspricht einer Massnahme, mit der eine Eingrenzung der Pandemie erzielt werden soll.
 
-![Swiss Cheese Modell]
-(../images/cheese_full4x.png)
+![cheese_full4x](https://user-images.githubusercontent.com/46749603/102410792-58896680-3ff1-11eb-9219-f82bdc544e0e.png)
 
 ## Übergeordnete Module
 Die vier übergeordneten Module bilden vier unterschiedliche Angriffspunkte ab, mit denen ein Pandemie bekämpft werden kann:
