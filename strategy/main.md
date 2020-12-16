@@ -1,11 +1,11 @@
-<h2>Pandemiestrategie</h2>
+## Pandemiestrategie
 <div class="twocol">
 <div class="ntext">
 Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei Ebenen und einem darübergelegten Ampelsystem gebildet. Vier übergeordnete Module bilden die Hauptgliederungsebene. Jedes dieser Module enthält eine unterschiedliche Anzahl von weiteren Komponenten («Käsescheiben»). Jede dieser Komponenten entspricht einer Massnahme, mit der die Ausbreitung der Pandemie, d. h. die Reproduktion des Virus verhindert werden soll. Grundzüge wurden von Pueyo [Pueyo 2020] beschrieben. Der Massnahmenkatalog orientiert sich an Modellen aus Irland, Island, Neuseeland, Norwegen und weiteren Staaten, die über ein erfolgreiches Pandemiemanagement verfügen.
   </div>
 <img src="https://user-images.githubusercontent.com/46749603/102410792-58896680-3ff1-11eb-9219-f82bdc544e0e.png" style="width:90%;margin: 1em 0;">
 
-<h3>Übergeordnete Module</h3>
+## Übergeordnete Module
 <div class="ntext">Die vier übergeordneten Module bilden vier unterschiedliche Angriffspunkte ab, mit denen ein Pandemie bekämpft werden kann:</div>
 
 <ol><li><strong><a href="modul1.md">Virus nicht ins Land lassen</a></strong><br/>Gelangt das Virus gar nicht erst ins Land, ist keine Verbreitung möglich. Da keine vollständige Isolation möglich/sinnvoll ist, wird es immer einige Fälle von importierten Infektionen geben. Daher sind weitere Module als «Auffangnetz» notwendig.</li>
@@ -27,4 +27,5 @@ Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei
 
 
 ## Literatur
+Pueyo T. Coronavirus: The Swiss Cheese strategy. https://tomaspueyo.medium.com/coronavirus-the-swiss-cheese-strategy-d6332b5939de. Abgerufen 5.12.2020
 Reason J. Human error: models and management. BMJ. 2000; 320: 768–770
