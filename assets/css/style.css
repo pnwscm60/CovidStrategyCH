@@ -59,7 +59,7 @@ h4 {
 	margin-bottom:0.4em;}
 .twocol {
 	column-count: 2; column-gap:1em;}
-.ntable {
+.ntbl {
 	display:flex;width:100%;min-width:400px;}
 .tbl5 {
 	width:19.9%;}
