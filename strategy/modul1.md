@@ -54,7 +54,7 @@
      <div class="tbl5 s4">
       Keine Einreise
     </div>
-  <div>
+  </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
       Einreisequarantäne
@@ -71,5 +71,5 @@
      <div class="tbl5 s4">
      Keine Einreise
     </div>
-  <div>
+  </div>
 
