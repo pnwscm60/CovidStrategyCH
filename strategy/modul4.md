@@ -13,15 +13,15 @@
     <div class="twocol">
     <div class="ntext">
       <ul>
-        <li><strong>Komponente</strong>Text</li>
-        <li><strong>Komponente</strong>Text</li>
-        <li><strong>Komponente</strong>Text</li>
+        <li><strong>Testen</strong>Text</li>
+        <li><strong>Contact Tracing</strong>Text</li>
+        <li><strong>Covid App</strong>Text</li>
       </ul>
     </div>
   </div>
   <div class="ntable" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 st0">
-      Komponente
+      Testen bei Arzt
     </div>
     <div class="tbl5 st1">
       Stufe 1
@@ -38,7 +38,7 @@
     </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Komponente
+      Schnelltests
     </div>
     <div class="tbl5 s1">
      xy
@@ -55,7 +55,7 @@
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Komponente
+      Contact Tracing
     </div>
     <div class="tbl5 s1">
       xy
@@ -72,7 +72,7 @@
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Komponente
+      Isolation & Kontrolle
     </div>
     <div class="tbl5 s1">
       xy
