@@ -1,4 +1,5 @@
-  <div style="display:flex;"><h2>Modul 1: Virus nicht ins Land lassen</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
+ <html>
+ <div style="display:flex;"><h2>Modul 1: Virus nicht ins Land lassen</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="twocol">
     <div class="ntext">
       Gelangt das Virus gar nicht ins Land, kann es sich auch nicht verbreiten. Folgende Massnahmen sind möglich:
@@ -41,4 +42,4 @@
       <br/>Keine Einreise
     </div>
   <div>
-
+    </html>
