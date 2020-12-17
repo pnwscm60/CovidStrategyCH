@@ -1,8 +1,6 @@
 <html>
   <head>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
-    <title>Why to hold the r-value low</title>
+    <title>Modul 1</title>
     <meta charset="utf-8" />
     <meta http-equiv="expires" content="0">
   <style>
