@@ -11,7 +11,7 @@
 </style>
   </head>
   <body>
-    <h2>R-Wert</h2>
+    <div style="flex: 1;"><h2>R-Wert</h2> <a href="main">Zurück</a></div>
     <div class="twocol">
     <div class="ntext">
    Was sagt R<sub>e</sub> genau aus? Die Reproduktionszahl zeigt, um wie viel grösser (oder kleiner) die nächste Generation an Infizierten während einer Epidemie sein wird. Nehmen wir an, Person 0 sei infiziert und infiziere zwei andere Personen. Dies entspricht einem R<sub>e</sub> von 2. Diese Person ist also die 1. Generation, nennen wir sie g. Sie enthält g = 1 Person. Die zweite Generation umfasst g&#183;R<sub>0</sub> = 2 Personen. Da jede dieser beiden Personen wieder 2 andere infiziert, sind es in der dritten Generation g&#183;R<sub>e</sub>^2 = 4 Personen, usw. Wir werden also pro Infektionszyklus 1, 2, 4, 8, 16, ... neue Infektionsfälle haben. Mathematisch interessierten fällt sofort auf, dass es sich dabei um eine geometrische Reihe handelt. Solange R<sub>e</sub> 2 bleibt, steigt die Zahl der Infizierten <em>exponentiell</em> an. Die Fallzahl wird erst sinken, wenn die Anzahl der infizierten Personen so gross ist, dass es für eine infizierte Person schwieriger wird, noch nicht infizierte Personen «zu finden».
@@ -40,6 +40,3 @@
     <div id="ref2"><a href="#rref2">^</a> <a href="https://www.worldometers.info/coronavirus/" target="_blank">Worldometer</a></div>
         <div id="ref3"><a href="#rref3">^</a>Ich bevorzuge den Begriff «Abstand halten» oder «physical distancing». Denn es geht m. E. nicht darum, keine Kontakte mehr zu pflegen, sondern um das Einhalten der physikalischen Distanz.</div>
     </div>
-
-
-[Zurück](main.md)
