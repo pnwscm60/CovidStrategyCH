@@ -14,7 +14,6 @@
  <div style="display:flex;"><h2>Modul 1: Virus nicht ins Land lassen</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="twocol">
     <div class="ntext">
-      Gelangt das Virus gar nicht ins Land, kann es sich auch nicht verbreiten. Folgende Massnahmen sind möglich:
       <ul>
         <li><strong>Einreisesperre</strong> für Reisende aus bestimmten Staaten/Regionen. Diesen Personen ist es nicht erlaubt, Schweizer Staatsgebiet zu betreten. Dies erfordert eine vollständige und strikte Grenzkontrolle.</li>
         <li><strong>Einreisequarantäne</strong> für Reisende aus bestimmten Staaten/Regionen. Die Einreise ist zwar möglich, unmittelbar nach Einreise müssen sich die Reisenden aber in eine Quarantäne von 14 Tagen Dauer begeben. Wichtig sind hier die Ausgestaltung der Quarantäne und die Kontrollmechanismen.</li>
@@ -39,7 +38,7 @@
       Stufe 4
     </div>
     </div>
-  <div class="ntbl">
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
       Einreisesperre
     </div>
@@ -56,7 +55,7 @@
       Keine Einreise
     </div>
   <div>
-  <div class="ntbl">
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
       Einreisequarantäne
     </div>
