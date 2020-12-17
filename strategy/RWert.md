@@ -11,7 +11,7 @@
 </style>
   </head>
   <body>
-    <div style="display:flex;"><h2>R-Wert</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:24px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
+    <div style="display:flex;"><h2>R-Wert</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="twocol">
     <div class="ntext">
    Was sagt R<sub>e</sub> genau aus? Die Reproduktionszahl zeigt, um wie viel grösser (oder kleiner) die nächste Generation an Infizierten während einer Epidemie sein wird. Nehmen wir an, Person 0 sei infiziert und infiziere zwei andere Personen. Dies entspricht einem R<sub>e</sub> von 2. Diese Person ist also die 1. Generation, nennen wir sie g. Sie enthält g = 1 Person. Die zweite Generation umfasst g&#183;R<sub>0</sub> = 2 Personen. Da jede dieser beiden Personen wieder 2 andere infiziert, sind es in der dritten Generation g&#183;R<sub>e</sub>^2 = 4 Personen, usw. Wir werden also pro Infektionszyklus 1, 2, 4, 8, 16, ... neue Infektionsfälle haben. Mathematisch interessierten fällt sofort auf, dass es sich dabei um eine geometrische Reihe handelt. Solange R<sub>e</sub> 2 bleibt, steigt die Zahl der Infizierten <em>exponentiell</em> an. Die Fallzahl wird erst sinken, wenn die Anzahl der infizierten Personen so gross ist, dass es für eine infizierte Person schwieriger wird, noch nicht infizierte Personen «zu finden».
