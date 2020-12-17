@@ -24,17 +24,32 @@
     <div class="tbl6 st0" style="width:19.9%;">
       Komponente
     </div>
-    <div class="tbl6 st1" style="width:19.9%;">
+    <div class="tbl5 st1">
       Stufe 1
     </div>
-    <div class="tbl6 st2" style="width:19.9%;">
+    <div class="tbl5 st2">
       Stufe 2
     </div>
-    <div class="tbl6 st3" style="width:19.9%;">
+    <div class="tbl5 st3">
       Stufe 3
     </div>
-    <div class="tbl6 st4" style="width:19.9%;">
+    <div class="tbl5 st4">
       Stufe 1
     </div>
+    <div class="tbl5 s0">
+      Einreisesperre
+    </div>
+    <div class="tbl5 s1">
+      <br/>offen
+    </div>
+     <div class="tbl5 s2">
+      <br/>offen
+    </div>
+     <div class="tbl5 s3">
+      <br/>offen
+    </div>
+     <div class="tbl5 s4">
+      <br/>Keine Einreise
+    </div>
   <div>
-    </body>
+
