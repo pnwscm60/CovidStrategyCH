@@ -1,4 +1,15 @@
-<div style="display:flex;"><h2>Modul 1: Virus nicht ins Land lassen</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
+<html>
+  <head>
+    <title>Modul 1</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="expires" content="0">
+  <style>
+ /* FONTS */
+ @import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700");
+</style>
+  </head>
+  <body>
+      <div style="display:flex;"><h2>Modul 1: Virus nicht ins Land lassen</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="twocol">
     <div class="ntext">
       Gelangt das Virus gar nicht ins Land, kann es sich auch nicht verbreiten. Folgende Massnahmen sind möglich:
@@ -9,4 +20,4 @@
       </ul>
     </div>
   </div>
-
+    </body>
