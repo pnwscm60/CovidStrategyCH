@@ -36,24 +36,41 @@
       Stufe 3
     </div>
     <div class="tbl5 st4">
-      Stufe 1
+      Stufe 4
     </div>
     </div>
-  <div class="ntable" style="display:flex;width:100%;min-width:400px;">
+  <div class="ntbl">
     <div class="tbl5 s0">
       Einreisesperre
     </div>
     <div class="tbl5 s1">
-      <br/>offen
+     offen
     </div>
      <div class="tbl5 s2">
-      <br/>offen
+      offen
     </div>
      <div class="tbl5 s3">
-      <br/>offen
+      offen
     </div>
      <div class="tbl5 s4">
-      <br/>Keine Einreise
+      Keine Einreise
+    </div>
+  <div>
+  <div class="ntbl">
+    <div class="tbl5 s0">
+      Einreisequarantäne
+    </div>
+    <div class="tbl5 s1">
+      keine Quarantäne
+    </div>
+     <div class="tbl5 s2">
+      gemäss Liste
+    </div>
+     <div class="tbl5 s3">
+      gemäss Liste
+    </div>
+     <div class="tbl5 s4">
+     Keine Einreise
     </div>
   <div>
 
