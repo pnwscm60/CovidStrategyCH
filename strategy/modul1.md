@@ -22,7 +22,7 @@
       </ul>
     </div>
   </div>
-  <div class="ntable">
+  <div class="ntable" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 st0">
       Komponente
     </div>
@@ -39,7 +39,7 @@
       Stufe 1
     </div>
     </div>
-  <div class="ntable">
+  <div class="ntable" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
       Einreisesperre
     </div>
