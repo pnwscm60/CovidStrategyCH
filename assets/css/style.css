@@ -58,6 +58,30 @@ h4 {
 .ntext {
 	margin-bottom:0.4em;}
 .twocol {column-count: 2; column-gap:1em;}
+.tbl6 {
+	width:19.9%;}
+.st0,.st1,.st2,.st3,.st4 {
+	padding:0.5em;}
+.st0 {
+	background-color:#efefef;
+	border-right:1px solid #fff;
+	color:#fff;}
+.st1 {
+	background-color:#00cc99;
+	border-right:1px solid #fff;
+	color:#fff;}
+.st2 {
+	background-color:#ffcc00;
+	border-right:1px solid #fff;
+	color:#fff;}
+.st3 {
+	background-color:#ff6600;
+	border-right:1px solid #fff;
+	color:#fff;}
+.st4 {
+	background-color:#ff0000;
+	border-right:0;
+	color:#fff;}
 @media only screen and (max-width: 800px) {
 	body {
 	margin: 0.5em 1em 1em 1em;
