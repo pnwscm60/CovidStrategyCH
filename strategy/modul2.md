@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Modul 4</title>
+    <title>Modul 2</title>
     <meta charset="utf-8" />
     <meta http-equiv="expires" content="0">
   <style>
@@ -9,7 +9,7 @@
 </style>
   </head>
   <body>
- <div style="display:flex;"><h2>Modul 4: Infektion aufspüren + isolieren</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
+ <div style="display:flex;"><h2>Modul 2: Virus von Menschen fernhalten</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="twocol">
     <div class="ntext">
       Hier geht es im Wesentlichen um alle möglichen Formen des Social Distancing im Weiteren Sinne. Dazu gehören Einschränkungen in folgenden Bereichen:
