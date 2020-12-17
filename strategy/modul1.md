@@ -20,4 +20,21 @@
       </ul>
     </div>
   </div>
+  <div class="ntable" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl6 st0" style="width:19.9%;">
+      Komponente
+    </div>
+    <div class="tbl6 st1" style="width:19.9%;">
+      Stufe 1
+    </div>
+    <div class="tbl6 st2" style="width:19.9%;">
+      Stufe 2
+    </div>
+    <div class="tbl6 st3" style="width:19.9%;">
+      Stufe 3
+    </div>
+    <div class="tbl6 st4" style="width:19.9%;">
+      Stufe 1
+    </div>
+  <div>
     </body>
