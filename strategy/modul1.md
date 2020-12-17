@@ -23,7 +23,7 @@
     </div>
   </div>
   <div class="ntable">
-    <div class="tbl6 st0">
+    <div class="tbl5 st0">
       Komponente
     </div>
     <div class="tbl5 st1">
