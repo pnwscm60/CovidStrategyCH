@@ -15,9 +15,9 @@
     <div class="twocol">
     <div class="ntext">
       <ul>
-        <li><strong>Einreisesperre</strong> für Reisende aus bestimmten Staaten/Regionen. Diesen Personen ist es nicht erlaubt, Schweizer Staatsgebiet zu betreten. Dies erfordert eine vollständige und strikte Grenzkontrolle.</li>
-        <li><strong>Einreisequarantäne</strong> für Reisende aus bestimmten Staaten/Regionen. Die Einreise ist zwar möglich, unmittelbar nach Einreise müssen sich die Reisenden aber in eine Quarantäne von 14 Tagen Dauer begeben. Wichtig sind hier die Ausgestaltung der Quarantäne und die Kontrollmechanismen.</li>
-        <li><strong>Covid-Tests bei Einreise</strong> könnten mit der Einführung von Schnelltests umgesetzt werden, allerdings ist deren Sensitivität bei asymptomatischen Personen teilweise niedrig, was zu vielen falsch negativen Fällen führt. Dies führt zur Reduktion der Schutzwirkung dieser Massnahme.</li>
+        <li><strong>Einreisesperre</strong> für Reisende aus bestimmten Staaten/Regionen. Diesen Personen ist es nicht erlaubt, Schweizer Staatsgebiet zu betreten. Dies erfordert eine vollständige und strikte Grenzkontrolle an allen Grenzpunkten (Luft, Strasse, Schiene)</li>
+        <li><strong>Einreisequarantäne</strong> für Reisende aus bestimmten Staaten/Regionen. Die Einreise ist zwar möglich, unmittelbar nach Einreise müssen sich die Reisenden aber in eine Quarantäne von 14 Tagen Dauer begeben. Quarantäne grundsätzlich in Quarantänehotels. Ausnahmen für Grenzgänger*innen.</li>
+        <li><strong>Covid-Schnelltests bei Einreise</strong> bei jeder Einreise, auch für Grenzgänger. Bei positivem Test unmittelbare Isolation.</li>
       </ul>
     </div>
   </div>
@@ -57,10 +57,10 @@
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Einreisequarantäne
+      Quarantäne
     </div>
     <div class="tbl5 s1">
-      keine Quarantäne
+      keine
     </div>
      <div class="tbl5 s2">
       gemäss Liste
@@ -70,6 +70,23 @@
     </div>
      <div class="tbl5 s4">
      Keine Einreise
+    </div>
+  </div>
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+      Schnelltests
+    </div>
+    <div class="tbl5 s1">
+      obligatorisch
+    </div>
+     <div class="tbl5 s2">
+      obligatorisch
+    </div>
+     <div class="tbl5 s3">
+      obligatorisch
+    </div>
+     <div class="tbl5 s4">
+     obligatorisch
     </div>
   </div>
 
