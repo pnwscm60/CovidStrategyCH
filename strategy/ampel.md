@@ -12,18 +12,15 @@
  <div style="display:flex;"><h2>Ampelsystem</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="twocol">
     <div class="ntext">
-    Das Ampelsystem beinhaltet einfache und klar zu bestimmende Kriterien, die ab bestimmten Grenzwerten bzw. in bestimmten Kombinationen automatisch einen Wechsel der Alarmstufe auslösen.
-    Mit dem Umschalten auf eine andere Stufe treten die entsprechenden Massnahmen innerhalb einer kurzen Frist von 36 Stunden in Kraft. Dies gilt für Verschärfungen und für Lockerungen.
-    Die beiden zentralen Ziele – verhindern von Todesfällen und Folgeerkrankungen einerseits, das Offen halten der Schulen zumindest der unteren Stufen – sind nur zu erreichen,
-    wenn die Fallzahlen so tief bleiben, dass ein effizientes Contact Tracing möglich ist. Die Ausbreitung in Schulen der unteren Stufen kann nur mit Mühe beherrscht werden, weil
-    viele Kinder asymptomatisch bleiben.<br/>
+    Das Ampelsystem beinhaltet einfache und klar zu bestimmende Kriterien, die ab bestimmten Grenzwerten bzw. in bestimmten Kombinationen automatisch einen Wechsel der Alarmstufe auslösen. Mit dem Umschalten auf eine andere Stufe treten die entsprechenden Massnahmen innerhalb einer kurzen Frist von 36 Stunden in Kraft. Dies gilt für Verschärfungen und für Lockerungen.
+    Die beiden zentralen Ziele – verhindern von Todesfällen und Folgeerkrankungen einerseits, das Offen halten der Schulen zumindest der unteren Stufen – sind nur zu erreichen, wenn die Fallzahlen so tief bleiben, dass ein effizientes Contact Tracing möglich ist. Die Ausbreitung in Schulen der unteren Stufen kann nur mit Mühe beherrscht werden, weil viele Kinder asymptomatisch bleiben. Entsprechend reagiert das System früh auf steigende Infektionsraten.<br/>
     Folgende Kriterien werden laufend bestimmt:
       <ul>
-        <li><strong>R<sub>e</sub></strong> Ein R<sub>e</sub> > 1 bedeutet ein exponentielles Wachstum, ein R<sub>e</sub> < 1 eine Abnahme, ein R<sub>e</sub> von 1 eine gleichbleibende
-        Infektionsrate. </li>
-        <li><strong>14-Tagesinzidenz/100000 Einwohner*innen</strong></li>
+        <li><strong>Re</strong> Ein Re > 1 bedeutet ein exponentielles Wachstum, Re < 1 eine Abnahme, Re = 1 eine gleichbleibende Infektionsrate. Zu beachten ist, dass die Bestimmung des R<sub>e</sub> methodenbedingt mit einer Verzögerung von rund 10 Tagen erfolgt. In kleinen Kantonen und bei tiefen Fallzahlen ist Re weniger aussagekräftig.</li>
+        <li><strong>14-Tagesinzidenz/100000 Einwohner*innen</strong> </li>
         <li><strong>Positivitätsrate (Pos. Test/alle Tests)</strong></li>
          <li><strong>Aufklärungsrate des Contact Tracing</strong></li>
+        <li><strong>Aufklärungsrate des Contact Tracing</strong></li>
       </ul>
     </div>
   </div>
