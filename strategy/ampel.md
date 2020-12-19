@@ -46,7 +46,7 @@
       Re
     </div>
     <div class="tbl5 s1">
-     <0.7
+     < 0.7
     </div>
      <div class="tbl5 s2">
       0.7–0.89
@@ -55,7 +55,7 @@
       0.9–1.09
     </div>
      <div class="tbl5 s4">
-      >1.1
+      > 1.1
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -63,7 +63,7 @@
       7d-Inzidenz/100k
     </div>
     <div class="tbl5 s1">
-      <7
+      < 7
     </div>
      <div class="tbl5 s2">
       7–13
@@ -72,7 +72,7 @@
       14–20
     </div>
      <div class="tbl5 s4">
-     >20
+     > 20
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -123,7 +123,7 @@
       70–80 %
     </div>
      <div class="tbl5 s4">
-     >80 %
+     > 80 %
     </div>
   </div>
 
