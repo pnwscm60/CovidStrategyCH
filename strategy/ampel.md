@@ -16,17 +16,17 @@
     Die beiden zentralen Ziele – verhindern von Todesfällen und Folgeerkrankungen einerseits, das Offen halten der Schulen zumindest der unteren Stufen – sind nur zu erreichen, wenn die Fallzahlen so tief bleiben, dass ein effizientes Contact Tracing möglich ist. Die Ausbreitung in Schulen der unteren Stufen kann nur mit Mühe beherrscht werden, weil viele Kinder asymptomatisch bleiben. Entsprechend reagiert das System früh auf steigende Infektionsraten.<br/>
     Folgende Kriterien werden laufend bestimmt:
       <ul>
-        <li><strong>Re</strong> Ein Re > 1 bedeutet ein exponentielles Wachstum, Re < 1 eine Abnahme, Re = 1 eine gleichbleibende Infektionsrate. Zu beachten ist, dass die Bestimmung des R<sub>e</sub> methodenbedingt mit einer Verzögerung von rund 10 Tagen erfolgt. In kleinen Kantonen und bei tiefen Fallzahlen ist Re weniger aussagekräftig.</li>
-        <li><strong>14-Tagesinzidenz/100000 Einwohner*innen</strong> </li>
+        <li><strong>Re</strong> Ein Re > 1 bedeutet ein exponentielles Wachstum, Re < 1 eine Abnahme, Re = 1 eine gleichbleibende Infektionsrate. Zu beachten ist, dass die Bestimmung des R<sub>e</sub> methodenbedingt mit einer Verzögerung von rund 10 Tagen erfolgt. In kleinen Kantonen und bei tiefen Fallzahlen ist Re weniger aussagekräftig. Zur Entscheidung wird der Konfidenzbereich verwendet, d. h. dass bei Re 0.97 [0.85–1.09] dies als Wert >1 angesehen wird.</li>
+        <li><strong>7-Tage-Inzidenz/100000 Einwohner*innen</strong> </li>
         <li><strong>Positivitätsrate (Pos. Test/alle Tests)</strong></li>
          <li><strong>Aufklärungsrate des Contact Tracing</strong></li>
-        <li><strong>Aufklärungsrate des Contact Tracing</strong></li>
+        <li><strong>Auslastung zertifizierte IPS-Betten</strong></li>
       </ul>
     </div>
   </div>
   <div class="ntable" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 st0">
-      Testen bei Arzt
+      Kriterien
     </div>
     <div class="tbl5 st1">
       Stufe 1
@@ -43,7 +43,7 @@
     </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Schnelltests
+      Re
     </div>
     <div class="tbl5 s1">
      xy
@@ -60,7 +60,7 @@
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Contact Tracing
+      7d-Inzidenz/100k
     </div>
     <div class="tbl5 s1">
       xy
@@ -77,7 +77,41 @@
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Isolation & Kontrolle
+      Positivitätsrate
+    </div>
+    <div class="tbl5 s1">
+      xy
+    </div>
+     <div class="tbl5 s2">
+      xy
+    </div>
+     <div class="tbl5 s3">
+      xy
+    </div>
+     <div class="tbl5 s4">
+     xy
+    </div>
+  </div>
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+      Aufklärungsrate CT
+    </div>
+    <div class="tbl5 s1">
+      xy
+    </div>
+     <div class="tbl5 s2">
+      xy
+    </div>
+     <div class="tbl5 s3">
+      xy
+    </div>
+     <div class="tbl5 s4">
+     xy
+    </div>
+  </div>
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+      Auslastung IPS zert.
     </div>
     <div class="tbl5 s1">
       xy
