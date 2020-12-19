@@ -78,23 +78,6 @@ Die Positivitätsrate (Anzahl positiver Tests/alle durchgeführten Tests) ist ni
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Positivitätsrate
-    </div>
-    <div class="tbl5 s1">
-      <0.5 %
-    </div>
-     <div class="tbl5 s2">
-      0.6–1.5 %
-    </div>
-     <div class="tbl5 s3">
-      1.6–3 %
-    </div>
-     <div class="tbl5 s4">
-     >3 %
-    </div>
-  </div>
-  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s0">
       Aufklärung CT
     </div>
     <div class="tbl5 s1">
