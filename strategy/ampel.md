@@ -63,13 +63,13 @@
       7d-Inzidenz/100k
     </div>
     <div class="tbl5 s1">
-      <5
+      <7
     </div>
      <div class="tbl5 s2">
-      6–12
+      7–13
     </div>
      <div class="tbl5 s3">
-      13–20
+      14–20
     </div>
      <div class="tbl5 s4">
      >20
