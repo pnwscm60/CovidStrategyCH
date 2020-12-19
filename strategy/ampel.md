@@ -94,7 +94,7 @@
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Aufklärungsrate CT
+      Aufklärung CT
     </div>
     <div class="tbl5 s1">
       > 90 %
