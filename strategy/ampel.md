@@ -46,16 +46,16 @@
       Re
     </div>
     <div class="tbl5 s1">
-     xy
+     <0.7
     </div>
      <div class="tbl5 s2">
-      xy
+      0.7–0.89
     </div>
      <div class="tbl5 s3">
-      xy
+      0.9–1.09
     </div>
      <div class="tbl5 s4">
-      xy
+      >1.1
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -63,16 +63,16 @@
       7d-Inzidenz/100k
     </div>
     <div class="tbl5 s1">
-      xy
+      <5
     </div>
      <div class="tbl5 s2">
-      xy
+      6–12
     </div>
      <div class="tbl5 s3">
-      xy
+      13–20
     </div>
      <div class="tbl5 s4">
-     xy
+     >20
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -80,16 +80,16 @@
       Positivitätsrate
     </div>
     <div class="tbl5 s1">
-      xy
+      <0.5 %
     </div>
      <div class="tbl5 s2">
-      xy
+      0.6–1.5 %
     </div>
      <div class="tbl5 s3">
-      xy
+      1.6–3 %
     </div>
      <div class="tbl5 s4">
-     xy
+     >3 %
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -97,16 +97,16 @@
       Aufklärungsrate CT
     </div>
     <div class="tbl5 s1">
-      xy
+      > 90 %
     </div>
      <div class="tbl5 s2">
-      xy
+      80–90 %
     </div>
      <div class="tbl5 s3">
-      xy
+      70–80 %
     </div>
      <div class="tbl5 s4">
-     xy
+     < 70 %
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -114,16 +114,16 @@
       Auslastung IPS zert.
     </div>
     <div class="tbl5 s1">
-      xy
+      < 60 %
     </div>
      <div class="tbl5 s2">
-      xy
+      60–70 %
     </div>
      <div class="tbl5 s3">
-      xy
+      70–80 %
     </div>
      <div class="tbl5 s4">
-     xy
+     >80 %
     </div>
   </div>
 
