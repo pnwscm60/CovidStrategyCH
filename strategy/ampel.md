@@ -13,12 +13,13 @@
     <div class="twocol">
     <div class="ntext">
     Das Ampelsystem beinhaltet einfache und klar zu bestimmende Kriterien, die ab bestimmten Grenzwerten bzw. in bestimmten Kombinationen automatisch einen Wechsel der Alarmstufe auslösen. Mit dem Umschalten auf eine andere Stufe treten die entsprechenden Massnahmen innerhalb einer kurzen Frist von 36 Stunden in Kraft. Dies gilt für Verschärfungen und für Lockerungen.
-    Die beiden zentralen Ziele – verhindern von Todesfällen und Folgeerkrankungen einerseits, das Offen halten der Schulen zumindest der unteren Stufen – sind nur zu erreichen, wenn die Fallzahlen so tief bleiben, dass ein effizientes Contact Tracing möglich ist. Die Ausbreitung in Schulen der unteren Stufen kann nur mit Mühe beherrscht werden, weil viele Kinder asymptomatisch bleiben. Entsprechend reagiert das System früh auf steigende Infektionsraten.<br/>
+    Die beiden zentralen Ziele – verhindern von Todesfällen und Folgeerkrankungen einerseits, das Offen halten der Schulen zumindest der unteren Stufen – sind nur zu erreichen, wenn die Fallzahlen so tief bleiben, dass ein effizientes Contact Tracing möglich ist. Die Ausbreitung in Schulen der unteren Stufen kann nur mit Mühe beherrscht werden, weil viele Kinder asymptomatisch bleiben. Entsprechend reagiert das System früh auf steigende Infektionsraten.</div>
+      <div class="ntext">Im Kontext der teilweise sehr kleinen Schweizer Kantone und der dank kurzen Wegen starken Mobilität in der Schweiz, wäre zu überlegen, die Werte pro Region zu berechnen.</div>
     Folgende Kriterien werden laufend bestimmt:
       <ul>
-        <li><strong>Re</strong> Ein Re > 1 bedeutet ein exponentielles Wachstum, Re < 1 eine Abnahme, Re = 1 eine gleichbleibende Infektionsrate. Zu beachten ist, dass die Bestimmung des R<sub>e</sub> methodenbedingt mit einer Verzögerung von rund 10 Tagen erfolgt. In kleinen Kantonen und bei tiefen Fallzahlen ist Re weniger aussagekräftig. Zur Entscheidung wird der Konfidenzbereich verwendet, d. h. dass bei Re 0.97 [0.85–1.09] dies als Wert >1 angesehen wird.</li>
-        <li><strong>7-Tage-Inzidenz/100000 Einwohner*innen</strong> </li>
-        <li><strong>Positivitätsrate (Pos. Test/alle Tests)</strong></li>
+        <li><strong>Re</strong> Ein Re > 1 bedeutet ein exponentielles Wachstum, Re < 1 eine Abnahme, Re = 1 eine gleichbleibende Infektionsrate. Zu beachten ist, dass die Bestimmung des Re methodenbedingt mit einer Verzögerung von rund 10 Tagen erfolgt. In kleinen Kantonen und bei tiefen Fallzahlen ist Re weniger aussagekräftig. Zur Entscheidung wird der Konfidenzbereich verwendet, d. h. dass bei Re 0.97 [0.85–1.09] dies als Wert >1 angesehen wird.</li>
+        <li><strong>7-Tage-Inzidenz/100000 Einwohner*innen</strong> Die 7-Tageinzidenz der neu nachgewiesenen Infektionen wird verwendet, weil dieser Werte weniger auf Ausreisser reagiert, als der Tageswert. Ausgehend von der Initiative für eine pan-Europäische Strategie, in der als Grenze 10 Fälle pro Tag/Million Einwohner*innen genannt wird, ergibt sich eine 7-Tages-Inzidenz/100000 Einwohner*innen von 7.[Priesemann et al 2020]</li>
+        <li><strong>Positivitätsrate (Pos. Test/alle Tests)</strong> Die Positivitätsrate macht eine Aussage zur Anzahl der durchgeführten Tests </li>
          <li><strong>Aufklärungsrate des Contact Tracing</strong></li>
         <li><strong>Auslastung zertifizierte IPS-Betten</strong></li>
       </ul>
@@ -127,3 +128,5 @@
     </div>
   </div>
 
+Literatur
+Priesemann V et al. <em>Calling for pan-European commitment for rapid and sustained reduction in SARS-CoV-2 infections</em>. The Lancet, 2020, DOI:https://doi.org/10.1016/S0140-6736(20)32625-8 
