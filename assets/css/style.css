@@ -62,7 +62,7 @@ h4 {
 	column-count: 2; column-gap:1em;}
 .ntbl {
 	display:flex;width:100%;min-width:400px;}
-.tbl1 {width:79%;}
+.tbl1 {width:80%;}
 .tbl5 {
 	width:19.9%;}
 .st0,.st1,.st2,.st3,.st4,.s0,.s1,.s2,.s3,.s4,.s5 {
@@ -76,6 +76,7 @@ h4 {
 	border-right:1px solid #fff;
 	border-bottom:1px solid #fff;
 	color:#000;}
+.st00 {border-bottom:none;}
 .st1 {
 	background-color:#00cc99;
 	border-right:1px solid #fff;
