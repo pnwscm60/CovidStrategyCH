@@ -62,9 +62,9 @@ h4 {
 	column-count: 2; column-gap:1em;}
 .ntbl {
 	display:flex;width:100%;min-width:400px;}
-.tbl1 {width:80%;}
+.tbl1 {width:800px;}
 .tbl5 {
-	width:20%;}
+	width:200px;}
 .tbl0 {
 	width:200px;}
 .st0,.st1,.st2,.st3,.st4,.s0,.s1,.s2,.s3,.s4,.s5 {
