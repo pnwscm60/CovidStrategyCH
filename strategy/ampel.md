@@ -99,10 +99,10 @@
     <div class="tbl5 s0">
       Re
     </div>
-    <div class="tbl3 s1" style="margin-right:1em;">
+    <div class="tbl2 s1" style="margin-right:1em;">
      Stufenreduktion nur, wenn Re < 1
     </div>
-     <div class="tb3 s2">
+     <div class="tbl2 s2">
      Wenn Re > 1.2, 1 Stufe höher
     </div>
   </div>
