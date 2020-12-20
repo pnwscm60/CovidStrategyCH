@@ -1,8 +1,14 @@
-<style>
+<html>
+  <head>
+    <title>Ampelsystem</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="expires" content="0">
+  <style>
  /* FONTS */
  @import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700");
 </style>
-  
+  </head>
+  <body> 
  <div style="display:flex;"><h2>Ampelsystem</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div><div style="margin-left:0.5em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="https://github.com/pnwscm60/CovidStrategyCH/issues" style="color:#fff;">Mitarbeiten</a></div></div>
     <div class="twocol">
     <div class="ntext">
