@@ -96,14 +96,11 @@
     </div>
   </div>
   <div class="ntbl" style="margin-top:1em;display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s0" style="margin-right:1em;">
+    <div class="tbl5 s0">
       Re
     </div>
-    <div class="tbl2 s5" style="margin-right:1em;">
-     Stufenreduktion nur, wenn Re < 1
-    </div>
-     <div class="tbl2 s2">
-     Wenn Re > 1.2, 1 Stufe höher
+    <div class="tbl1 s5">
+     Stufenreduktion nur, wenn Re < 1 | wenn Re > 1.2 &#8680; 1 Stufe höher
     </div>
   </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
