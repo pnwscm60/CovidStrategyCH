@@ -28,7 +28,7 @@
     </div>
   </div>
   <div class="ntable" style="display:flex;width:100%;min-width:400px;margin-top:1em;">
-    <div class="tbl5 st0">
+    <div class="tbl5 s00">
       Kriterien
     </div>
     <div class="tbl5 st1">
@@ -45,7 +45,7 @@
     </div>
     </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s0">
+    <div class="tbl5 s00">
       7d-Inzidenz/100k
     </div>
     <div class="tbl5 s1">
@@ -62,7 +62,7 @@
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s0">
+    <div class="tbl5 s00">
       Aufklärung CT
     </div>
     <div class="tbl5 s1">
@@ -79,7 +79,7 @@
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s0">
+    <div class="tbl5 s00">
       Auslastung IPS zert.
     </div>
     <div class="tbl5 s1">
