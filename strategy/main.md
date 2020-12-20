@@ -34,7 +34,7 @@ Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei
   <li><strong><a href=""7-Tageinzidenz/100k Einwohner*innen</a></strong></li>
   <li><strong><a href="">Aufklärungsrate im Contact Tracing</a></strong></li>
   <li><strong><a href="">Belegung der zertifizierten IPS-Betten"></a></strong></li>
-  <li><strong><a href="RWert">R-Wert</a></strong></li>
+  <li><strong><a href="RWert">Re-Wert</a></strong></li>
 </ul>
 </div>
 
