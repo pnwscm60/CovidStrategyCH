@@ -19,10 +19,10 @@
       <ul>
         <li><strong>Re</strong> Ein Re > 1 bedeutet ein exponentielles Wachstum, Re < 1 eine Abnahme, Re = 1 eine gleichbleibende Infektionsrate. Zu beachten ist, dass die Bestimmung des Re methodenbedingt mit einer Verzögerung von rund 10 Tagen erfolgt. In kleinen Kantonen und bei tiefen Fallzahlen ist Re weniger aussagekräftig. Zur Entscheidung wird der Konfidenzbereich verwendet, d. h. dass bei Re 0.97 [0.85–1.09] dies als Wert >1 angesehen wird.</li>
         <li><strong>7-Tage-Inzidenz/100000 Einwohner*innen</strong> Die 7-Tageinzidenz der neu nachgewiesenen Infektionen wird verwendet, weil dieser Werte weniger auf Ausreisser reagiert, als der Tageswert. Ausgehend von der Initiative für eine pan-Europäische Strategie, in der als Grenze 10 Fälle pro Tag/Million Einwohner*innen genannt wird, ergibt sich eine 7-Tages-Inzidenz/100000 Einwohner*innen von 7.[Priesemann et al 2020]</li>
-         <li><strong>Aufklärungsrate des Contact Tracing</strong></li>
+         <li><strong>Aufklärungsrate des Contact Tracing</strong> Das Contact Tracing (und die nachfolgende Quarantäne/Isolation) ist die letzte Abwehrmöglichkeit, wenn das Virus es trotz der anderen Massnahmen schafft, Menschen zu infizieren. Wegen der Überdispersion muss das Tracing vor- und rückwärts erfolgen [Low 2020]. Nur so kann eine hohe Aufklärungsrate und damit Unterbrechung der Infektionsketten sichergestellt werden.</li>
         <li><strong>Auslastung zertifizierte IPS-Betten</strong></li>
       </ul>
-Die Positivitätsrate (Anzahl positiver Tests/alle durchgeführten Tests) ist nicht als Kriterium aufgenommen, da deren Interpretation problematisch und mit der Einführung der Antigenschnelltests noch schwieriger geworden ist.
+Die Positivitätsrate (Anzahl positiver Tests/alle durchgeführten Tests) ist nicht als Kriterium aufgenommen, da deren Interpretation grundsätzlich problematisch und mit der Einführung der Antigenschnelltests noch schwieriger geworden ist.
     </div>
   </div>
   <div class="ntable" style="display:flex;width:100%;min-width:400px;">
@@ -110,6 +110,8 @@ Die Positivitätsrate (Anzahl positiver Tests/alle durchgeführten Tests) ist ni
      > 80 %
     </div>
   </div>
-
-Literatur
-Priesemann V et al. <em>Calling for pan-European commitment for rapid and sustained reduction in SARS-CoV-2 infections</em>. The Lancet, 2020, DOI:https://doi.org/10.1016/S0140-6736(20)32625-8 
+<div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
+  <h3>Literatur</h3>
+  <div id="ref1">Low N. Contact tracing for COVID-19</div>
+<div id="ref2">Priesemann V et al. <em>Calling for pan-European commitment for rapid and sustained reduction in SARS-CoV-2 infections</em>. The Lancet, 2020, DOI:https://doi.org/10.1016/S0140-6736(20)32625-8</div>
+    </div>
