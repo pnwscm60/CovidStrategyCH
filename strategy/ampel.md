@@ -25,7 +25,7 @@
 Die Positivitätsrate (Anzahl positiver Tests/alle durchgeführten Tests) ist nicht als Kriterium aufgenommen, da deren Interpretation grundsätzlich problematisch und mit der Einführung der Antigenschnelltests noch schwieriger geworden ist.
     </div>
   </div>
-  <div class="ntable" style="display:flex;width:100%;min-width:400px;">
+  <div class="ntable" style="display:flex;width:100%;min-width:400px;margin-top:1em;">
     <div class="tbl5 st0">
       Kriterien
     </div>
@@ -112,6 +112,6 @@ Die Positivitätsrate (Anzahl positiver Tests/alle durchgeführten Tests) ist ni
   </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
   <h3>Literatur</h3>
-  <div id="ref1">Low N. Contact tracing for COVID-19</div>
-<div id="ref2">Priesemann V et al. <em>Calling for pan-European commitment for rapid and sustained reduction in SARS-CoV-2 infections</em>. The Lancet, 2020, DOI:https://doi.org/10.1016/S0140-6736(20)32625-8</div>
+  <div id="ref1">Low N. Contact tracing for COVID-19. WHO/GOARN Global Consultation on Contact Tracing for COVID-19. https://ispmbern.github.io/covid-19/Forward_backward_WHO_201007.pdf, abgerufen 18.12.2020</div>
+<div id="ref2">Priesemann V et al. Calling for pan-European commitment for rapid and sustained reduction in SARS-CoV-2 infections. The Lancet, 2020, DOI:https://doi.org/10.1016/S0140-6736(20)32625-8, abgerufen 18.12.2020</div>
     </div>
