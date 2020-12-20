@@ -40,6 +40,6 @@ Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei
 </div>
 
 
-## Literatur
+<h3>Literatur</h3>
 Pueyo T. Coronavirus: The Swiss Cheese strategy. https://tomaspueyo.medium.com/coronavirus-the-swiss-cheese-strategy-d6332b5939de. Abgerufen 5.12.2020<br/>
 Reason J. Human error: models and management. BMJ. 2000; 320: 768–770<br/>
