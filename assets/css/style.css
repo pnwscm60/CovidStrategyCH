@@ -63,10 +63,9 @@ h4 {
 .ntbl {
 	display:flex;width:100%;min-width:400px;}
 .tbl1 {width:720px;}
-.tbl5 {
-	width:180px;}
-.tbl0 {
-	width:180px;}
+.tbl5, .tbl0 {
+	width:180px;
+	font-size:1.2em;}
 .st0,.st1,.st2,.st3,.st4,.s0,.s1,.s2,.s3,.s4,.s5 {
 	font-size:1.2em;
 	padding:0.5em;}
