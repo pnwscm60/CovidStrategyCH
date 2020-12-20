@@ -45,7 +45,7 @@
     </div>
     </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl0 s00">
+    <div class="tbl0 st0">
       7d-Inzidenz/100k
     </div>
     <div class="tbl5 s1">
@@ -62,7 +62,7 @@
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl0 s00">
+    <div class="tbl0 st0">
       Aufklärung CT
     </div>
     <div class="tbl5 s1">
@@ -79,7 +79,7 @@
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl0 s00">
+    <div class="tbl0 st0">
       Auslastung IPS zert.
     </div>
     <div class="tbl5 s1">
@@ -96,7 +96,7 @@
     </div>
   </div>
   <div class="ntbl" style="margin-top:1em;display:flex;width:100%;min-width:400px;">
-    <div class="tbl0 s00">
+    <div class="tbl0 st0">
       Re
     </div>
     <div class="tbl1 s5">
