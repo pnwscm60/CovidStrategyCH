@@ -18,8 +18,8 @@
       <div class="ntext">Im Kontext der teilweise sehr kleinen Schweizer Kantone und der dank kurzen Wegen starken Mobilität in der Schweiz, wäre zu überlegen, die Werte pro Region zu berechnen.
     Folgende Kriterien werden laufend bestimmt:
       <ul>
-        <li><strong>Re</strong> Ein Re > 1 bedeutet ein exponentielles Wachstum, Re < 1 eine Abnahme, Re = 1 eine gleichbleibende Infektionsrate. Zu beachten ist, dass die Bestimmung des Re methodenbedingt mit einer Verzögerung von rund 10 Tagen erfolgt. In kleinen Kantonen und bei tiefen Fallzahlen ist Re weniger aussagekräftig. Zur Entscheidung wird der Konfidenzbereich verwendet, d. h. dass bei Re 0.97 [0.85–1.09] dies als Wert >1 angesehen wird.</li>
         <li><strong>7-Tage-Inzidenz/100000 Einwohner*innen</strong> Die 7-Tageinzidenz der neu nachgewiesenen Infektionen wird verwendet, weil dieser Werte weniger auf Ausreisser reagiert, als der Tageswert. Ausgehend von der Initiative für eine pan-Europäische Strategie, in der als Grenze 10 Fälle pro Tag/Million Einwohner*innen genannt wird, ergibt sich eine 7-Tages-Inzidenz/100000 Einwohner*innen von 7 [Priesemann et al 2020].</li>
+        <li><strong>Re</strong> Ein Re > 1 bedeutet ein exponentielles Wachstum, Re < 1 eine Abnahme, Re = 1 eine gleichbleibende Infektionsrate. Zu beachten ist, dass die Bestimmung des Re methodenbedingt mit einer Verzögerung von rund 10 Tagen erfolgt. In kleinen Kantonen und bei tiefen Fallzahlen ist Re weniger aussagekräftig. Zur Entscheidung wird der Konfidenzbereich verwendet, d. h. dass bei Re 0.97 [0.85–1.09] dies als Wert >1 angesehen wird.</li>
          <li><strong>Aufklärungsrate des Contact Tracing</strong> Das Contact Tracing (und die nachfolgende Quarantäne/Isolation) ist die letzte Abwehrmöglichkeit, wenn das Virus es trotz der anderen Massnahmen schafft, Menschen zu infizieren. Wegen der Überdispersion muss das Tracing vor- und rückwärts erfolgen [Low 2020]. Nur so kann eine hohe Aufklärungsrate und damit Unterbrechung der Infektionsketten sichergestellt werden. Hier ist eine frühzeitige Steuerung wichtig, weil das Contact Tracing nicht beliebig skalierbar ist und bereits bei mässig hohen Fallzahlen überfordert wird.</li>
         <li><strong>Auslastung zertifizierte IPS-Betten</strong> Intensivpflegestationen (IPS) sind bei der Behandlung die letzte Abwehrlinie. Eine Überlastung führt unweigerlich zu steigenden Todesfallzahlen, auch unter nicht-Covid-19-Patient*innen. Das Kriterium ist insofern problematisch, als es gegenüber dem Anstieg der Infektionen ein um 2–3 Wochen verzögertes Signal ergibt. Entsprechend müssen hier grosszügige Sicherheitsgrenzen enthalten sein. Basis für die Angabe der zertifizierten Betten ist die entsprechende Publikation der SGI [SGI 2020].</li>
       </ul>
@@ -46,23 +46,6 @@
     </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Re
-    </div>
-    <div class="tbl5 s1">
-     < 0.7
-    </div>
-     <div class="tbl5 s2">
-      0.7–0.89
-    </div>
-     <div class="tbl5 s3">
-      0.9–1.09
-    </div>
-     <div class="tbl5 s4">
-      > 1.1
-    </div>
-  </div>
-  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s0">
       7d-Inzidenz/100k
     </div>
     <div class="tbl5 s1">
@@ -76,6 +59,23 @@
     </div>
      <div class="tbl5 s4">
      > 20
+    </div>
+  </div>
+    <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+      Re
+    </div>
+    <div class="tbl5 s1">
+     < 0.7
+    </div>
+     <div class="tbl5 s2">
+      0.7–0.89
+    </div>
+     <div class="tbl5 s3">
+      0.9–1.09
+    </div>
+     <div class="tbl5 s4">
+      > 1.1
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
