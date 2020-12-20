@@ -10,7 +10,7 @@
   </head>
   <body>
   <header>
- <div style="display:flex;"><h2>Ampelsystem</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div><div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Mitarbeiten</a></div></div>
+ <div style="display:flex;"><h2>Ampelsystem</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div><div style="margin-left:0.5em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="https://github.com/pnwscm60/CovidStrategyCH/issues" style="color:#fff;">Mitarbeiten</a></div></div>
     <div class="twocol">
     <div class="ntext">
     Das Ampelsystem beinhaltet einfache und klar zu bestimmende Kriterien, die ab bestimmten Grenzwerten bzw. in bestimmten Kombinationen automatisch einen Wechsel der Alarmstufe auslösen. Mit dem Umschalten auf eine andere Stufe treten die entsprechenden Massnahmen innerhalb einer kurzen Frist von 36 Stunden in Kraft. Dies gilt für Verschärfungen und für Lockerungen.
