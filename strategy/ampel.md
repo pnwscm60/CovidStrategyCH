@@ -31,16 +31,16 @@
       Kriterien
     </div>
     <div class="tbl5 st1">
-      Stufe 1 [2+]
+      Stufe 1
     </div>
     <div class="tbl5 st2">
-      Stufe 2 [2+]
+      Stufe 2
     </div>
     <div class="tbl5 st3">
-      Stufe 3 [2+]
+      Stufe 3
     </div>
     <div class="tbl5 st4">
-      Stufe 4 [1+]
+      Stufe 4
     </div>
     </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
