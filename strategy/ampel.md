@@ -61,23 +61,6 @@
      > 20
     </div>
   </div>
-    <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s0">
-      Re
-    </div>
-    <div class="tbl5 s1">
-     < 0.7
-    </div>
-     <div class="tbl5 s2">
-      0.7–0.89
-    </div>
-     <div class="tbl5 s3">
-      0.9–1.09
-    </div>
-     <div class="tbl5 s4">
-      > 1.1
-    </div>
-  </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
       Aufklärung CT
@@ -110,6 +93,17 @@
     </div>
      <div class="tbl5 s4">
      > 70 %
+    </div>
+  </div>
+  <div class="ntbl" style="margin-top:1em;display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+      Re
+    </div>
+    <div class="tbl3 s1" style="margin-right:1em;">
+     Stufenreduktion nur, wenn Re < 1
+    </div>
+     <div class="tb3 s2">
+     Wenn Re > 1.2, 1 Stufe höher
     </div>
   </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
