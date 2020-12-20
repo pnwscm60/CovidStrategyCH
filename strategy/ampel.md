@@ -96,7 +96,7 @@
     </div>
   </div>
   <div class="ntbl" style="margin-top:1em;display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s0">
+    <div class="tbl5 s00">
       Re
     </div>
     <div class="tbl1 s5">
