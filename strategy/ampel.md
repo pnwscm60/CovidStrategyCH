@@ -96,10 +96,10 @@
     </div>
   </div>
   <div class="ntbl" style="margin-top:1em;display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s0">
+    <div class="tbl5 s0" style="margin-right:1em;">
       Re
     </div>
-    <div class="tbl2 s1" style="margin-right:1em;">
+    <div class="tbl2 s5" style="margin-right:1em;">
      Stufenreduktion nur, wenn Re < 1
     </div>
      <div class="tbl2 s2">
