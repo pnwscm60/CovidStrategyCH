@@ -32,6 +32,7 @@ h3 {
 h4 {
 	font-size: 14px; line-height:14px;
 	}
+#forkme_banner {display:none;}
 .nodisplay {
 	display: none
 	}
@@ -61,12 +62,13 @@ h4 {
 	column-count: 2; column-gap:1em;}
 .ntbl {
 	display:flex;width:100%;min-width:400px;}
+.tbl2 {width:40%;}
 .tbl5 {
 	width:19.9%;}
-.st0,.st1,.st2,.st3,.st4,.s0,.s1,.s2,.s3,.s4 {
+.st0,.st1,.st2,.st3,.st4,.s0,.s1,.s2,.s3,.s4,.s5 {
 	font-size:1.3em;
 	padding:0.5em;}
-.s0,.s1,.s2,.s3,.s4 {
+.s0,.s1,.s2,.s3,.s4,.s5 {
 	font-size:1.1em;
 	border-right:1px solid #fff;}
 .st0 {
@@ -115,6 +117,9 @@ h4 {
 	color:#000;
 	border-bottom:7px solid #ff0000;
 	}
+.s5 {
+	background-color:#dfdfdf;
+	color:#000;}
 @media only screen and (max-width: 800px) {
 	body {
 	margin: 0.5em 1em 1em 1em;
