@@ -27,7 +27,7 @@
 <div class="ntext">Die Positivitätsrate (Anzahl positiver Tests/alle durchgeführten Tests) ist nicht als Kriterium aufgenommen, da deren Interpretation grundsätzlich problematisch und mit der Einführung der Antigenschnelltests noch schwieriger geworden ist.</div>
     </div>
   </div>
-  <div class="ntable" style="display:flex;width:100%;min-width:400px;margin-top:1em;">
+  <div class="ntable" style="display:flex;width:100%;margin-top:1em;">
     <div class="tbl0 st0">
       Kriterien
     </div>
