@@ -66,10 +66,10 @@ h4 {
 .tbl5 {
 	width:20%;
 	max-width:200px;}
-.st0,.st1,.st2,.st3,.st4,.s0,.s1,.s2,.s3,.s4,.s5,.s00 {
+.st0,.st1,.st2,.st3,.st4,.s0,.s1,.s2,.s3,.s4,.s5 {
 	font-size:1.3em;
 	padding:0.5em;}
-.s0,.s1,.s2,.s3,.s4,.s5,.s00 {
+.s0,.s1,.s2,.s3,.s4,.s5 {
 	font-size:1.1em;
 	border-right:1px solid #fff;}
 .st0 {
@@ -78,8 +78,11 @@ h4 {
 	border-bottom:1px solid #fff;
 	color:#000;}
 .s00 {border-bottom:none;
+	width:200px;
 	background-color:#dfdfdf;
-	color:#000;}
+	color:#000;
+	font-size:1.1em;
+	border-right:1px solid #fff;}
 .st1 {
 	background-color:#00cc99;
 	border-right:1px solid #fff;
