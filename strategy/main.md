@@ -1,4 +1,16 @@
-## Pandemiestrategie
+<html>
+  <head>
+    <title>Ampelsystem</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="expires" content="0">
+  <style>
+ /* FONTS */
+ @import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700");
+</style>
+  </head>
+  <body>
+  <header>
+ <div style="display:flex;"><h2>Strategie Pandemiemanagement</h2> <div style="margin-left:0.5em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="https://github.com/pnwscm60/CovidStrategyCH/issues" style="color:#fff;">Mitarbeiten</a></div></div>
 <div class="twocol">
 <div class="ntext">
 Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei Ebenen und einem darübergelegten Ampelsystem gebildet. Vier übergeordnete Module bilden die Hauptgliederungsebene. Jedes dieser Module enthält eine unterschiedliche Anzahl von weiteren Komponenten («Käsescheiben»). Jede dieser Komponenten entspricht einer Massnahme, mit der die Ausbreitung der Pandemie, d. h. die Reproduktion des Virus verhindert werden soll. Grundzüge wurden von Pueyo [Pueyo 2020] beschrieben. Der Massnahmenkatalog orientiert sich an Modellen aus Irland, Island, Neuseeland, Norwegen und weiteren Staaten, die über ein erfolgreiches Pandemiemanagement verfügen.
