@@ -45,10 +45,10 @@
     </div>
     </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s00">
+    <div class="tbl0 s00">
       7d-Inzidenz/100k
     </div>
-    <div class="tbl0 s1">
+    <div class="tbl5 s1">
       < 7
     </div>
      <div class="tbl5 s2">
@@ -62,10 +62,10 @@
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s00">
+    <div class="tbl0 s00">
       Aufklärung CT
     </div>
-    <div class="tbl0 s1">
+    <div class="tbl5 s1">
       > 90 %
     </div>
      <div class="tbl5 s2">
@@ -96,7 +96,7 @@
     </div>
   </div>
   <div class="ntbl" style="margin-top:1em;display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s00">
+    <div class="tbl0 s00">
       Re
     </div>
     <div class="tbl1 s5">
