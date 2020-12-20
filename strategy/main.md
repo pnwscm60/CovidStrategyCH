@@ -31,7 +31,7 @@ Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei
 <div class="ntext">
 Über alle Massnahmen (in unserem Modell die Komponenten der vier Module) wird ein Raster mit 4 Alarmstufen (Ampel) gelegt. Zur Bestimmung der aktuell geltenden Alarmstufe gelten folgende Kriterien:</div>
 <ul>
-  <li><strong><a href=""7-Tageinzidenz/100k Einwohner*innen</a></strong></li>
+  <li><strong><a href="">7-Tageinzidenz/100k Einwohner*innen</a></strong></li>
   <li><strong><a href="">Aufklärungsrate im Contact Tracing</a></strong></li>
   <li><strong><a href="">Belegung der zertifizierten IPS-Betten"></a></strong></li>
   <li><strong><a href="RWert">Re-Wert</a></strong></li>
