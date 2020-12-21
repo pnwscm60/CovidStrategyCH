@@ -53,7 +53,7 @@
       + Testzentren
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;margin-top:1em;">
     <div class="tbl5 s0">
       Contact Tracing
     </div>
