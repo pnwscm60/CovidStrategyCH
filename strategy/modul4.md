@@ -21,7 +21,7 @@
   </div>
   <div class="ntable" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 st0">
-      Testen bei Arzt
+      Komponente
     </div>
     <div class="tbl5 st1">
       Stufe 1
@@ -36,55 +36,37 @@
       Stufe 4
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Schnelltests
+      Testmöglichkeiten
     </div>
     <div class="tbl5 s1">
-     xy
+     Arzt/Klinik
     </div>
      <div class="tbl5 s2">
-      xy
+      + Testzentren
     </div>
      <div class="tbl5 s3">
-      xy
+      + Testzentren
     </div>
      <div class="tbl5 s4">
-      xy
+      + Testzentren
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
       Contact Tracing
     </div>
-    <div class="tbl5 s1">
-      xy
-    </div>
-     <div class="tbl5 s2">
-      xy
-    </div>
-     <div class="tbl5 s3">
-      xy
-    </div>
-     <div class="tbl5 s4">
-     xy
+    <div class="tbl1 s1">
+      Adäquat dotiert (Faustregel: 1 Tracer/Tagesinzidenz), Effizienz kontrolliert
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
       Isolation & Kontrolle
     </div>
-    <div class="tbl5 s1">
-      xy
-    </div>
-     <div class="tbl5 s2">
-      xy
-    </div>
-     <div class="tbl5 s3">
-      xy
-    </div>
-     <div class="tbl5 s4">
-     xy
+    <div class="tbl1 s1">
+      Umsetzung inkl. Kontrollsystem
     </div>
   </div>
 
