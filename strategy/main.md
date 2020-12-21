@@ -27,7 +27,7 @@ Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei
   <li><strong><a href="modul4">Infektion aufspüren + isolieren</a></strong><a href="modul4" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a><br/>Kommt es trotzdem zu einer Infektion, muss diese aufgespürt und isoliert werden, damit sich das Virus nicht weiter verbreiten kann.</li>
 </ol>
 
-<div style="display:flex;"><h2><a a href="ampel">Ampelsteuerung</a></h2><a href="ampel" style="width:1em;height:1.2em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></div>
+<div style="display:flex;"><h2><a a href="ampel">Ampelsteuerung</a></h2><a href="ampel" style="width:1em;height:1.3em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></div>
 <div class="ntext">
 Über alle Massnahmen (in unserem Modell die Komponenten der vier Module) wird ein Raster mit 4 Alarmstufen (Ampel) gelegt. Zur Bestimmung der aktuell geltenden Alarmstufe gelten folgende Kriterien:</div>
 <ul>
