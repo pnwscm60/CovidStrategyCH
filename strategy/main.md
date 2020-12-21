@@ -21,20 +21,20 @@ Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei
 <div class="ntext">Die vier übergeordneten Module bilden vier unterschiedliche Angriffspunkte ab, mit denen ein Pandemie bekämpft werden kann:</div>
 
 <ol>
-  <li><strong><a href="modul1">Virus nicht ins Land lassen</a></strong> <a href="modul1" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a><br/>Gelangt das Virus gar nicht erst ins Land, ist keine Verbreitung möglich. Da keine vollständige Isolation möglich/sinnvoll ist, wird es immer einige Fälle von importierten Infektionen geben. Daher sind weitere Module als «Auffangnetz» notwendig.</li>
-  <li><strong><a href="modul2">Virus vom Menschen fernhalten</a></strong><br/>Überwindet das Virus das Modul 1 und gelangt ins Land, müssen Massnahmen installiert werden, die verhindern, dass das Virus zu den Menschen gelangt. Dies können beispielsweise Einschränkungen von Gruppengrössen, Veranstaltungsverbote, Schliessen von Restaurants und Bars sein.</li>
-  <li><strong><a href="modul3">Infektion mit dem Virus verhindern</a></strong><br/>Gelangt das Virus trotzdem zu den Menschen, soll so weit als möglich verhindert werden, dass es zu einer Infektion kommt.</li>
-  <li><strong><a href="modul4">Infektion aufspüren + isolieren</a></strong><br/>Kommt es trotzdem zu einer Infektion, muss diese aufgespürt und isoliert werden, damit sich das Virus nicht weiter verbreiten kann.</li>
+  <li><strong><a href="modul1">Virus nicht ins Land lassen</a></strong><a href="modul1" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a><br/>Gelangt das Virus gar nicht erst ins Land, ist keine Verbreitung möglich. Da keine vollständige Isolation möglich/sinnvoll ist, wird es immer einige Fälle von importierten Infektionen geben. Daher sind weitere Module als «Auffangnetz» notwendig.</li>
+  <li><strong><a href="modul2">Virus vom Menschen fernhalten</a></strong><a href="modul2" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a><br/>Überwindet das Virus das Modul 1 und gelangt ins Land, müssen Massnahmen installiert werden, die verhindern, dass das Virus zu den Menschen gelangt. Dies können beispielsweise Einschränkungen von Gruppengrössen, Veranstaltungsverbote, Schliessen von Restaurants und Bars sein.</li>
+  <li><strong><a href="modul3">Infektion mit dem Virus verhindern</a></strong><a href="modul3" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a><br/>Gelangt das Virus trotzdem zu den Menschen, soll so weit als möglich verhindert werden, dass es zu einer Infektion kommt.</li>
+  <li><strong><a href="modul4">Infektion aufspüren + isolieren</a></strong><a href="modul4" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a><br/>Kommt es trotzdem zu einer Infektion, muss diese aufgespürt und isoliert werden, damit sich das Virus nicht weiter verbreiten kann.</li>
 </ol>
 
 <div style="display:flex;"><h2><a a href="ampel">Ampelsteuerung</a></h2><a href="ampel" style="width:1em;height:1.2em;margin-left:1em;padding:1px 5px 3px 9px;background-color:#888;color:#fff;">&#9658;</a></div>
 <div class="ntext">
 Über alle Massnahmen (in unserem Modell die Komponenten der vier Module) wird ein Raster mit 4 Alarmstufen (Ampel) gelegt. Zur Bestimmung der aktuell geltenden Alarmstufe gelten folgende Kriterien:</div>
 <ul>
-  <li><strong><a href="">7-Tageinzidenz/100k Einwohner*innen</a></strong></li>
-  <li><strong><a href="">Aufklärungsrate im Contact Tracing</a></strong></li>
-  <li><strong><a href="">Belegung der zertifizierten IPS-Betten</a></strong></li>
-  <li><strong><a href="RWert">Re-Wert</a></strong></li>
+  <li><strong><a href="">7-Tageinzidenz/100k Einwohner*innen</a></strong><a href="inzidenz" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></li>
+  <li><strong><a href="">Aufklärungsrate im Contact Tracing</a></strong><a href="ctrace" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></li>
+  <li><strong><a href="">Belegung der zertifizierten IPS-Betten</a></strong><a href="ipsbed" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></li>
+  <li><strong><a href="RWert">Re-Wert</a></strong><a href="RWert" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></li>
 </ul>
 </div>
 
