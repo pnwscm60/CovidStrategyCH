@@ -69,4 +69,12 @@
       Umsetzung inkl. Kontrollsystem
     </div>
   </div>
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+      Covid-App
+    </div>
+    <div class="tbl1 s0">
+      Adäquate Funktion, Zustellung Code innert 24h
+    </div>
+  </div>
 
