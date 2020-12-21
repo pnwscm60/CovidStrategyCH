@@ -57,7 +57,7 @@
     <div class="tbl5 s0">
       Contact Tracing
     </div>
-    <div class="tbl1 s1">
+    <div class="tbl1 s0">
       Adäquat dotiert (Faustregel: 1 Tracer/Tagesinzidenz), Effizienz kontrolliert
     </div>
   </div>
@@ -65,7 +65,7 @@
     <div class="tbl5 s0">
       Isolation & Kontrolle
     </div>
-    <div class="tbl1 s1">
+    <div class="tbl1 s0">
       Umsetzung inkl. Kontrollsystem
     </div>
   </div>
