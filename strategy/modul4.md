@@ -19,7 +19,7 @@
       </ul>
     </div>
   </div>
-  <div class="ntable" style="display:flex;width:100%;min-width:400px;">
+  <div class="ntable" style="display:flex;width:100%;min-width:400px; margin-top:1em;">
     <div class="tbl5 st0">
       Komponente
     </div>
@@ -64,11 +64,11 @@
       + Gesundheitsinstitutionen
     </div>
      <div class="tbl5 s3">
-      + Gesundheitsinstitutionen
+      + Gesundheitsinstitutionen<br/>
       + Schulen
     </div>
      <div class="tbl5 s4">
-      + Gesundheitsinstitutionen
+      + Gesundheitsinstitutionen<br/>
        + Massentests
     </div>
   </div>
@@ -82,10 +82,10 @@
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Isolation & Kontrolle
+      Isolation & Quarantäne
     </div>
     <div class="tbl1 s0">
-      Umsetzung inkl. Kontrollsystem
+      Quarantänehotels, Umsetzung inkl. Kontrollsystem 
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
