@@ -93,7 +93,8 @@
       Covid-App
     </div>
     <div class="tbl1 s0">
-      Adäquate Funktion, Zustellung Code innert 24h
+      Adäquate Funktion, Zustellung Code innert 24h<br/>
+      Minimale Verbreitung 70 %, damit Lockerungen Stufen 2/1 möglich
     </div>
   </div>
 
