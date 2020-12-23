@@ -16,11 +16,10 @@
       <ul>
         <li><strong>Gruppengrösse</strong> Die Reduktion sozialer Kontakte bedingt adäquate Einschränkungen der Gruppengrössen, die je nach Situation (innen/aussen unterschiedlich ausfallen.</li>
         <li><strong>Events</strong> Text</li>
-        <li><strong>Arbeitsort</strong> Beim Arbeitsort geht es insbesondere um die Möglichkeit, die Arbeit im Homeoffice zu erledigen. Davon ausgenommen sind verständlicherweise Handwerksberufe, Produktionsstätten usw.</li>
-        <li><strong>Öffnungszeiten</strong> Text</li>
-        <li><strong>Läden Grundbedarf</strong> Text</li>
-        <li><strong>Andere Läden</strong> Text</li>
-        <li><strong>Restaurants</strong> Text</li>
+        <li><strong>Arbeitsort</strong> Beim Arbeitsort geht es insbesondere um die Möglichkeit, die Arbeit im Homeoffice zu erledigen. Davon ausgenommen sind verständlicherweise Handwerksberufe, Produktionsstätten usw. Ab Stufe 2 gilt in allen Innenräumen Maskenpflicht.</li>
+        <li><strong>Läden Grundbedarf</strong> Läden für den Grundbedarf sollen immer zugänglich sein. Ab Stufe 1 gelten Massnahmen zur Einhaltung des Mindestabstandes. In den Stufen 3 und 4 gelten Beschränkungen für die Anzahl der Kunden im Geschäft (abhängig von der Fläche).</li>
+        <li><strong>Andere Läden</strong> Ab Stufe 1 gelten Massnahmen zur Einhaltung des Mindestabstandes. In den Stufen 2 und 3 gelten Beschränkungen für die Anzahl der Kunden im Geschäft (abhängig von der Fläche). In Stufe 4 werden diese Läden geschlossen.</li>
+        <li><strong>Restaurants</strong> In Restaurants gilt eine Begrenzung der Anzahl Tische (mindestabstand zwischen Tischen 2 m, in Stufen 2 und 3 gelten Begrenzungen für die Anzahl Gäste an einem Tisch. In Stufe 3 dürfen nur Personen aus max 2 Haushalten an einem Tisch sitzen. In Stufe 4 werden Restaurants geschlossen.</li>
         <li><strong>Bars & Clubs</strong> Text</li>
         <li><strong>Hotels</strong> Text</li>
         <li><strong>Massage, Coiffeur</strong> Text</li>
@@ -32,7 +31,7 @@
       </ul>
     </div>
   </div>
-  <div class="ntable" style="display:flex;width:100%;min-width:400px;">
+  <div class="ntable" style="display:flex;width:100%;min-width:400px;margin-top:1em;">
     <div class="tbl5 st0">
       Komponente
     </div>
@@ -122,33 +121,33 @@
   
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Öffnungszeiten<br/>Läden Grundbedarf
+      Läden Grundbedarf
     </div>
     <div class="tbl5 s1">
-     normal
+     offen
     </div>
      <div class="tbl5 s2">
-      normal
+      offen
     </div>
      <div class="tbl5 s3">
-      normal
+      offen<br/>Kunden limitiert
     </div>
      <div class="tbl5 s4">
-      normal
+      offen<br/>Kunden limitiert
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Öffnungszeiten<br/>andere Läden
+      Andere Läden
     </div>
     <div class="tbl5 s1">
-     normal
+     offen
     </div>
      <div class="tbl5 s2">
-      normal
+      offen<br/>Kunden limitiert
     </div>
      <div class="tbl5 s3">
-      normal
+      offen<br/>Kunden limitiert
     </div>
      <div class="tbl5 s4">
       geschlossen
