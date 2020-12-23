@@ -105,67 +105,53 @@
       Arbeitsort
     </div>
     <div class="tbl5 s1">
-      Keine Einschränkung
+      Homeoffice empfohlen
     </div>
      <div class="tbl5 s2">
-      Homeoffice
+      Homeoffice empfohlen<br/>
+      +keine Präsenzsitzungen
     </div>
      <div class="tbl5 s3">
-      Homeoffice
+      Homeoffice Pflicht
     </div>
      <div class="tbl5 s4">
-      Homeoffice
+      Homeoffice zwingend<br/>
+      nur unverzichtbare Berufe
     </div>
   </div>
+  
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Öffnungszeiten
+      Öffnungszeiten<br/>Läden Grundbedarf
     </div>
     <div class="tbl5 s1">
-     xy
+     normal
     </div>
      <div class="tbl5 s2">
-      xy
+      normal
     </div>
      <div class="tbl5 s3">
-      xy
+      normal
     </div>
      <div class="tbl5 s4">
-      xy
-    </div>
-  </div>
-  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
-    <div class="tbl5 s0">
-      Läden Grundbedarf
-    </div>
-    <div class="tbl5 s1">
-     xy
-    </div>
-     <div class="tbl5 s2">
-      xy
-    </div>
-     <div class="tbl5 s3">
-      xy
-    </div>
-     <div class="tbl5 s4">
-      xy
+      normal
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Andere Läden
+      Öffnungszeiten<br/>andere Läden
     </div>
     <div class="tbl5 s1">
-     xy
+     normal
     </div>
      <div class="tbl5 s2">
-      xy
+      normal
     </div>
      <div class="tbl5 s3">
-      xy
+      normal
     </div>
      <div class="tbl5 s4">
-      xy
+      geschlossen
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -173,16 +159,16 @@
       Restaurants
     </div>
     <div class="tbl5 s1">
-     xy
+     offen
     </div>
      <div class="tbl5 s2">
-      xy
+      offen, max. 6/Tisch
     </div>
      <div class="tbl5 s3">
-      xy
+      offen, max. 4/Tisch
     </div>
      <div class="tbl5 s4">
-      xy
+      geschlossen
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -190,16 +176,16 @@
       Bar & Clubs
     </div>
     <div class="tbl5 s1">
-     xy
+     offen
     </div>
      <div class="tbl5 s2">
-      xy
+      offen
     </div>
      <div class="tbl5 s3">
-      xy
+      geschlossen
     </div>
      <div class="tbl5 s4">
-      xy
+      geschlossen
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -207,16 +193,16 @@
       Hotels
     </div>
     <div class="tbl5 s1">
-     xy
+     offen
     </div>
      <div class="tbl5 s2">
-      xy
+      offen
     </div>
      <div class="tbl5 s3">
-      xy
+      offen
     </div>
      <div class="tbl5 s4">
-      xy
+      geschlossen
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -224,16 +210,16 @@
       Massage, Coiffeur
     </div>
     <div class="tbl5 s1">
-     xy
+     offen
     </div>
      <div class="tbl5 s2">
-      xy
+      offen
     </div>
      <div class="tbl5 s3">
-      xy
+      offen
     </div>
      <div class="tbl5 s4">
-      xy
+      geschlossen
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -241,16 +227,16 @@
       Arzt, Zahnarzt, Physio
     </div>
     <div class="tbl5 s1">
-     xy
+     offen
     </div>
      <div class="tbl5 s2">
-      xy
+      offen
     </div>
      <div class="tbl5 s3">
-      xy
+      offen
     </div>
      <div class="tbl5 s4">
-      xy
+      nur Notfälle
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -258,16 +244,16 @@
      Fitnessclub
     </div>
     <div class="tbl5 s1">
-     xy
+     offen
     </div>
      <div class="tbl5 s2">
-      xy
+      offen
     </div>
      <div class="tbl5 s3">
-      xy
+      geschlossen
     </div>
      <div class="tbl5 s4">
-      xy
+      geschlossen
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -275,16 +261,17 @@
       Uni/FH/Schulen 9+
     </div>
     <div class="tbl5 s1">
-     xy
+     Präsenzunterricht
     </div>
      <div class="tbl5 s2">
-      xy
+      Präsenzunterricht<br/>
+       Fernunterricht wo möglich
     </div>
      <div class="tbl5 s3">
-      xy
+      Fernunterricht
     </div>
      <div class="tbl5 s4">
-      xy
+      Fernunterricht
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -292,16 +279,16 @@
       Schulen 3–9
     </div>
     <div class="tbl5 s1">
-     xy
+     offen
     </div>
      <div class="tbl5 s2">
-      xy
+      offen
     </div>
      <div class="tbl5 s3">
-      xy
+      in Halbklassen
     </div>
      <div class="tbl5 s4">
-      xy
+      Fernunterricht
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -309,15 +296,16 @@
       Krippe, KG, Schulen-2
     </div>
     <div class="tbl5 s1">
-     xy
+     offen
     </div>
      <div class="tbl5 s2">
-      xy
+      offen
     </div>
      <div class="tbl5 s3">
-      xy
+      offen
     </div>
      <div class="tbl5 s4">
-      xy
+      Halbklassen<br/>
+      Betreuungsangebot
     </div>
   </div>
