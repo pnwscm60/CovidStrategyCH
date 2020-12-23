@@ -98,3 +98,5 @@
     </div>
   </div>
 
+<h3>Literatur</h3>
+Baharudin H. Trace Together programme hits 70 % participation among Singapore residents. https://www.straitstimes.com/singapore/tracetogether-programme-hits-70-participation-among-singapore-residents, abgerufen 23.12.2020
