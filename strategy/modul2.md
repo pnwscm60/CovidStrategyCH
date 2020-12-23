@@ -14,12 +14,12 @@
     <div class="ntext">
       Hier geht es im Wesentlichen um alle möglichen Formen des Social Distancing im Weiteren Sinne. Dazu gehören Einschränkungen in folgenden Bereichen:
       <ul>
-        <li><strong>Gruppengrösse</strong> Text</li>
+        <li><strong>Gruppengrösse</strong> Die Reduktion sozialer Kontakte bedingt adäquate Einschränkungen der Gruppengrössen, die je nach Situation (innen/aussen unterschiedlich ausfallen.</li>
         <li><strong>Events</strong> Text</li>
-        <li><strong>Arbeitsort</strong> Text</li>
+        <li><strong>Arbeitsort</strong> Beim Arbeitsort geht es insbesondere um die Möglichkeit, die Arbeit im Homeoffice zu erledigen. Davon ausgenommen sind verständlicherweise Handwerksberufe, Produktionsstätten usw.</li>
         <li><strong>Öffnungszeiten</strong> Text</li>
         <li><strong>Läden Grundbedarf</strong> Text</li>
-        <li><strong>Andere Läden</strong>Text</li>
+        <li><strong>Andere Läden</strong> Text</li>
         <li><strong>Restaurants</strong> Text</li>
         <li><strong>Bars & Clubs</strong> Text</li>
         <li><strong>Hotels</strong> Text</li>
@@ -51,36 +51,53 @@
     </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Gruppengrösse
+      Gruppen draussen
     </div>
     <div class="tbl5 s1">
-     xy
+     max. 300
     </div>
      <div class="tbl5 s2">
-      xy
+      max. 100
     </div>
      <div class="tbl5 s3">
-      xy
+      max. 15
     </div>
      <div class="tbl5 s4">
-      xy
+      max. 6
+    </div>
+  </div>
+    <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+      Gruppen Innenräume<br/>(Stadien, Räume > 600 Plätze)
+    </div>
+    <div class="tbl5 s1">
+     max. 100
+    </div>
+     <div class="tbl5 s2">
+      max. 50
+    </div>
+     <div class="tbl5 s3">
+      keine
+    </div>
+     <div class="tbl5 s4">
+      Keine
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Events
+      Gruppen Innenräume<br/>(Kleine Räume, Haushalte)
     </div>
     <div class="tbl5 s1">
-      xy
+      max. 15 aus 3 Haushalten
     </div>
      <div class="tbl5 s2">
-      xy
+      max. 10 aus 2 Haushalten
     </div>
      <div class="tbl5 s3">
-      xy
+      max. 6 aus 2 Haushalten
     </div>
      <div class="tbl5 s4">
-     xy
+     keine
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -88,16 +105,16 @@
       Arbeitsort
     </div>
     <div class="tbl5 s1">
-      xy
+      Keine Einschränkung
     </div>
      <div class="tbl5 s2">
-      xy
+      Homeoffice
     </div>
      <div class="tbl5 s3">
-      xy
+      Homeoffice
     </div>
      <div class="tbl5 s4">
-     xy
+      Homeoffice
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
