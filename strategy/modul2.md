@@ -74,7 +74,7 @@
      max. 100
     </div>
      <div class="tbl5 s2">
-      max. 50
+      max. 30
     </div>
      <div class="tbl5 s3">
       keine
