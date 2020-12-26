@@ -12,7 +12,7 @@
  <div style="display:flex;"><h2>Modul 2: Virus von Menschen fernhalten</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="twocol">
     <div class="ntext">
-      Hier geht es im Wesentlichen um alle möglichen Formen des Social Distancing im Weiteren Sinne. Dazu gehören Einschränkungen in folgenden Bereichen:
+      Hier geht es im Wesentlichen um alle möglichen Formen des Social Distancing im weiteren Sinne. Dazu gehören Einschränkungen in nachfolgend aufgeführten Bereichen. In jedem Bereich gelten zusätzliche Schutzkonzepte, die dem aktuellen Wissensstand über die Verbreitung des Virus angepasst sein müssen. Bei SARS-CoV-2 bedeutet dies, dass auch die Verbreitung über Aerosole berücksichtigt werden muss. Parallel dazu kommen Schutzmassnahmen aus dem dritten Modul wie z. B. Maskenpflicht zum Zuge.
       <ul>
         <li><strong>Gruppengrösse</strong> Die Reduktion sozialer Kontakte bedingt adäquate Einschränkungen der Gruppengrössen, die je nach Situation (innen/aussen unterschiedlich ausfallen.</li>
         <li><strong>Events</strong> Text</li>
@@ -26,7 +26,7 @@
         <li><strong>Arzt, Zahnarzt, Physio</strong> Grundsätzlich gilt hier Ähnliches, wie bei Massage und Zahnarzt. Hier ist aber der medizinische/therapeutische Bedarf zu berücksichtigen.</li>
         <li><strong>Fitnessclub</strong> bilden aus der Kombination von Innenraum, viele Menschen, verstärkte Atmung einen Risikobereich. Diese Einrichtungen müssen deshalb bei steigender Inzidenz früh geschlossen werden.</li>
         <li><strong>Uni/FH/Schulen 9+</strong> Lehrbetrieb an Uni/FH und weiterführenden Schulen sollte frühzeitig auf Fernunterricht umgestellt werden, weil damit auch der öffentliche Verkehr gerade zu Hauptverkehrszeiten stark entlastet wird.</li>
-        <li><strong>Schulen 3–9</strong> Aktuelle Studien lassen vermuten, dass Kinder </li>
+        <li><strong>Schulen 3–9</strong> Aktuelle Studien lassen vermuten, dass Kinder entgegen früherer Vermutungen sich ähnlich infizieren und andere anstecken, wie Erwachsene. Die Kombination Innenräume, viele Personen und lange Kontaktzeit bedingen hier unbedingt Massnahmen wie Maskenpflicht, technische Massnahmen (Luftreinigung), Halbklassenunterricht etc. Schulen sollten aus sozialen Gründen möglichst lange offen bleiben, allerdings bedingt dies starke andere Massnahmen bzw. idealerweise Massnahmen in Modul 1 (Einreisequarantäne). </li>
         <li><strong>KG–2</strong> Text</li>
       </ul>
     </div>
