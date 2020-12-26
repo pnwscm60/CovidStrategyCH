@@ -13,8 +13,8 @@
     <div class="twocol">
     <div class="ntext">
       <ul>
-        <li><strong>Innenräume</strong>Text</li>
-        <li><strong>Singen/Blasinstrumente</strong>Text</li>
+        <li><strong>Innenräume</strong> Innenräume sind wegen der Akkumulation von Aerosolen ein beträchtlicher Risikobereich, insbesondere im Winter, wenn die Luft trockener ist und weniger gelüftet wird. Um die Aerosolkonzentration tief zu halten, müsste nach die Luft in einem Innenraum 6 Mal pro Stunde vollständig ausgetauscht werden. Innenräume sind deshalb grundsätzlich zu vermeiden. In Stufe 4 sollte der Aufenthalt in Innenräumen möglichst auf die eigenen 4 Wände beschränkt bleiben. Masken sind in Innenräumen Pflicht.</li>
+        <li><strong>Singen/Blasinstrumente</strong> </li>
         <li><strong>Kontaktdauer</strong>Text</li>
         <li><strong>Maske</strong>Text</li>
         <li><strong>Händehygiene</strong>Text</li>
