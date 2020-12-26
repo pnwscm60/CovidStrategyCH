@@ -15,7 +15,7 @@
       Hier geht es im Wesentlichen um alle möglichen Formen des Social Distancing im weiteren Sinne. Dazu gehören Einschränkungen in nachfolgend aufgeführten Bereichen. In jedem Bereich gelten zusätzliche Schutzkonzepte, die dem aktuellen Wissensstand über die Verbreitung des Virus angepasst sein müssen. Bei SARS-CoV-2 bedeutet dies, dass auch die Verbreitung über Aerosole berücksichtigt werden muss. Parallel dazu kommen Schutzmassnahmen aus dem dritten Modul wie z. B. Maskenpflicht zum Zuge.
       <ul>
         <li><strong>Gruppengrösse</strong> Die Reduktion sozialer Kontakte bedingt adäquate Einschränkungen der Gruppengrössen, die je nach Situation (innen/aussen unterschiedlich ausfallen.</li>
-        <li><strong>Events</strong> Text</li>
+        <li><strong>Events</strong> Veranstaltungen unterliegen den Regeln zur Beschänkung der Gruppengrössen. Diese kann je nach Ort (aussen/innen), Art (Chorkonzert, Diashow, Sport aktiv oder Zuschauer*in) unterschiedliche Detailmassnahmen zur Folge haben.</li>
         <li><strong>Arbeitsort</strong> Beim Arbeitsort geht es insbesondere um die Möglichkeit, die Arbeit im Homeoffice zu erledigen. Davon ausgenommen sind verständlicherweise Handwerksberufe, Produktionsstätten usw. Ab Stufe 2 gilt in allen Innenräumen Maskenpflicht.</li>
         <li><strong>Läden Grundbedarf</strong> Läden für den Grundbedarf sollen immer zugänglich sein. Ab Stufe 1 gelten Massnahmen zur Einhaltung des Mindestabstandes. In den Stufen 3 und 4 gelten Beschränkungen für die Anzahl der Kunden im Geschäft (abhängig von der Fläche).</li>
         <li><strong>Andere Läden</strong> Ab Stufe 1 gelten Massnahmen zur Einhaltung des Mindestabstandes. In den Stufen 2 und 3 gelten Beschränkungen für die Anzahl der Kunden im Geschäft (abhängig von der Fläche). In Stufe 4 werden diese Läden geschlossen.</li>
@@ -311,3 +311,5 @@
 
 <h3 style="margin-top:1em;">Literatur</h3>
 <div id="ref1">Stringhini S, Wisniak A, Piumatti G, Azman AS, Lauer SA, Baysson H, et al. The Lancet, 396, 313–319. https://doi.org/10.1016/S0140-6736(20)31304-0 (abgerufen 24.12.2020)</div>
+<div id="ref1">Brauner JM, Mindermann S, Sharma M, Johnston D, Salvtier J et al. Science Dec. 2020, DOI: 10.1126/science.abd9338 (abgerufen 24.12.2020)</div>
+
