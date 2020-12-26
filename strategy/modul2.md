@@ -20,13 +20,13 @@
         <li><strong>Läden Grundbedarf</strong> Läden für den Grundbedarf sollen immer zugänglich sein. Ab Stufe 1 gelten Massnahmen zur Einhaltung des Mindestabstandes. In den Stufen 3 und 4 gelten Beschränkungen für die Anzahl der Kunden im Geschäft (abhängig von der Fläche).</li>
         <li><strong>Andere Läden</strong> Ab Stufe 1 gelten Massnahmen zur Einhaltung des Mindestabstandes. In den Stufen 2 und 3 gelten Beschränkungen für die Anzahl der Kunden im Geschäft (abhängig von der Fläche). In Stufe 4 werden diese Läden geschlossen.</li>
         <li><strong>Restaurants</strong> In Restaurants gilt eine Begrenzung der Anzahl Tische (mindestabstand zwischen Tischen 2 m, in Stufen 2 und 3 gelten Begrenzungen für die Anzahl Gäste an einem Tisch. In Stufe 3 dürfen nur Personen aus max 2 Haushalten an einem Tisch sitzen. In Stufe 4 werden Restaurants geschlossen.</li>
-        <li><strong>Bars & Clubs</strong> Text</li>
-        <li><strong>Hotels</strong> Text</li>
-        <li><strong>Massage, Coiffeur</strong> Text</li>
-        <li><strong>Arzt, Zahnarzt, Physio</strong> Text</li>
-        <li><strong>Fitnessclub</strong> Text</li>
-        <li><strong>Uni/FH/Schulen 9+</strong> Text</li>
-        <li><strong>Schulen 3–9</strong> Text</li>
+        <li><strong>Bars & Clubs</strong> gehören aufgrund der Kombination von Innenraum, lautem Sprechen (wg Lautstärke) und Gedränge als Hochrisikobereiche. Hinzu kommt, dass eine Ansteckung in einem Klub mit vielen Gästen das Contact Tracing sehr rasch überfordern kann. Diese sind entsprechend früh zu schliessen.</li>
+        <li><strong>Hotels</strong> Hotels können problematisch sein, weil sie einen Schmelztigel von unterschiedlichsten sozialen Gruppen bilden. Es müssen genügend Hotelbetriebe insbesondere in Grenzregionen als Quarantänehotels betrieben werden.</li>
+        <li><strong>Massage, Coiffeur</strong> Massage und Coiffeur bilden aus der Konstellation «enger Körperkontakt» + Innenraum einen Risikobereich. Bei Einzelbehandlungsräumen ist ein Betrieb auch bei höherer Inzidenz verantwortbar, da das Tracing aufgrund der Einzelkontakte und der Terminpläne machbar erscheint. Grössere Behandlungsräume wie z. B. beim Coiffeur müssen aber verhindert werden.</li>
+        <li><strong>Arzt, Zahnarzt, Physio</strong> Grundsätzlich gilt hier Ähnliches, wie bei Massage und Zahnarzt. Hier ist aber der medizinische/therapeutische Bedarf zu berücksichtigen.</li>
+        <li><strong>Fitnessclub</strong> bilden aus der Kombination von Innenraum, viele Menschen, verstärkte Atmung einen Risikobereich. Diese Einrichtungen müssen deshalb bei steigender Inzidenz früh geschlossen werden.</li>
+        <li><strong>Uni/FH/Schulen 9+</strong> Lehrbetrieb an Uni/FH und weiterführenden Schulen sollte frühzeitig auf Fernunterricht umgestellt werden, weil damit auch der öffentliche Verkehr gerade zu Hauptverkehrszeiten stark entlastet wird.</li>
+        <li><strong>Schulen 3–9</strong> Aktuelle Studien lassen vermuten, dass Kinder </li>
         <li><strong>KG–2</strong> Text</li>
       </ul>
     </div>
