@@ -26,7 +26,7 @@
         <li><strong>Arzt, Zahnarzt, Physio</strong> Grundsätzlich gilt hier Ähnliches, wie bei Massage und Zahnarzt. Hier ist aber der medizinische/therapeutische Bedarf zu berücksichtigen.</li>
         <li><strong>Fitnessclub</strong> bilden aus der Kombination von Innenraum, viele Menschen, verstärkte Atmung einen Risikobereich. Diese Einrichtungen müssen deshalb bei steigender Inzidenz früh geschlossen werden.</li>
         <li><strong>Uni/FH/Schulen 9+</strong> Lehrbetrieb an Uni/FH und weiterführenden Schulen sollte frühzeitig auf Fernunterricht umgestellt werden, weil damit auch der öffentliche Verkehr gerade zu Hauptverkehrszeiten stark entlastet wird.</li>
-        <li><strong>Schulen 3–9</strong> Aktuelle Studien lassen vermuten, dass Kinder entgegen früherer Vermutungen sich ähnlich infizieren und andere anstecken, wie Erwachsene. Die Kombination Innenräume, viele Personen und lange Kontaktzeit bedingen hier unbedingt Massnahmen wie Maskenpflicht, technische Massnahmen (Luftreinigung), Halbklassenunterricht etc. Schulen sollten aus sozialen Gründen möglichst lange offen bleiben, allerdings bedingt dies starke andere Massnahmen bzw. idealerweise Massnahmen in Modul 1 (Einreisequarantäne). </li>
+        <li><strong>Schulen 3–9</strong> Studien lassen vermuten, dass Kinder sich ähnlich infizieren und andere anstecken, wie Erwachsene (z. B. Stringhini et al. 2020)Die Kombination Innenräume, viele Personen und lange Kontaktzeit bedingen hier unbedingt Massnahmen wie Maskenpflicht, technische Massnahmen (Luftreinigung), Halbklassenunterricht etc. Schulen sollten aus sozialen Gründen möglichst lange offen bleiben, allerdings bedingt dies starke andere Massnahmen bzw. idealerweise Massnahmen in Modul 1 (Einreisequarantäne). </li>
         <li><strong>KG–2</strong> Im Bereich Kindergarten bis 2. Klasse ist das Infektionsrisiko der Kinder zwar (wahrscheinlich) geringer, allerdings sind die Kontakte enger. Hier muss unbedingt auf den Schutz der Lehr- und Betreuungspersonen fokussiert werden.</li>
       </ul>
     </div>
@@ -308,3 +308,6 @@
       Betreuungsangebot
     </div>
   </div>
+
+<h3 style="margin-top:1em;">Literatur</h3>
+<div id="ref1">Stringhini S, Wisniak A, Piumatti G, Azman AS, Lauer SA, Baysson H, et al. The Lancet, 396, 313–319. https://doi.org/10.1016/S0140-6736(20)31304-0 (abgerufen 24.12.2020)</div>
