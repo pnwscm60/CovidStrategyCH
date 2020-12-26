@@ -311,5 +311,6 @@
 
 <h3 style="margin-top:1em;">Literatur</h3>
 <div id="ref1">Stringhini S, Wisniak A, Piumatti G, Azman AS, Lauer SA, Baysson H, et al. The Lancet, 396, 313–319. https://doi.org/10.1016/S0140-6736(20)31304-0 (abgerufen 24.12.2020)</div>
-<div id="ref1">Brauner JM, Mindermann S, Sharma M, Johnston D, Salvtier J et al. Science Dec. 2020, DOI: 10.1126/science.abd9338 (abgerufen 24.12.2020)</div>
+<div id="ref2">Brauner JM, Mindermann S, Sharma M, Johnston D, Salvtier J et al. Science Dec. 2020, DOI: 10.1126/science.abd9338 (abgerufen 24.12.2020)</div>
+<div id="ref3">Li Y, Campbell H, Kulkarni D, Harpur A, Nundy M, Wang, X et al. The Lancet Infectious Diseases. Oct 2020. https://doi.org/10.1016/S1473-3099(20)30785-4 (abgerufen 25.12.2020)</div>
 
