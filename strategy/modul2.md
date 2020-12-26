@@ -27,7 +27,7 @@
         <li><strong>Fitnessclub</strong> bilden aus der Kombination von Innenraum, viele Menschen, verstärkte Atmung einen Risikobereich. Diese Einrichtungen müssen deshalb bei steigender Inzidenz früh geschlossen werden.</li>
         <li><strong>Uni/FH/Schulen 9+</strong> Lehrbetrieb an Uni/FH und weiterführenden Schulen sollte frühzeitig auf Fernunterricht umgestellt werden, weil damit auch der öffentliche Verkehr gerade zu Hauptverkehrszeiten stark entlastet wird.</li>
         <li><strong>Schulen 3–9</strong> Aktuelle Studien lassen vermuten, dass Kinder entgegen früherer Vermutungen sich ähnlich infizieren und andere anstecken, wie Erwachsene. Die Kombination Innenräume, viele Personen und lange Kontaktzeit bedingen hier unbedingt Massnahmen wie Maskenpflicht, technische Massnahmen (Luftreinigung), Halbklassenunterricht etc. Schulen sollten aus sozialen Gründen möglichst lange offen bleiben, allerdings bedingt dies starke andere Massnahmen bzw. idealerweise Massnahmen in Modul 1 (Einreisequarantäne). </li>
-        <li><strong>KG–2</strong> Text</li>
+        <li><strong>KG–2</strong> Im Bereich Kindergarten bis 2. Klasse ist das Infektionsrisiko der Kinder zwar (wahrscheinlich) geringer, allerdings sind die Kontakte enger. Hier muss unbedingt auf den Schutz der Lehr- und Betreuungspersonen fokussiert werden.</li>
       </ul>
     </div>
   </div>
