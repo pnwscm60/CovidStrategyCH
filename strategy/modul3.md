@@ -39,92 +39,76 @@
       Stufe 4
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Innenräume
+      Maske
     </div>
     <div class="tbl5 s1">
-     xy
+      in Innenräumen
     </div>
      <div class="tbl5 s2">
-      xy
+      in Innenräumen
     </div>
      <div class="tbl5 s3">
-      xy
+      allg. Tragpflicht
     </div>
      <div class="tbl5 s4">
-      xy
+      allg. Tragpflicht
     </div>
-  </div>
+  </div> 
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
       Singen/Blasinstrumente
     </div>
     <div class="tbl5 s1">
-      xy
+      Mit Schutzmassnahmen
     </div>
      <div class="tbl5 s2">
-      xy
+      mit Schutzmassnahmen
     </div>
      <div class="tbl5 s3">
-      xy
+      nur Einzelunterricht
     </div>
      <div class="tbl5 s4">
-     xy
+     verboten
+    </div>
+  </div>
+   
+<div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+      Innenräume
+    </div>
+    <div class="tbl1 s0">
+      Ausser bei alleinigem Gebrauch vermeiden<br/>
+      Falls unabdingbar > Maske/Ventilation
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
       Kontaktdauer
     </div>
-    <div class="tbl5 s1">
-      xy
-    </div>
-     <div class="tbl5 s2">
-      xy
-    </div>
-     <div class="tbl5 s3">
-      xy
-    </div>
-     <div class="tbl5 s4">
-     xy
+    <div class="tbl1 s0">
+      So kurz wie möglich
     </div>
   </div>
-    <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Maske
+      Ventilation
     </div>
-    <div class="tbl5 s1">
-      xy
-    </div>
-     <div class="tbl5 s2">
-      xy
-    </div>
-     <div class="tbl5 s3">
-      xy
-    </div>
-     <div class="tbl5 s4">
-     xy
+    <div class="tbl1 s0">
+      Ventilation 6x/Std. sichern<br/>
+      technische Massnahmen (Abluft, HEPA-Filter)
     </div>
   </div>
-    <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
     <div class="tbl5 s0">
-      Händehygiene
+      Hygiene
     </div>
-    <div class="tbl5 s1">
-      xy
-    </div>
-     <div class="tbl5 s2">
-      xy
-    </div>
-     <div class="tbl5 s3">
-      xy
-    </div>
-     <div class="tbl5 s4">
-     xy
+    <div class="tbl1 s0">
+      Regelmässig Hände waschen, Handkontakt zu Gesicht vermeiden,<br/>
+      Husten/Niesen in Ellenbeuge, kein Händedruck bei Begrüssung
     </div>
   </div>
-
 <h3 style="margin-top:1.5em;">Literatur</h3>
 <div id="ref1">Mills M, Rahal C, Akimova E et al. Face masks and coverings for the general public: Behavioural knowledge, effectiveness of cloth coverings and public messaging. Rhe Royal Society, June 2020 (abgerufen 23.12.2020)</div>
 <div id="ref2">Mask use in the context of Covid-19. Interim Guidance. WHO, Dez 2020 (abgerufen 23.12.2020)</div>
