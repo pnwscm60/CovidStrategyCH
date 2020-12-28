@@ -16,7 +16,14 @@
 Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei Ebenen und einem darübergelegten Ampelsystem gebildet. Vier übergeordnete Module bilden die Hauptgliederungsebene. Jedes dieser Module enthält eine unterschiedliche Anzahl von weiteren Komponenten («Käsescheiben»). Jede dieser Komponenten entspricht einer Massnahme, mit der die Ausbreitung der Pandemie, d. h. die Reproduktion des Virus verhindert werden soll. Grundzüge wurden von Pueyo [Pueyo 2020] beschrieben. Der Massnahmenkatalog orientiert sich an Modellen aus Irland, Island, Neuseeland, Norwegen und weiteren Staaten, die über ein erfolgreiches Pandemiemanagement verfügen.
   </div>
 <img src="https://user-images.githubusercontent.com/46749603/102410792-58896680-3ff1-11eb-9219-f82bdc544e0e.png" style="width:90%;margin: 1em 0;">
-
+<h2>Ziel</h2>
+  <div class="ntext">Die Strategie verfolgt im Wesentlichen ein Ziel: Langfristiges Sicherstellen von tiefen Fallzahlen. Wenig Infektionsfälle bietet eine Vielzahl von Vorteilen (Priesemann 2020)</div>
+  <ul><li>Rettet Leben, verringerte Folgekosten durch Long Covid oder fehlenden Ressourcen für andere Patienten</li>
+    <li>Rettet Arbeitsplätze und Unternehmen, stützt die Wirtschaft. Bei hoher Inzidenz ist ein beträchtlicher Teil der Bevölkerung in Quarantäne, was zu wirtschaftlichen Einbussen führt.</li>
+    <li>Verhindert auf und ab der Pandemieentwicklung, erlaubt Offenhalten von Schulen und Geschäften</li>
+    <li>Erlaubt ein funktionierendes Contact Tracing-System. Dieses ist bei hoher Inzidenz rasch überfordert, was zur unkontrollierten Verbreitung des Virus führt.</li>
+  </ul>
+  <div class="ntext">Die hier diskutierte Strategie basiert auf einer tiefen Inzidenz. Aufgrund der aktuell hohen Inzidenz in der Schweiz muss die Inzidenz der Infektionen in einem ersten Schritt so stark gesenkt werden, dass das Contact Tracing funktioniert. Ziel muss sein, täglich nicht mehr als 100 neue Infektionsfälle zu haben. Eine Abstimmung mit anderen Ländern in Europa ist zwingend notwendig.</div>
   <h2>Übergeordnete Module</h2>
 <div class="ntext">Die vier übergeordneten Module bilden vier unterschiedliche Angriffspunkte ab, mit denen die Covid-19-Pandemie bekämpft werden kann:</div>
 
@@ -42,5 +49,6 @@ Das System basiert darauf, dass bei Einschränkungen in bestimmten Bereichen fü
 </div>
 
 <h3 style="margin-top:1em;">Literatur</h3>
-Pueyo T. Coronavirus: The Swiss Cheese strategy. https://tomaspueyo.medium.com/coronavirus-the-swiss-cheese-strategy-d6332b5939de. Abgerufen 5.12.2020<br/>
-Reason J. Human error: models and management. BMJ. 2000; 320: 768–770<br/>
+<div class="ref1">Pueyo T. Coronavirus: The Swiss Cheese strategy. https://tomaspueyo.medium.com/coronavirus-the-swiss-cheese-strategy-d6332b5939de. Abgerufen 5.12.2020</div>
+<div id="ref2">Priesemann V, Brinkmann MM, Ciesek S, Cushieri S, Czypionka T, Giordano G et al. Calling for pan-European commitment for rapid and sustained reduction in SARS-CoV-2 infections. The Lancet. Dez. 2020. https://doi.org/10.1016/S0140-6736(20)32625-8 (abgerufen 21.12.2020)</div>
+<div class="ref3">Reason J. Human error: models and management. BMJ. 2000; 320: 768–770</div>
