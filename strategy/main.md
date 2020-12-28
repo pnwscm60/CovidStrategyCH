@@ -25,7 +25,7 @@ Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei
   </ul>
   <div class="ntext">Die hier diskutierte Strategie basiert auf einer tiefen Inzidenz. Aufgrund der aktuell hohen Inzidenz in der Schweiz muss die Inzidenz der Infektionen in einem ersten Schritt so stark gesenkt werden, dass das Contact Tracing funktioniert. Ziel muss sein, täglich nicht mehr als 100 neue Infektionsfälle zu haben. Eine Abstimmung mit anderen Ländern in Europa ist zwingend notwendig.</div>
   <div class="ntext">Der Verzicht auf Reisebeschränkungen und Quarantänemassnahmen bei Einreise ist nur durch ein koordiniertes Vorgehen in ganz Europa möglich. In der Schweiz selbst ist auch bei stark unterschiedlicher Pandemieentwicklung keine Reisebeschränkung möglich. Zu überlegen wäre, ob Kriterien regional statt nach Kantonen getrennt berechnet werden sollten. Ebenso ist zu überlegen, ob ein Stufenwechsel regional angeordnet werden soll – die hohe Mobilität in der Schweiz spricht dem eigentlich entgegen.</div>
-  <h2>Übergeordnete Module</h2>
+  <h2 style="margin-top:1em;">Übergeordnete Module</h2>
 <div class="ntext">Die vier übergeordneten Module bilden vier unterschiedliche Angriffspunkte ab, mit denen die Covid-19-Pandemie bekämpft werden kann:</div>
 
 <ol>
