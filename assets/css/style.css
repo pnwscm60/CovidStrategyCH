@@ -84,7 +84,7 @@ h4 {
 	border-right:1px solid #fff;
 	padding:0.5em;}
 .st1 {
-	background-color:#00cc99;
+	background-color:#80bfff;
 	border-right:1px solid #fff;
 	color:#fff;}
 .st2 {
@@ -126,6 +126,9 @@ h4 {
 	}
 .s5 {
 	background-color:#dfdfdf;
+	color:#000;}
+.s6 {
+	background-color:#00cc99;
 	color:#000;}
 @media only screen and (max-width: 800px) {
 	body {
