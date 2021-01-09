@@ -23,6 +23,8 @@
         <li><strong>Auslastung zertifizierte IPS-Betten</strong> Intensivpflegestationen (IPS) sind bei der Behandlung die letzte Abwehrlinie. Eine Überlastung führt unweigerlich zu steigenden Todesfallzahlen, auch unter nicht-Covid-19-Patient*innen. Das Kriterium ist insofern problematisch, als es gegenüber dem Anstieg der Infektionen ein um 2–3 Wochen verzögertes Signal ergibt. Entsprechend müssen hier grosszügige Sicherheitsgrenzen enthalten sein. Basis für die Angabe der zertifizierten Betten ist die entsprechende Publikation der SGI [SGI 2020].</li>
       </ul>
         <div class="ntext">Das Ampelsystem führt bei Überschreiten von Schwellen <em>automatisch</em> zum Wechsel von Massnahmen. Die Ampel schaltet eine Stufe höher, wenn die Schwelle <em>in mindestens 2 der 4 Kriterien überschritten</em> wird. Lockerungen bedingen, dass <em>alle</em> Schwellen unterschritten werden.</div>
+        <h3>Grüne Zonen</h3>
+        <div class="ntext">Findet in einer Region während 14 Tagen keine lokale Übertragung statt, werden also nur Personen positiv getestet und bei Einreise isoliert, die von aussen in die Zone einreisen, kann eine Region als «grüne Zone» deklariert werden, was zu einer Aufhebung der Restriktionen aus den Modulen 2 und 3 führt. Bedingung ist, dass keine Nachbarzone höher als Stufe 1 klassiert ist. Die Umsetzung im Sinne der «green zones» von endcoronavirus.org ist in der Schweiz nicht möglich, keine Reisebeschränkungen zwischen Schweizer Kantonen möglich sind.</div>
 <div class="ntext">Die Positivitätsrate (Anzahl positiver Tests/alle durchgeführten Tests) ist nicht als Kriterium aufgenommen, da deren Interpretation grundsätzlich problematisch und mit der Einführung der Antigenschnelltests noch schwieriger geworden ist.</div>
     </div>
   </div>
@@ -100,6 +102,9 @@
     </div>
     <div class="tbl1 s5">
      Stufenreduktion nur, wenn Re < 1 | wenn Re > 1.2 &#8680; 1 Stufe höher
+    </div>
+    <div class="tbl1 s5">
+     Grüne Zonen: Während 14 Tagen keine lokale Übertragung/keine angrenzende Region mit Stufe >1
     </div>
   </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
