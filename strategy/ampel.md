@@ -96,7 +96,7 @@
      > 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;margin-top:1em;width:100%;min-width:400px;">
+  <div class="ntbl" style="display:flex;margin-top:1em;width:100%;min-width:500px;">
     <div class="tbl0 st0">
       Re
     </div>
@@ -104,7 +104,7 @@
      Stufenreduktion nur, wenn Re < 1 | wenn Re > 1.2 &#8680; 1 Stufe höher
     </div>
     </div>
-  <div class="ntbl" style="display:flex;margin-top:1em;width:100%;min-width:400px;">
+  <div class="ntbl" style="display:flex;margin-top:1em;width:100%;min-width:500px;">
     <div class="tbl0 st0">
       Grüne Zonen
     </div>
