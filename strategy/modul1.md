@@ -16,6 +16,7 @@
         <li><strong>Einreisesperre</strong> für Reisende aus bestimmten Staaten/Regionen. Diesen Personen ist es nicht erlaubt, Schweizer Staatsgebiet zu betreten. Dies erfordert eine vollständige und strikte Grenzkontrolle an allen Grenzpunkten (Luft, Strasse, Schiene)</li>
         <li><strong>Einreisequarantäne</strong> für Reisende aus bestimmten Staaten/Regionen. Die Einreise ist zwar möglich, unmittelbar nach Einreise müssen sich die Reisenden aber in eine Quarantäne von 14 Tagen Dauer begeben. Quarantäne grundsätzlich in Quarantänehotels. Ausnahmen für Grenzgänger*innen. Diese dürfen zwar zwecks Arbeit einreisen, müssen sich aber 2x/Wo einem Schnelltest unterziehen.</li>
         <li><strong>Covid-Schnelltests bei Einreise</strong> bei jeder Einreise, auch für Grenzgänger. Bei positivem Test unmittelbare Isolation.</li>
+        <li><strong>Regionenwechsel</strong> innerhalb der Schweiz sollte bei höheren Inzidenz in einer Region beschränkt oder unterbunden werden (mit Ausnahmen), weil es sonst, wie während der 2. Welle gut zu beobachten, zu Schaukeleffekten führt.</li>
       </ul>
     </div>
   </div>
@@ -85,6 +86,23 @@
     </div>
      <div class="tbl5 s4">
      obligatorisch
+    </div>
+  </div>
+    <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+      Regionenwechsel
+    </div>
+    <div class="tbl5 s1">
+      gestattet
+    </div>
+     <div class="tbl5 s2">
+      gestattet
+    </div>
+     <div class="tbl5 s3">
+      nur essenz. Arbeitende
+    </div>
+     <div class="tbl5 s4">
+     nur essenz. Arbeitende
     </div>
   </div>
 
