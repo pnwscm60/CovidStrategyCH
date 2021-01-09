@@ -108,7 +108,7 @@
     <div class="tbl0 st0">
       Grüne Zonen
     </div>
-  <div class="tbl1 s6">
+  <div class="tbl1 s5" style="background-color:#80bfff;">
      Während 14 Tagen keine lokale Übertragung/keine angrenzende Region mit Stufe >1
     </div>
     </div>
