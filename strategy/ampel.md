@@ -118,3 +118,4 @@
 <div id="ref2">Priesemann V et al. Calling for pan-European commitment for rapid and sustained reduction in SARS-CoV-2 infections. The Lancet, 2020, DOI:https://doi.org/10.1016/S0140-6736(20)32625-8, abgerufen 18.12.2020</div>
   <div id="ref3">Schweizerische Gesellschaft für Intensivmedizin SGI, Zertifizierungskommission. https://www.sgi-ssmi.ch/de/zertifizierte-is.html (abgerufen 18.12.2020)</div>
     </div>
+    <div id="ref4">https://www.endcoronavirus.org/ Internationale Aktionsgruppe zur Bekämpfung der Pandemie, abgerufen: 30.12.2020</div>
