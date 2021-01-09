@@ -25,6 +25,8 @@
         <li><strong>Massage, Coiffeur</strong> Massage und Coiffeur bilden aus der Konstellation «enger Körperkontakt» + Innenraum einen Risikobereich. Bei Einzelbehandlungsräumen ist ein Betrieb auch bei höherer Inzidenz verantwortbar, da das Tracing aufgrund der Einzelkontakte und der Terminpläne machbar erscheint. Grössere Behandlungsräume wie z. B. beim Coiffeur müssen aber verhindert werden.</li>
         <li><strong>Arzt, Zahnarzt, Physio</strong> Grundsätzlich gilt hier Ähnliches, wie bei Massage und Zahnarzt. Hier ist aber der medizinische/therapeutische Bedarf zu berücksichtigen.</li>
         <li><strong>Fitnessclub</strong> bilden aus der Kombination von Innenraum, viele Menschen, verstärkte Atmung einen Risikobereich. Diese Einrichtungen müssen deshalb bei steigender Inzidenz früh geschlossen werden.</li>
+        <li><strong>Privatverkehr</strong> scheint grundsätzlich problemlos, muss aber eingeschränkt werden, um möglichst wenige zusätzliche Spitaleintritte wegen Verkehrsunfällen zu verursachen.</li>
+        <li><strong>Öffentlicher Verkehr</strong> ist durch die Kombination von Innenraum und vielen Menschen ein Problem. Durch Homeofficepflicht und umstellung von Schulen auf Fernunterricht sollte die Belegung im öV automatisch absinken. Auf Stufe 4 ist die Benutzung nur für essenzielle Berufe gestattet.</li>
         <li><strong>Uni/FH/Schulen 9+</strong> Lehrbetrieb an Uni/FH und weiterführenden Schulen sollte frühzeitig auf Fernunterricht umgestellt werden, weil damit auch der öffentliche Verkehr gerade zu Hauptverkehrszeiten stark entlastet wird.</li>
         <li><strong>Schulen 3–9</strong> Studien lassen vermuten, dass Kinder sich ähnlich infizieren und andere anstecken, wie Erwachsene (z. B. Stringhini et al. 2020)Die Kombination Innenräume, viele Personen und lange Kontaktzeit bedingen hier unbedingt Massnahmen wie Maskenpflicht, technische Massnahmen (Luftreinigung), Halbklassenunterricht etc. Schulen sollten aus sozialen Gründen möglichst lange offen bleiben, allerdings bedingt dies starke andere Massnahmen bzw. idealerweise Massnahmen in Modul 1 (Einreisequarantäne). </li>
         <li><strong>KG–2</strong> Im Bereich Kindergarten bis 2. Klasse ist das Infektionsrisiko der Kinder zwar (wahrscheinlich) geringer, allerdings sind die Kontakte enger. Hier muss unbedingt auf den Schutz der Lehr- und Betreuungspersonen fokussiert werden.</li>
@@ -253,6 +255,40 @@
     </div>
      <div class="tbl5 s4">
       geschlossen
+    </div>
+  </div>
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+     Privatverkehr
+    </div>
+    <div class="tbl5 s1">
+     frei
+    </div>
+     <div class="tbl5 s2">
+      frei
+    </div>
+     <div class="tbl5 s3">
+      Kein Regionenwechsel
+    </div>
+     <div class="tbl5 s4">
+      Kein Regionenwechsel, nur essenz. Arbeitende
+    </div>
+  </div>
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+     Öffentlicher Verkehr
+    </div>
+    <div class="tbl5 s1">
+     offen
+    </div>
+     <div class="tbl5 s2">
+      offen
+    </div>
+     <div class="tbl5 s3">
+      Kein Regionenwechsel
+    </div>
+     <div class="tbl5 s4">
+      Kein Regionenwechsel, nur essenz. Arbeitende
     </div>
   </div>
     <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
