@@ -103,7 +103,7 @@
     <div class="tbl1 s5">
      Stufenreduktion nur, wenn Re < 1 | wenn Re > 1.2 &#8680; 1 Stufe höher
     </div>
-    <div class="tbl1 s5">
+    <div class="tbl1 s5" style="clear:both;">
      Grüne Zonen: Während 14 Tagen keine lokale Übertragung/keine angrenzende Region mit Stufe >1
     </div>
   </div>
