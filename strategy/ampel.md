@@ -96,17 +96,21 @@
      > 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:block;margin-top:1em;width:100%;min-width:400px;">
+  <div class="ntbl" style="display:flex;margin-top:1em;width:100%;min-width:400px;">
     <div class="tbl0 st0">
       Re
     </div>
     <div class="tbl1 s5">
      Stufenreduktion nur, wenn Re < 1 | wenn Re > 1.2 &#8680; 1 Stufe höher
     </div>
-    <div class="tbl1 s5" style="clear:both;">
-     Grüne Zonen: Während 14 Tagen keine lokale Übertragung/keine angrenzende Region mit Stufe >1
     </div>
-    </div> 
+  <div class="ntbl" style="display:flex;margin-top:1em;width:100%;min-width:400px;">
+    <div class="tbl0 st0">
+      Grüne Zonen
+    </div>
+  <div class="tbl1 s6">
+     Während 14 Tagen keine lokale Übertragung/keine angrenzende Region mit Stufe >1
+    </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
   <h3>Literatur</h3>
   <div id="ref1">Low N. Contact tracing for COVID-19. WHO/GOARN Global Consultation on Contact Tracing for COVID-19. https://ispmbern.github.io/covid-19/Forward_backward_WHO_201007.pdf, abgerufen 18.12.2020</div>
