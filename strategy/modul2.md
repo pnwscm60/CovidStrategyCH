@@ -30,6 +30,7 @@
         <li><strong>Uni/FH/Schulen 9+</strong> Lehrbetrieb an Uni/FH und weiterführenden Schulen sollte frühzeitig auf Fernunterricht umgestellt werden, weil damit auch der öffentliche Verkehr gerade zu Hauptverkehrszeiten stark entlastet wird.</li>
         <li><strong>Schulen 3–9</strong> Studien lassen vermuten, dass Kinder sich ähnlich infizieren und andere anstecken, wie Erwachsene (z. B. Stringhini et al. 2020)Die Kombination Innenräume, viele Personen und lange Kontaktzeit bedingen hier unbedingt Massnahmen wie Maskenpflicht, technische Massnahmen (Luftreinigung), Halbklassenunterricht etc. Schulen sollten aus sozialen Gründen möglichst lange offen bleiben, allerdings bedingt dies starke andere Massnahmen bzw. idealerweise Massnahmen in Modul 1 (Einreisequarantäne). </li>
         <li><strong>KG–2</strong> Im Bereich Kindergarten bis 2. Klasse ist das Infektionsrisiko der Kinder zwar (wahrscheinlich) geringer, allerdings sind die Kontakte enger. Hier muss unbedingt auf den Schutz der Lehr- und Betreuungspersonen fokussiert werden.</li>
+        <li><strong>Bewegungsradius</strong> Auf höchster Stufe ist die rasche Senkung der Mobilität ein zentrales Element. Entsprechend wird auf dieser Stufe eine Einschränkung des Bewegungsradius für alle Einwohner verordnet.</li>
       </ul>
     </div>
   </div>
@@ -342,6 +343,23 @@
      <div class="tbl5 s4">
       Halbklassen<br/>
       Betreuungsangebot
+    </div>
+  </div>
+  <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
+    <div class="tbl5 s0">
+      Bewegungsradius
+    </div>
+    <div class="tbl5 s1">
+     normal
+    </div>
+     <div class="tbl5 s2">
+      normal
+    </div>
+     <div class="tbl5 s3">
+      normal
+    </div>
+     <div class="tbl5 s4">
+      Beschränkt auf 5 km ab Wohnort
     </div>
   </div>
 
