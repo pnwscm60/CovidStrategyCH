@@ -10,16 +10,15 @@
   </head>
   <body> 
  <div style="display:flex;"><h2>Aktuelle Ampelwerte</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
-    <div class="twocol">
-    
-  <div class="ntable" style="display:flex;width:100%;margin-top:1em;">
-    <div class="tbl0 st0">
+    <div class="onecol">
+  <div class="ntable" style="display:flex;width:360px;margin-top:1em;">
+    <div class="tbl0 st0" style="width:118px">
       Kriterien
     </div>
-    <div class="tbl5 st0">
+    <div class="tbl5 st0" style="width:118px">
       Aktueller Wert
     </div>
-    <div class="tbl5 st0">
+    <div class="tbl5 st0" style="width:118px">
       Stufe
     </div>
     </div>
@@ -30,7 +29,7 @@
     <div class="tbl5 s0a">
       83.5
     </div>
-     <div class="tbl5 s4">
+     <div class="tbl5 s5">
       >20
     </div>
   </div>
@@ -41,7 +40,7 @@
     <div class="tbl5 s0">
       < 20 %
     </div>
-     <div class="tbl5 s4">
+     <div class="tbl5 s5">
       < 70 %
     </div>
   </div>
