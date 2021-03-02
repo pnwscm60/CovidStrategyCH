@@ -67,7 +67,7 @@ h4 {
 	width:180px;
 	font-size:1.2em;}
 .tblamp {width:140px; font-size:1.2em;}
-.st0,.st1,.st2,.st3,.st4,.s0,.s1,.s2,.s3,.s4,.s5 {
+.st0,.st1,.st2,.st3,.st4,.s0,.s1,.s2,.s3,.s4,.s5,.st4b {
 	font-size:1.2em;
 	padding:0.5em;}
 .s0,.s1,.s2,.s3,.s4,.s5 {
@@ -104,6 +104,7 @@ h4 {
 	background-color:#ff0000;
 	border-right:0;
 	border-bottom:1px solid #fff;
+	color:#fff
 	}
 .s0 {
 	background-color:#dfdfdf;
