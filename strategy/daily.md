@@ -9,7 +9,7 @@
 </style>
   </head>
   <body> 
- <div style="display:flex;"><h2>Aktuelle Ampelwerte</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div><div style="margin-left:0.5em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="https://github.com/pnwscm60/CovidStrategyCH/issues" style="color:#fff;">Mitarbeiten</a></div></div>
+ <div style="display:flex;"><h2>Aktuelle Ampelwerte</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="twocol">
     
   <div class="ntable" style="display:flex;width:100%;margin-top:1em;">
