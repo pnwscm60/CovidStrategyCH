@@ -29,7 +29,7 @@
     <div class="tbl5 s0a">
       83.5
     </div>
-     <div class="tbl5 s5">
+     <div class="tbl5 st5">
       >20
     </div>
   </div>
@@ -40,7 +40,7 @@
     <div class="tbl5 s0">
       < 20 %
     </div>
-     <div class="tbl5 s5">
+     <div class="tbl5 st5">
       < 70 %
     </div>
   </div>
@@ -51,7 +51,7 @@
     <div class="tbl5 s0">
       77.5 %
     </div>
-     <div class="tbl5 s4">
+     <div class="tbl5 st4">
       > 70 %
     </div>
   </div>
@@ -59,7 +59,7 @@
     <div class="tbl0 st0">
       Re
     </div>
-    <div class="tbl1 s5">
+    <div class="tbl1 st5">
      1.06 [0.91–1.22]: oberer Grenzwert überschritten
     </div>
     </div>
