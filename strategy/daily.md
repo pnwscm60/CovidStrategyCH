@@ -26,7 +26,7 @@
     <div class="tbl0 st0">
       7d-Inzidenz/100k
     </div>
-    <div class="tbl5 s0" style="width:140px">
+    <div class="tbl5 st0" style="width:140px">
       83.5
     </div>
      <div class="tbl5 st4" style="width:140px">
@@ -37,7 +37,7 @@
     <div class="tbl0 st0">
       Aufklärung CT
     </div>
-    <div class="tbl5 s0" style="width:140px">
+    <div class="tbl5 st0" style="width:140px">
       < 20 %
     </div>
      <div class="tbl5 st4" style="width:140px">
@@ -48,7 +48,7 @@
     <div class="tbl0 st0">
       Auslastung IPS zert.
     </div>
-    <div class="tbl5 s0" style="width:140px">
+    <div class="tbl5 st0" style="width:140px">
       77.5 %
     </div>
      <div class="tbl5 st4" style="width:140px">
