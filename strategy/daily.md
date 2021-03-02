@@ -66,7 +66,7 @@
       > ob. Grenze
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:405px;">
+  <div class="ntbl" style="display:none;width:405px;">
     <div class="tbl0 st0">
       Grüne Zonen
     </div>
