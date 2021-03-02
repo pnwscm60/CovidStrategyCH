@@ -11,7 +11,7 @@
   <body> 
  <div style="display:flex;"><h2>Aktuelle Ampelwerte</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
-  <div class="ntable" style="display:flex;width:425px;margin-top:1em;">
+  <div class="ntable" style="display:flex;width:405px;margin-top:1em;">
     <div class="tbl0 st0">
       Kriterien
     </div>
@@ -22,7 +22,7 @@
       Stufe
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:425px;">
+  <div class="ntbl" style="display:flex;width:405px;">
      <div class="tbl0 st0">
       7d-Inzidenz/100k
     </div>
@@ -33,44 +33,44 @@
       >20
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:425px;">
+  <div class="ntbl" style="display:flex;width:405px;">
      <div class="tbl0 st0">
       Aufklärung CT
     </div>
-    <div class="tbl5 st0" style="width:140px">
+    <div class="tbl5 st0" style="width:110px">
       < 20 %
     </div>
-     <div class="tbl5 st4b" style="width:140px">
+     <div class="tbl5 st4b" style="width:110px">
       < 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:425px;">
+  <div class="ntbl" style="display:flex;width:405px;">
     <div class="tbl0 st0">
       Auslastung IPS zert.
     </div>
-    <div class="tbl5 st0" style="width:140px">
+    <div class="tbl5 st0" style="width:110px">
       77.5 %
     </div>
-     <div class="tbl5 st4b" style="width:140px">
+     <div class="tbl5 st4b" style="width:110px">
       > 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:425px;">
+  <div class="ntbl" style="display:flex;width:405px;">
     <div class="tbl0 st0">
       Re
     </div>
-    <div class="tbl5 st0" style="width:140px">
+    <div class="tbl5 st0" style="width:110px">
      1.06 [0.91–1.22]
     </div>
-    <div class="tbl5 st4b" style="width:140px">
+    <div class="tbl5 st4b" style="width:110px">
       > ob. Grenze
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:425px;">
+  <div class="ntbl" style="display:flex;width:405px;">
     <div class="tbl0 st0">
       Grüne Zonen
     </div>
-  <div class="tbl5 st0" style="width:280px;">
+  <div class="tbl5 st0" style="width:220px;">
     Aktuell keine grünen Zonen
     </div>
     </div>
