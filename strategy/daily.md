@@ -12,7 +12,7 @@
  <div style="display:flex;"><h2>Aktuelle Ampelwerte</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
   <div class="ntable" style="display:flex;width:425px;margin-top:1em;">
-    <div class="tbl0 st0" >
+    <div class="tbl0 st0">
       Kriterien
     </div>
     <div class="tbl5 st0" style="width:140px">
@@ -23,7 +23,7 @@
     </div>
     </div>
   <div class="ntbl" style="display:flex;width:425px;">
-    <div class="tbl0 st0">
+     <div class="tbl0 st0">
       7d-Inzidenz/100k
     </div>
     <div class="tbl5 st0" style="width:140px">
@@ -34,7 +34,7 @@
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:425px;">
-    <div class="tbl0 st0">
+     <div class="tbl0 st0">
       Aufklärung CT
     </div>
     <div class="tbl5 st0" style="width:140px">
