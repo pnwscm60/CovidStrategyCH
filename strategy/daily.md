@@ -29,7 +29,7 @@
     <div class="tbl5 st0" style="width:140px">
       83.5
     </div>
-     <div class="tbl5 st4" style="width:140px">
+     <div class="tbl5 s4" style="width:140px">
       >20
     </div>
   </div>
@@ -40,7 +40,7 @@
     <div class="tbl5 st0" style="width:140px">
       < 20 %
     </div>
-     <div class="tbl5 st4" style="width:140px">
+     <div class="tbl5 s4" style="width:140px">
       < 70 %
     </div>
   </div>
@@ -51,7 +51,7 @@
     <div class="tbl5 st0" style="width:140px">
       77.5 %
     </div>
-     <div class="tbl5 st4" style="width:140px">
+     <div class="tbl5 s4" style="width:140px">
       > 70 %
     </div>
   </div>
@@ -59,16 +59,19 @@
     <div class="tbl0 st0">
       Re
     </div>
-    <div class="tbl1 st5">
-     1.06 [0.91–1.22]: oberer Grenzwert überschritten
+    <div class="tbl1 st0">
+     1.06 [0.91–1.22]
+    </div>
+    <div class="tbl5 s4" style="width:140px">
+      > ob. Grenze
     </div>
     </div>
-  <div class="ntbl" style="display:flex;margin-top:1em;width:100%;min-width:425px;">
+  <div class="ntbl" style="display:flex;margin-top:1em;width:425px;">
     <div class="tbl0 st0">
       Grüne Zonen
     </div>
-  <div class="tbl1 s5" style="background-color:#00cc99;">
-    Aktuell bestehen keine grünen Zonen in der Schweiz
+  <div class="tbl1 s5" style="width:280px;">
+    Aktuell keine grünen Zonen
     </div>
     </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
