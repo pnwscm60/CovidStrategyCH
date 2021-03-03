@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:110px">
-      77.5 %
+      84 %
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
