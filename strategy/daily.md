@@ -78,9 +78,8 @@
      <div class="" style="width:90px;background-color:none;">
       Beurteilung:
     </div>
-    <div class="" style="width:240px">
-     Exp. Wachstum, hohe Aktivität<br/>
-      Weitere Massnahmen erforderl.
+    <div class="" style="width:260px;font-size:1.2em;">
+     Exp. Wachstum, weitere Massnahmen erforderlich
     </div>
   </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
