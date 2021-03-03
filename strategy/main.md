@@ -42,10 +42,10 @@ Das System basiert darauf, dass bei Einschränkungen in bestimmten Bereichen fü
 <div class="ntext">
 Über alle Massnahmen (in unserem Modell die Komponenten der vier Module) wird ein Raster mit 4 Alarmstufen (Ampelsystem) gelegt. Zur Bestimmung der aktuell geltenden Alarmstufe werden folgende Kriterien verwendet:</div>
 <ul>
-  <li><strong><a href="">7-Tageinzidenz/100k Einwohner*innen</a></strong><a href="inzidenz" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></li>
-  <li><strong><a href="">Aufklärungsrate Contact Tracing</a></strong><a href="ctrace" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></li>
-  <li><strong><a href="">Belegung der zertifizierten IPS-Betten</a></strong><a href="ipsbed" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></li>
-  <li><strong><a href="RWert">Re-Wert</a></strong><a href="RWert" style="width:1em;height:0.8em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></li>
+  <li><strong>7-Tageinzidenz/100k Einwohner*innen</strong></li>
+  <li><strong>Aufklärungsrate Contact Tracing</strong></li>
+  <li><strong>Belegung der zertifizierten IPS-Betten</strong></li>
+  <li><strong>Re-Wert</strong></li>
 </ul>
 </div>
 
