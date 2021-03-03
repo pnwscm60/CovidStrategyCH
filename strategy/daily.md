@@ -11,8 +11,8 @@
   <body> 
  <div style="display:flex;"><h2>Aktuelle Ampelwerte</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
-  <div class="ntbl" style="display:flex;width:355px;margin-top:1em;">
-    <div class="st0" style="width:140px">
+  <div class="ntbl" style="display:flex;width:343px;margin-top:1em;">
+    <div class="st0" style="width:130px">
       Kriterien
     </div>
     <div class=" st0" style="width:110px">
@@ -22,8 +22,8 @@
       Stufe
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:355px;">
-     <div class="st0" style="width:140px">
+  <div class="ntbl" style="display:flex;width:343px;">
+     <div class="st0" style="width:130px">
       7d-Inzidenz/100k
     </div>
     <div class=" st0" style="width:110px">
@@ -33,8 +33,8 @@
       >20
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:355px;">
-     <div class=" st0" style="width:140px">
+  <div class="ntbl" style="display:flex;width:343px;">
+     <div class=" st0" style="width:130px">
       Aufklärung CT
     </div>
     <div class=" st0" style="width:110px">
@@ -44,8 +44,8 @@
       < 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:355px;">
-    <div class=" st0" style="width:140px">
+  <div class="ntbl" style="display:flex;width:343px;">
+    <div class=" st0" style="width:130px">
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:110px">
@@ -55,8 +55,8 @@
       > 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:355px;">
-    <div class=" st0" style="width:140px">
+  <div class="ntbl" style="display:flex;width:343px;">
+    <div class=" st0" style="width:130px">
       Re
     </div>
     <div class=" st0" style="width:110px">
@@ -66,7 +66,7 @@
       > ob. Grenze
     </div>
     </div>
-  <div class="ntbl" style="display:none;width:355px;">
+  <div class="ntbl" style="display:none;width:343px;">
     <div class="tbl0 st0">
       Grüne Zonen
     </div>
