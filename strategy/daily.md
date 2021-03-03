@@ -74,13 +74,13 @@
     Aktuell keine grünen Zonen
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:332px;margin-top:0.5em;">
+  <div class="ntbl" style="display:flex;width:333px;margin-top:0.5em;">
      <div class=" st0" style="width:120px">
       Beurteilung
     </div>
-    <div class=" st0" style="width:210px">
+    <div class=" st0" style="width:212px">
      Exp. Wachstum, hohe Aktivität<br/>
-      Verschärfte Massnahmen erforderlich
+      Weitere Massnahmen erforderl.
     </div>
   </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
