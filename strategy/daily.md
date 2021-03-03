@@ -75,11 +75,14 @@
     </div>
     </div>
   <div class="ntbl" style="display:flex;width:332px;margin-top:0.5em;">
-         <div class=" st0" style="width:120px">
+     <div class=" st0" style="width:120px">
       Beurteilung
-    </div
-        <div class="st0">Hohe Aktivität, exp. Wachstum<br/>Verschärfung Massnahmen erforderlich.</div>
-      </div>
+    </div>
+    <div class=" st0" style="width:210px">
+     Exp. Wachstum, hohe Aktivität<br/>
+      Verschärfte Massnahmen erforderlich
+    </div>
+  </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
   <h3>Literatur</h3>
   <div id="ref1">Low N. Contact tracing for COVID-19. WHO/GOARN Global Consultation on Contact Tracing for COVID-19. https://ispmbern.github.io/covid-19/Forward_backward_WHO_201007.pdf, abgerufen 18.12.2020</div>
