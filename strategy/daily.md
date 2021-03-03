@@ -75,10 +75,10 @@
     </div>
     </div>
   <div class="ntbl" style="display:flex;width:333px;margin-top:0.5em;">
-     <div class="" style="width:90px;background-color:none;">
+     <div class="" style="width:100px;font-size:1.2em;">
       Beurteilung:
     </div>
-    <div class="" style="width:260px;font-size:1.2em;">
+    <div class="" style="width:280px;font-size:1.2em;">
      Exp. Wachstum, weitere Massnahmen erforderlich
     </div>
   </div>
