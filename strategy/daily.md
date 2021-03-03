@@ -78,7 +78,7 @@
      <div class=" st0" style="width:120px">
       Beurteilung
     </div>
-    <div class=" st0" style="width:212px">
+    <div class=" st0" style="width:220px">
      Exp. Wachstum, hohe Aktivität<br/>
       Weitere Massnahmen erforderl.
     </div>
