@@ -63,7 +63,7 @@
      1.06 [0.91–1.22]
     </div>
     <div class=" st4b" style="width:100px">
-      > ob. Grenze
+      ob. Grenze > 1.2
     </div>
     </div>
   <div class="ntbl" style="display:none;width:333px;">
