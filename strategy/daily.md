@@ -74,8 +74,11 @@
     Aktuell keine grünen Zonen
     </div>
     </div>
-      <div class="ntbl" style="display:flex;width:333px;">
-        <div class="st0">Beurteilung: Hohe Aktivität, bei exp. Zuwachs keine Lockerungen möglich.</div>
+      <div class="ntbl" style="display:flex;width:332px;">
+         <div class=" st0" style="width:120px">
+      Beurteilung
+    </div
+        <div class="st0">Hohe Aktivität, exp. Wachstum<br/>Verschärfung Massnahmen erforderlich.</div>
       </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
   <h3>Literatur</h3>
