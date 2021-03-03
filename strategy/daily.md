@@ -22,8 +22,8 @@
       Stufe
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:343px;">
-     <div class="st0" style="width:130px">
+  <div class="ntbl" style="display:flex;width:333px;">
+     <div class="st0" style="width:120px">
       7d-Inzidenz/100k
     </div>
     <div class=" st0" style="width:110px">
@@ -33,8 +33,8 @@
       >20
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:343px;">
-     <div class=" st0" style="width:130px">
+  <div class="ntbl" style="display:flex;width:333px;">
+     <div class=" st0" style="width:120px">
       Aufklärung CT
     </div>
     <div class=" st0" style="width:110px">
@@ -44,8 +44,8 @@
       < 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:343px;">
-    <div class=" st0" style="width:130px">
+  <div class="ntbl" style="display:flex;width:333px;">
+    <div class=" st0" style="width:120px">
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:110px">
@@ -55,8 +55,8 @@
       > 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:343px;">
-    <div class=" st0" style="width:130px">
+  <div class="ntbl" style="display:flex;width:333px;">
+    <div class=" st0" style="width:120px">
       Re
     </div>
     <div class=" st0" style="width:110px">
@@ -66,11 +66,11 @@
       > ob. Grenze
     </div>
     </div>
-  <div class="ntbl" style="display:none;width:343px;">
-    <div class="tbl0 st0">
+  <div class="ntbl" style="display:none;width:333px;">
+    <div class="tbl0 st0" style="width:120px">
       Grüne Zonen
     </div>
-  <div class="tbl5 st0" style="width:220px;">
+  <div class="tbl5 st0" style="width:210px;">
     Aktuell keine grünen Zonen
     </div>
     </div>
