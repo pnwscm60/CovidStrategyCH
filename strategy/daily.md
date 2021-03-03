@@ -74,7 +74,7 @@
     Aktuell keine grünen Zonen
     </div>
     </div>
-      <div class="ntbl" style="display:flex;width:332px;">
+  <div class="ntbl" style="display:flex;width:332px;margin-top:0.5em;">
          <div class=" st0" style="width:120px">
       Beurteilung
     </div
