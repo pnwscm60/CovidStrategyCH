@@ -11,14 +11,14 @@
   <body> 
  <div style="display:flex;"><h2>Aktuelle Ampelwerte</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
-  <div class="ntable" style="display:flex;width:355px;margin-top:1em;">
+  <div class="ntabl" style="display:flex;width:355px;margin-top:1em;">
     <div class=" st0" style="width:140px">
       Kriterien
     </div>
     <div class=" st0" style="width:110px">
       Aktueller Wert
     </div>
-    <div class=" s0" style="width:110px">
+    <div class=" s0" style="width:100px">
       Stufe
     </div>
     </div>
