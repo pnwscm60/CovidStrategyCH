@@ -9,7 +9,7 @@
 </style>
   </head>
   <body> 
- <div style="display:flex;"><h2>Aktuelle Ampelwerte 02.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
+ <div style="display:flex;"><h2>Aktuelle Ampelwerte 03.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
   <div class="ntbl" style="display:flex;width:333px;margin-top:1em;">
     <div class="st0" style="width:120px">
@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div class=" st0" style="width:110px">
-      83.5
+      76.5
     </div>
      <div class=" st4b" style="width:100px">
       >20
@@ -63,7 +63,7 @@
      1.06 [0.91–1.22]
     </div>
     <div class=" st4b" style="width:100px">
-      ob. Grenze > 1.2
+      > 1.2
     </div>
     </div>
   <div class="ntbl" style="display:none;width:333px;">
@@ -74,6 +74,9 @@
     Aktuell keine grünen Zonen
     </div>
     </div>
+      <div class="ntbl" style="display:flex;width:333px;">
+        <div class="st0">Beurteilung: Hohe Aktivität, bei exp. Zuwachs keine Lockerungen möglich.</div>
+      </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
   <h3>Literatur</h3>
   <div id="ref1">Low N. Contact tracing for COVID-19. WHO/GOARN Global Consultation on Contact Tracing for COVID-19. https://ispmbern.github.io/covid-19/Forward_backward_WHO_201007.pdf, abgerufen 18.12.2020</div>
