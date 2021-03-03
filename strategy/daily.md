@@ -75,7 +75,7 @@
     </div>
     </div>
   <div class="ntbl" style="display:flex;width:333px;margin-top:0.5em;">
-     <div class="" style="width:90px">
+     <div class="" style="width:90px;background-color:none;">
       Beurteilung:
     </div>
     <div class="" style="width:240px">
