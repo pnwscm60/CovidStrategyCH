@@ -12,57 +12,57 @@
  <div style="display:flex;"><h2>Aktuelle Ampelwerte</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
   <div class="ntable" style="display:flex;width:355px;margin-top:1em;">
-    <div class="tbl0 st0" style="width:140px">
+    <div class=" st0" style="width:140px">
       Kriterien
     </div>
-    <div class="tbl5 st0" style="width:110px">
+    <div class=" st0" style="width:110px">
       Aktueller Wert
     </div>
-    <div class="tbl5 s0" style="width:110px">
+    <div class=" s0" style="width:110px">
       Stufe
     </div>
     </div>
   <div class="ntbl" style="display:flex;width:355px;">
-     <div class="tbl0 st0" style="width:140px">
+     <div class=" st0" style="width:140px">
       7d-Inzidenz/100k
     </div>
-    <div class="tbl5 st0" style="width:110px">
+    <div class=" st0" style="width:110px">
       83.5
     </div>
-     <div class="tbl5 st4b" style="width:100px">
+     <div class=" st4b" style="width:100px">
       >20
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:355px;">
-     <div class="tbl0 st0" style="width:140px">
+     <div class=" st0" style="width:140px">
       Aufklärung CT
     </div>
-    <div class="tbl5 st0" style="width:110px">
+    <div class=" st0" style="width:110px">
       < 20 %
     </div>
-     <div class="tbl5 st4b" style="width:100px">
+     <div class=" st4b" style="width:100px">
       < 70 %
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:355px;">
-    <div class="tbl0 st0" style="width:140px">
+    <div class=" st0" style="width:140px">
       Auslastung IPS zert.
     </div>
-    <div class="tbl5 st0" style="width:110px">
+    <div class=" st0" style="width:110px">
       77.5 %
     </div>
-     <div class="tbl5 st4b" style="width:100px">
+     <div class=" st4b" style="width:100px">
       > 70 %
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:355px;">
-    <div class="tbl0 st0" style="width:140px">
+    <div class=" st0" style="width:140px">
       Re
     </div>
-    <div class="tbl5 st0" style="width:110px">
+    <div class=" st0" style="width:110px">
      1.06 [0.91–1.22]
     </div>
-    <div class="tbl5 st4b" style="width:100px">
+    <div class=" st4b" style="width:100px">
       > ob. Grenze
     </div>
     </div>
