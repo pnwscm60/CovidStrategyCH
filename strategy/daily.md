@@ -9,7 +9,7 @@
 </style>
   </head>
   <body> 
- <div style="display:flex;"><h2>Aktuelle Ampelwerte 03.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
+ <div style="display:flex;"><h2>Aktuelle Ampelwerte 04.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
   <div class="ntbl" style="display:flex;width:333px;margin-top:1em;">
     <div class="st0" style="width:120px">
@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div class=" st0" style="width:110px">
-      76.5
+      78.1
     </div>
      <div class=" st4b" style="width:100px">
       >20
@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:110px">
-      84 %
+      85 %
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
@@ -60,10 +60,10 @@
       Re
     </div>
     <div class=" st0" style="width:110px">
-     1.06 [0.91–1.22]
+     1.07 [0.93–1.20]
     </div>
     <div class=" st4b" style="width:100px">
-      > 1.2
+      UL > 1
     </div>
     </div>
   <div class="ntbl" style="display:none;width:333px;">
