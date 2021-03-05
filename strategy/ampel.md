@@ -35,11 +35,8 @@
     <div class="tbl5 st1">
       Stufe 1
     </div>
-    <div class="tbl5 st4">
+    <div class="tbl5 st2">
       Stufe 2
-    </div>
-    <div class="tbl5 st3">
-      Stufe 3
     </div>
     <div class="tbl5 st4">
       Stufe 4
@@ -50,16 +47,13 @@
       7d-Inzidenz/100k
     </div>
     <div class="tbl5 s1">
-      < 7
+      < 3
     </div>
      <div class="tbl5 s2">
-      7–13
-    </div>
-     <div class="tbl5 s3">
-      14–20
+      3–8
     </div>
      <div class="tbl5 s4">
-     > 20
+     > 8
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -70,13 +64,10 @@
       > 90 %
     </div>
      <div class="tbl5 s2">
-      80–90 %
-    </div>
-     <div class="tbl5 s3">
-      70–80 %
+      75–90 %
     </div>
      <div class="tbl5 s4">
-     < 70 %
+     < 75 %
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -87,10 +78,7 @@
       < 50 %
     </div>
      <div class="tbl5 s2">
-      50–60 %
-    </div>
-     <div class="tbl5 s3">
-      60–70 %
+      50–70 %
     </div>
      <div class="tbl5 s4">
      > 70 %
