@@ -32,11 +32,8 @@
     <div class="tbl5 st2">
       Stufe 2
     </div>
-    <div class="tbl5 st3">
-      Stufe 3
-    </div>
     <div class="tbl5 st4">
-      Stufe 4
+      Stufe 3
     </div>
     </div>
      <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -47,9 +44,6 @@
       in Innenräumen
     </div>
      <div class="tbl5 s2">
-      in Innenräumen
-    </div>
-     <div class="tbl5 s3">
       allg. Tragpflicht
     </div>
      <div class="tbl5 s4">
@@ -64,9 +58,6 @@
       Mit Schutzmassnahmen
     </div>
      <div class="tbl5 s2">
-      mit Schutzmassnahmen
-    </div>
-     <div class="tbl5 s3">
       nur Einzelunterricht
     </div>
      <div class="tbl5 s4">
@@ -79,7 +70,7 @@
     </div>
     <div class="tbl1 s0">
       Ausser bei alleinigem Gebrauch vermeiden<br/>
-      Falls unabdingbar > Maske/Ventilation
+      Falls unabdingbar –> Maske/Ventilation
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
