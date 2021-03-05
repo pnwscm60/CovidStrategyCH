@@ -45,7 +45,7 @@
       Stufe 2
     </div>
     <div class="tbl5 st4">
-      Stufe 4
+      Stufe 3
     </div>
     </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -185,7 +185,7 @@
      offen
     </div>
      <div class="tbl5 s2">
-      offen
+      geschlossen
     </div>
      <div class="tbl5 s4">
       geschlossen
@@ -213,7 +213,7 @@
      offen
     </div>
      <div class="tbl5 s2">
-      offen
+      geschlossen
     </div>
      <div class="tbl5 s4">
       geschlossen
