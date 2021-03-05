@@ -49,7 +49,7 @@ Das System basiert darauf, dass bei Einschränkungen in bestimmten Bereichen fü
   <li><strong>Belegung der zertifizierten IPS-Betten</strong></li>
   <li><strong>Re-Wert</strong></li>
 </ul>
-</div>
+
 <div style="display:flex;margin-top:1.5em;"><h2><a a href="derweg">Der Weg dahin: Shutdown + Massentests</a></h2><a href="derweg" style="width:1em;height:1.3em;margin-left:1em;padding:0px 2px 0px 4px;background-color:#888;color:#fff;">&#9658;</a></div>
 <div class="ntext">
   In einem ersten Schritt muss die 7-Tageinzidenz/100k von > 80 reduziert werden. Dies ist in sehr kurzer Zeit nur durch einen kurzdauernden Shutdown (2–3 Wochen) zusammen mit Massentests möglich. Durch mehrmaliges Testen der gesamten Bevölkerung und konsequentes isolieren positiver Personen bzw. in Quarantäne setzen von Kontaktpersonen kann die Inzidenz sehr rasch gesenkt werden. 
