@@ -17,7 +17,7 @@
       <h3>Testdurchführung</h3>
      <div class="ntext"> Grundsätzlich werden die Tests allen Bewohner*innen in der CH per Post zugestellt (2 Tests für die erste Testrunde). Alle Testergebnisse werden in einer vom BAG zur Verfügung gestellten Web-Aplikation eingegeben (Monitoring). Ein Grossaufgebot von Zivilschutz/Militär und entsprechender Telefonhotline muss diesen Prozess begleiten, damit jede/jeder rasch Hilfe bekommt, falls Probleme auftreten. Dem Risiko, dass positive Tests nicht gemeldet werden (aus sozialen/beruflichen Gründen) muss durch entsprechende Massnahmen (automatische Entschädigung von Fehlzeiten, Bussandrohung) begegnet werden.
   </div>
-      <h3>Testablauf</div>
+      <h3>Testablauf</h3>
       <ul><li><strong>Tag -7 </strong> – Information Bevölkerung über bevorstehende Massentests. Bekanntgabe Shutdown ab Tag 1.</li>
       <ul><li><strong>Tag 0 (Mo)</strong> – Versand der Tests an die Bevölkerung 2 Tage vor geplantem Testtag 1.</li>
       <ul><li><strong>Tag 1 (Di)</strong> – Inkrafttreten des Shutdowns inkl. Schulen</li>
