@@ -30,7 +30,7 @@
       84.5
     </div>
      <div class=" st4b" style="width:100px">
-      >20
+      >8
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:333px;">
