@@ -31,5 +31,7 @@
         </div>
         <div class="ntext">Parallel dazu wird ab Tag -14 ein zentral geführtes Contact Tracing mit einheitlichen Richtlinien und Backward Tracing über 5 Tage installiert. Dieses baut auf den bereits bestehenden kantonalen Ressourcen auf, vereinheitlicht aber die Art des Tracings, die Abläufe und die Datenerfassung. Ziel ist eine <strong>vollständige</strong> Aufklärung aller Infektionsketten.</div>
         </div>
+      <div class="ntext">Da davon ausgegangen werden muss, dass mit einer einmaligen Testrunde längst nicht alle Infektionen erfasst werden (wegen Falschmeldungen, falscher Testausführung, Verweigerung), muss die Testrunde wahrscheinlich nach 2 Wochen wiederholt werden, um die Inzidenz nachhaltig sehr rasch senken zu können.</div>
 <h3 style="margin-top:1em;">Literatur</h3>
 <div class="ref" id="ref1">Lindner et al.: Head-to-head comparison of SARS-CoV-2 antigen detecting rapid test with selfcollected anterior nasal swab versus profeccional collected nasopharyngeal swab. https://doi.org/10.1101/2020.10.26.20219600</div>
+      <div class="ref" id="ref2">We Can End The Pandemic Today. https://www.rapidtests.org/ (abgerufen 04.03.2021)</div>
