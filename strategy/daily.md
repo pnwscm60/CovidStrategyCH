@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div class=" st0" style="width:110px">
-      78.1
+      84.5
     </div>
      <div class=" st4b" style="width:100px">
       >20
@@ -60,7 +60,7 @@
       Re
     </div>
     <div class=" st0" style="width:110px">
-     1.07 [0.93–1.20]
+     1.04 [0.9–1.19]
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
