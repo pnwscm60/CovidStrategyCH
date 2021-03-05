@@ -13,7 +13,7 @@
     <div class="twocol">
     <div class="ntext">
       <ul>
-        <li><strong>Testen</strong> Testen ist das zentrale Element in der Gesamtstrategie: Ohne Tests weiss man nicht, wie sich das Virus in der Bevölkerung verbreitet. Eine gezielte Eindämmung ist nur mittels einer gut eingerichteten und leistungsstarken Testinfrastruktur möglich. Schnelltests haben ein höheres Risiko für viele falsch Positive Fälle. Im Schnelltest positive Fälle sollten mit einem PCR-Test nachgeprüft werden. Beachten: Auch bei PCR-Tests sind negative Tests bei bestehender Coronainfektion möglich. Ab Stufe 2 müssen in Gesundheitsinstitutionen (Spitälern, Heimen) regelmässige Schnelltests beim Personal durchgeführt werden, um eine Ausbreitung frühzeitig zu verhindern. Massentests sind eine wichtige Zusatzmassnahme in Stufe 4, um die Kontrolle über die Pandemie wiederzuerlangen.</li>
+        <li><strong>Testen</strong> Testen ist das zentrale Element in der Gesamtstrategie: Ohne Tests weiss man nicht, wie sich das Virus in der Bevölkerung verbreitet. Eine gezielte Eindämmung ist nur mittels einer gut eingerichteten und leistungsstarken Testinfrastruktur möglich. Schnelltests haben ein höheres Risiko für viele falsch Positive Fälle. Im Schnelltest positive Fälle müssen mit einem PCR-Test nachgeprüft werden. Beachten: Auch bei PCR-Tests sind negative Tests bei bestehender Coronainfektion möglich. Ab Stufe 2 müssen in Gesundheitsinstitutionen (Spitälern, Heimen) regelmässige Schnelltests beim Personal durchgeführt werden, um eine Ausbreitung frühzeitig zu verhindern. Massentests sind eine wichtige Zusatzmassnahme in Stufe 3, um die Kontrolle über die Pandemie wiederzuerlangen.</li>
         <li><strong>Contact Tracing</strong> Das Contact Tracing, mit dem Infektionsketten unterbrochen werden sollen, erfolgt durch geschultes Personal in ausreichender Menge. Mit bestätigten Fällen muss eine ausführliche Anamnese durchgeführt werden (Backward/Forward). Personen in Isolation und Quarantäne müssen zur Kontrolle regelmässig (idealerweise täglich) angerufen werden. Die Verarbeitung erfolgt durch ein in der Schweiz einheitliches Contact Tracing-System, mit dem die Daten automatisch an das BAG übermittelt werden.</li>
         <li><strong>Covid App</strong> Die Covid-App kann durch ihren dezentralen Ansatz das klassische «manuelle» Contact Tracing nicht ersetzen, sie kann aber Kontaktpersonen von Infizierten frühzeitig alarmieren und zum Unterbruch von Infektionsketten beitragen.</li>
       </ul>
@@ -29,11 +29,8 @@
     <div class="tbl5 st2">
       Stufe 2
     </div>
-    <div class="tbl5 st3">
-      Stufe 3
-    </div>
     <div class="tbl5 st4">
-      Stufe 4
+      Stufe 3
     </div>
     </div>
    <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -46,9 +43,6 @@
      <div class="tbl5 s2">
       + Testzentren
     </div>
-     <div class="tbl5 s3">
-      + Testzentren
-    </div>
      <div class="tbl5 s4">
       + Testzentren
     </div>
@@ -59,17 +53,17 @@
     </div>
     <div class="tbl5 s1">
      Apotheken
+     + Gesundheitsinstitutionen
+     + Schulen/Kindergärten wöchentlich
     </div>
      <div class="tbl5 s2">
       + Gesundheitsinstitutionen
-    </div>
-     <div class="tbl5 s3">
-      + Gesundheitsinstitutionen<br/>
-      + Schulen
+      + Schulen/Kindergärten
+      + Unternehmen ohne Homeoffice-Möglichkeit
     </div>
      <div class="tbl5 s4">
       + Gesundheitsinstitutionen<br/>
-       + Massentests
+      + Massentests
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;margin-top:1em;">
@@ -77,7 +71,7 @@
       Contact Tracing
     </div>
     <div class="tbl1 s0">
-      Adäquat dotiert (Faustregel: Anzahl entspricht Tagesinzidenz), Effizienz kontrolliert
+      Adäquat dotiert (Faustregel: Personen = Tagesinzidenz * 4), Effizienz kontrolliert
     </div>
   </div>
   <div class="ntbl" style="display:flex;width:100%;min-width:400px;">
@@ -94,7 +88,7 @@
     </div>
     <div class="tbl1 s0">
       Adäquate Funktion, Zustellung Code innert 24h<br/>
-      Minimale Verbreitung 70 %, damit Lockerungen Stufen 2/1 möglich
+      Minimale Verbreitung 50 %, damit Lockerungen Stufen 1 möglich
     </div>
   </div>
 
