@@ -30,7 +30,6 @@
 <div class="ntext">Alle Kontaktpersonen (Familienumfeld, direkte Kontakte in Vorwoche (Mitschüler*innen, Lehrpersonen, Mitarbeiter*innen, etc.) von mit PCR positiv Getesteten halten eine weitere 7-tägige Quarantäne ein. Sie führen am letzten Tag vor Ablauf der Quarantäne nochmals einen Selbsttest durch.    
         </div>
         <div class="ntext">Parallel dazu wird ab Tag -14 ein zentral geführtes Contact Tracing mit einheitlichen Richtlinien und Backward Tracing über 5 Tage installiert. Dieses baut auf den bereits bestehenden kantonalen Ressourcen auf, vereinheitlicht aber die Art des Tracings, die Abläufe und die Datenerfassung. Ziel ist eine <strong>vollständige</strong> Aufklärung aller Infektionsketten.</div>
-Lindner et al.: Head-to-head comparison of
-SARS-CoV-2 antigen detecting rapid test with selfcollected anterior nasal swab versus profeccional
-collected nasopharyngeal swab. https://doi.
-org/10.1101/2020.10.26.20219600
+        </div>
+<h3 style="margin-top:1em;">Literatur</h3>
+<div class="ref" id="ref1">Lindner et al.: Head-to-head comparison of SARS-CoV-2 antigen detecting rapid test with selfcollected anterior nasal swab versus profeccional collected nasopharyngeal swab. https://doi.org/10.1101/2020.10.26.20219600</div>
