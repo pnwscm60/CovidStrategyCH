@@ -9,7 +9,7 @@
 </style>
   </head>
   <body> 
- <div style="display:flex;"><h2>Aktuelle Ampelwerte 05.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
+ <div style="display:flex;"><h2>Aktuelle Ampelwerte 08.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
   <div class="ntbl" style="display:flex;width:333px;margin-top:1em;">
     <div class="st0" style="width:120px">
@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div class=" st0" style="width:110px">
-      84.5
+      85
     </div>
      <div class=" st4b" style="width:100px">
       >8
@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:110px">
-      85 %
+      81 %
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
@@ -60,7 +60,7 @@
       Re
     </div>
     <div class=" st0" style="width:110px">
-     1.04 [0.9–1.19]
+     1.09 [0.94–1.24]
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
@@ -89,3 +89,4 @@
   <div id="ref3">Schweizerische Gesellschaft für Intensivmedizin SGI, Zertifizierungskommission. https://www.sgi-ssmi.ch/de/zertifizierte-is.html (abgerufen 18.12.2020)</div>
     </div>
     <div id="ref4">https://www.endcoronavirus.org/ Internationale Aktionsgruppe zur Bekämpfung der Pandemie, abgerufen: 30.12.2020</div>
+      <div id="ref5">Data from ETH Zurich. https://tb.ethz.ch/plot.html (abgerufen 08.03.2021)</div>  
