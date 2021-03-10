@@ -11,7 +11,7 @@
   <body> 
  <div style="display:flex;"><h2>Aktuelle Ampelwerte 09.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
-  <div class="ntbl" style="display:flex;width:353px;margin-top:1em;">
+  <div class="ntbl" style="display:flex;width:373px;margin-top:1em;">
     <div class="st0" style="width:120px">
       Kriterien
     </div>
@@ -22,7 +22,7 @@
       Stufe
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:353px;">
+  <div class="ntbl" style="display:flex;width:373px;">
      <div class="st0" style="width:120px">
       7d-Inzidenz/100k
     </div>
@@ -33,7 +33,7 @@
       >8
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:353px;">
+  <div class="ntbl" style="display:flex;width:373px;">
      <div class=" st0" style="width:120px">
       Aufklärung CT
     </div>
@@ -44,7 +44,7 @@
       < 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:353px;">
+  <div class="ntbl" style="display:flex;width:373px;">
     <div class=" st0" style="width:120px">
       Auslastung IPS zert.
     </div>
@@ -55,7 +55,7 @@
       > 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:353px;">
+  <div class="ntbl" style="display:flex;width:373px;">
     <div class=" st0" style="width:120px">
       Re
     </div>
@@ -66,7 +66,7 @@
       UL > 1
     </div>
     </div>
-  <div class="ntbl" style="display:none;width:353px;">
+  <div class="ntbl" style="display:none;width:373px;">
     <div class="tbl0 st0" style="width:120px">
       Grüne Zonen
     </div>
@@ -74,7 +74,7 @@
     Aktuell keine grünen Zonen
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:333px;margin-top:0.5em;">
+  <div class="ntbl" style="display:flex;width:373px;margin-top:0.5em;">
      <div class="" style="width:100px;font-size:1.2em;">
       Beurteilung:
     </div>
