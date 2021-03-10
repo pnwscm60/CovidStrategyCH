@@ -60,7 +60,7 @@
       Re
     </div>
     <div class=" st0" style="width:150px">
-     1.09 [0.94–1.24] <span class="material-icons">east</span>
+     1.09 [0.94–1.24] <span class="material-icons md-18">east</span>
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
