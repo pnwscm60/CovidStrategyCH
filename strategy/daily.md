@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div class=" st0" style="width:110px">
-      84.5
+      87.4
     </div>
      <div class=" st4b" style="width:100px">
       >8
@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:110px">
-      85 %
+      86 % 
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
