@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div class=" st0" style="width:110px">
-      87.4
+      87.4 <span class="material-icons">north</span>
     </div>
      <div class=" st4b" style="width:100px">
       >8
@@ -38,7 +38,7 @@
       Aufklärung CT
     </div>
     <div class=" st0" style="width:110px">
-      < 20 %
+      < 20 % <span class="material-icons">east</span>
     </div>
      <div class=" st4b" style="width:100px">
       < 70 %
@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:110px">
-      86 % 
+      86 % <span class="material-icons">north</span>
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
@@ -60,7 +60,7 @@
       Re
     </div>
     <div class=" st0" style="width:110px">
-     1.09 [0.94–1.24]
+     1.09 [0.94–1.24] <span class="material-icons">east</span>
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
