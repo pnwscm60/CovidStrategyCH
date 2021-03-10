@@ -11,66 +11,66 @@
   <body> 
  <div style="display:flex;"><h2>Aktuelle Ampelwerte 09.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
-  <div class="ntbl" style="display:flex;width:333px;margin-top:1em;">
+  <div class="ntbl" style="display:flex;width:353px;margin-top:1em;">
     <div class="st0" style="width:120px">
       Kriterien
     </div>
-    <div class=" st0" style="width:130px">
+    <div class=" st0" style="width:150px">
       Aktueller Wert
     </div>
     <div class="s0" style="width:100px">
       Stufe
     </div>
     </div>
-  <div class="ntbl" style="display:flex;width:333px;">
+  <div class="ntbl" style="display:flex;width:353px;">
      <div class="st0" style="width:120px">
       7d-Inzidenz/100k
     </div>
-    <div class=" st0" style="width:130px">
+    <div class=" st0" style="width:150px">
       87.4 <span class="material-icons">north</span>
     </div>
      <div class=" st4b" style="width:100px">
       >8
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:333px;">
+  <div class="ntbl" style="display:flex;width:353px;">
      <div class=" st0" style="width:120px">
       Aufklärung CT
     </div>
-    <div class=" st0" style="width:130px">
+    <div class=" st0" style="width:150px">
       < 20 % <span class="material-icons">east</span>
     </div>
      <div class=" st4b" style="width:100px">
       < 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:333px;">
+  <div class="ntbl" style="display:flex;width:353px;">
     <div class=" st0" style="width:120px">
       Auslastung IPS zert.
     </div>
-    <div class=" st0" style="width:130px">
+    <div class=" st0" style="width:150px">
       86 % <span class="material-icons">north</span>
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
     </div>
   </div>
-  <div class="ntbl" style="display:flex;width:333px;">
+  <div class="ntbl" style="display:flex;width:353px;">
     <div class=" st0" style="width:120px">
       Re
     </div>
-    <div class=" st0" style="width:130px">
+    <div class=" st0" style="width:150px">
      1.09 [0.94–1.24] <span class="material-icons">east</span>
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
     </div>
     </div>
-  <div class="ntbl" style="display:none;width:333px;">
+  <div class="ntbl" style="display:none;width:353px;">
     <div class="tbl0 st0" style="width:120px">
       Grüne Zonen
     </div>
-  <div class="tbl5 st0" style="width:230px;">
+  <div class="tbl5 st0" style="width:250px;">
     Aktuell keine grünen Zonen
     </div>
     </div>
