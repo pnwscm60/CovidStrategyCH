@@ -70,7 +70,7 @@
     <div class="tbl0 st0" style="width:120px">
       Grüne Zonen
     </div>
-  <div class="tbl5 st0" style="width:250px;">
+  <div class="tbl5 st0" style="width:350px;">
     Aktuell keine grünen Zonen
     </div>
     </div>
