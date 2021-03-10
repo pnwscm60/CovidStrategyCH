@@ -15,7 +15,7 @@
     <div class="st0" style="width:120px">
       Kriterien
     </div>
-    <div class=" st0" style="width:110px">
+    <div class=" st0" style="width:130px">
       Aktueller Wert
     </div>
     <div class="s0" style="width:100px">
@@ -26,7 +26,7 @@
      <div class="st0" style="width:120px">
       7d-Inzidenz/100k
     </div>
-    <div class=" st0" style="width:110px">
+    <div class=" st0" style="width:130px">
       87.4 <span class="material-icons">north</span>
     </div>
      <div class=" st4b" style="width:100px">
@@ -37,7 +37,7 @@
      <div class=" st0" style="width:120px">
       Aufklärung CT
     </div>
-    <div class=" st0" style="width:110px">
+    <div class=" st0" style="width:130px">
       < 20 % <span class="material-icons">east</span>
     </div>
      <div class=" st4b" style="width:100px">
@@ -48,7 +48,7 @@
     <div class=" st0" style="width:120px">
       Auslastung IPS zert.
     </div>
-    <div class=" st0" style="width:110px">
+    <div class=" st0" style="width:130px">
       86 % <span class="material-icons">north</span>
     </div>
      <div class=" st4b" style="width:100px">
@@ -59,7 +59,7 @@
     <div class=" st0" style="width:120px">
       Re
     </div>
-    <div class=" st0" style="width:110px">
+    <div class=" st0" style="width:130px">
      1.09 [0.94–1.24] <span class="material-icons">east</span>
     </div>
     <div class=" st4b" style="width:100px">
@@ -70,7 +70,7 @@
     <div class="tbl0 st0" style="width:120px">
       Grüne Zonen
     </div>
-  <div class="tbl5 st0" style="width:210px;">
+  <div class="tbl5 st0" style="width:230px;">
     Aktuell keine grünen Zonen
     </div>
     </div>
