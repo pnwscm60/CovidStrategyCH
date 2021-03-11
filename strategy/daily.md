@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div style="display:flex;" class=" st0" style="width:150px">
-      <div>89.4</div> <div style="margin-top:4px;"><span class="material-icons md-24">north</span></div></div>
+     89.4<span class="material-icons md-18">north</span></div>
     </div>
      <div class=" st4b" style="width:100px">
       >8
@@ -38,7 +38,7 @@
       Aufklärung CT
     </div>
     <div class=" st0" style="width:150px">
-      < 20 % <span class="material-icons md-24">east</span>
+      < 20 % <span class="material-icons md-18">east</span>
     </div>
      <div class=" st4b" style="width:100px">
       < 70 %
@@ -60,7 +60,7 @@
       Re
     </div>
     <div class=" st0" style="width:150px">
-     1.09 [0.96–1.21] <span class="material-icons md-24">east</span>
+     1.09 [0.96–1.21] <span class="material-icons md-18">east</span>
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
