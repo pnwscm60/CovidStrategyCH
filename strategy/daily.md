@@ -26,7 +26,7 @@
      <div class="st0" style="width:120px">
       7d-Inzidenz/100k
     </div>
-    <div style="display:flex;" class=" st0" style="width:150px">
+    <div class=" st0" style="width:150px">
      89.4<span class="material-icons md-18">north</span></div>
     </div>
      <div class=" st4b" style="width:100px">
