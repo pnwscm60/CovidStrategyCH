@@ -26,8 +26,8 @@
      <div class="st0" style="width:120px">
       7d-Inzidenz/100k
     </div>
-    <div class=" st0" style="width:150px">
-     89.4<span class="material-icons md-18">north</span></div>
+    <div class="st0" style="width:150px">
+     89.4<span class="material-icons md-18">north</span>
     </div>
      <div class=" st4b" style="width:100px">
       >8
@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:150px">
-      88.5 % <span class="material-icons md-24">north</span>
+      88.5 % <span class="material-icons md-18">north</span>
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
