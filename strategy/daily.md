@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div class="st0" style="width:150px">
-     92.4 <span class="material-icons md-18" style="color:red;background-color:#777;">north</span>
+     92.4 <span class="material-icons md-18" style="color:red;background-color:#aaa;">north</span>
     </div>
      <div class=" st4b" style="width:100px">
       >8
@@ -38,7 +38,7 @@
       Aufklärung CT
     </div>
     <div class=" st0" style="width:150px">
-      < 20 % <span class="material-icons md-18" style="color:#fed300;background-color:#777;">east</span>
+      < 20 % <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span>
     </div>
      <div class=" st4b" style="width:100px">
       < 70 %
@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:150px">
-      88.5 % <span class="material-icons md-18" style="color:#fed300;background-color:#777;">east</span>
+      88.5 % <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span>
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
@@ -60,7 +60,7 @@
       Re
     </div>
     <div class=" st0" style="width:150px">
-     1.08 [0.94–1.22] <span class="material-icons md-18" style="color:#fed300;background-color:#777;">east</span>
+     1.08 [0.94–1.22] <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span>
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
