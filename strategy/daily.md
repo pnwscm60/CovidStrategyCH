@@ -38,7 +38,7 @@
       Aufklärung CT
     </div>
     <div class=" st0" style="width:150px">
-      < 20 % <span class="material-icons md-18" style="color:#fed300;background-color:white;">east</span>
+      < 20 % <span class="material-icons md-18" style="color:#fed300;background-color:#555;">east</span>
     </div>
      <div class=" st4b" style="width:100px">
       < 70 %
