@@ -38,7 +38,7 @@
       Aufklärung CT
     </div>
     <div class=" st0" style="width:150px">
-      < 20 % <span class="material-icons md-18">east</span>
+      < 20 % <span class="material-icons md-18" style="color:yellow;">east</span>
     </div>
      <div class=" st4b" style="width:100px">
       < 70 %
@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:150px">
-      88.5 % <span class="material-icons md-18">east</span>
+      88.5 % <span class="material-icons md-18" style="color:yellow;">east</span>
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
@@ -60,7 +60,7 @@
       Re
     </div>
     <div class=" st0" style="width:150px">
-     1.08 [0.94–1.22] <span class="material-icons md-18">east</span>
+     1.08 [0.94–1.22] <span class="material-icons md-18" style="color:yellow;">east</span>
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
@@ -79,7 +79,7 @@
       Beurteilung:
     </div>
     <div class="" style="width:280px;font-size:1.2em;">
-     Exp. Wachstum, weitere Massnahmen erforderlich
+     Exp. Wachstum, Massnahmen erforderlich
     </div>
   </div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
