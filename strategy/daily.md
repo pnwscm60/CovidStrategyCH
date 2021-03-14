@@ -9,7 +9,7 @@
 </style>
   </head>
   <body> 
- <div style="display:flex;"><h2>Aktuelle Ampelwerte 12.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
+ <div style="display:flex;"><h2>Aktuelle Ampelwerte 14.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
   <div class="ntbl" style="display:flex;width:373px;margin-top:1em;">
     <div class="st0" style="width:120px">
@@ -60,7 +60,7 @@
       Re
     </div>
     <div class=" st0" style="width:150px">
-     1.08 [0.94–1.22] <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span>
+     1.13 [0.97–1.29] <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span>
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
