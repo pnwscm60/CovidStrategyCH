@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div class="st0" style="width:150px">
-     92.4 <span class="material-icons md-18" style="color:red;background-color:#aaa;">north</span>
+     92.4 <span class="material-icons md-18" style="color:red;background-color:#aaa;">east</span>
     </div>
      <div class=" st4b" style="width:100px">
       >8
