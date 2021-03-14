@@ -60,7 +60,7 @@
       Re
     </div>
     <div class=" st0" style="width:150px">
-     1.13 [0.97–1.29] <span class="material-icons md-18" style="color:#red;background-color:#aaa;">north</span>
+     1.13 [0.97–1.29] <span class="material-icons md-18" style="color:red;background-color:#aaa;">north</span>
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
