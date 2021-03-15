@@ -89,4 +89,5 @@
   <div id="ref3">Schweizerische Gesellschaft für Intensivmedizin SGI, Zertifizierungskommission. https://www.sgi-ssmi.ch/de/zertifizierte-is.html (abgerufen 18.12.2020)</div>
     </div>
     <div id="ref4">https://www.endcoronavirus.org/ Internationale Aktionsgruppe zur Bekämpfung der Pandemie, abgerufen: 30.12.2020</div>
-      <div id="ref5">Data from ETH Zurich. https://tb.ethz.ch/plot.html (abgerufen 08.03.2021)</div>  
+      <div id="ref5">Data from ETH Zurich. https://tb.ethz.ch/plot.html (abgerufen 15.03.2021)</div>
+      <div id="ref6">Data from Bundesamt für Gesundheit, Bern. https://www.covid19.admin.ch/de/overview (abgerufen 15.03.2021)</div>
