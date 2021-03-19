@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div class="st0" style="width:150px">
-     104.1 <span class="material-icons md-18" style="color:red;background-color:#aaa;">north</span>
+     109.8 <span class="material-icons md-18" style="color:red;background-color:#aaa;">north</span>
     </div>
      <div class=" st4b" style="width:100px">
       >8
@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:150px">
-      90.1 % <span class="material-icons md-18" style="color:red;background-color:#aaa;">north</span>
+      90.1 % <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span>
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
@@ -60,7 +60,7 @@
       Re
     </div>
     <div class=" st0" style="width:150px">
-     1.14 [1.0–1.27] <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span>
+     1.13 [0.99–1.27] <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span>
     </div>
     <div class=" st4b" style="width:100px">
       UL > 1
@@ -85,8 +85,10 @@
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
   <h3>Literatur</h3>
   <div id="ref1">Low N. Contact tracing for COVID-19. WHO/GOARN Global Consultation on Contact Tracing for COVID-19. https://ispmbern.github.io/covid-19/Forward_backward_WHO_201007.pdf, abgerufen 18.12.2020</div>
-<div id="ref2">Priesemann V et al. Calling for pan-European commitment for rapid and sustained reduction in SARS-CoV-2 infections. The Lancet, 2020, DOI:https://doi.org/10.1016/S0140-6736(20)32625-8, abgerufen 18.12.2020</div>
+<div id="ref2">Priesemann V et al. Calling for pan-European commitment for rapid and sustained reduction in SARS-CoV-2 infections. The Lancet, 2020, DOI:https://doi.org/10.1016/S0140-6736(20)32625-8, abgerufen 15.03.2021</div>
   <div id="ref3">Schweizerische Gesellschaft für Intensivmedizin SGI, Zertifizierungskommission. https://www.sgi-ssmi.ch/de/zertifizierte-is.html (abgerufen 18.12.2020)</div>
     <div id="ref4">https://www.endcoronavirus.org/ Internationale Aktionsgruppe zur Bekämpfung der Pandemie, abgerufen: 30.12.2020</div>
-      <div id="ref5">Data from ETH Zurich. https://tb.ethz.ch/plot.html (abgerufen 16.03.2021)</div>
-      <div id="ref6">Data from Bundesamt für Gesundheit, Bern. https://www.covid19.admin.ch/de/overview (abgerufen 16.03.2021)</div></div>
+      <div id="ref5">Data from ETH Zurich. https://tb.ethz.ch/plot.html (abgerufen 19.03.2021)</div>
+      <div id="ref6">Data from Bundesamt für Gesundheit, Bern. https://www.covid19.admin.ch/de/overview (abgerufen 19.03.2021)</div>
+      <div id="ref5">Data from ETH Zurich. https://icumonitoring.ch/ (abgerufen 19.03.2021)</div>
+      </div>
