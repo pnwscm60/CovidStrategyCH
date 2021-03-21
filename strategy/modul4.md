@@ -11,10 +11,20 @@
   <body>
  <div style="display:flex;"><h2>Modul 4: Infektion aufspüren + isolieren</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="twocol">
+      <div class="ntext">
+      TTIQ (Test Trace Isolate Quarantine) ist so zentral in der Gesamtstrategie, dass dies nicht föderal, sondern nur zentral geführt werden kann. Der Bund setzt dafür einen Krisenstab ein, der dafür sorgt, dass im gesamten Land
+        <ul><li>eine einheitliche Teststrategie angewendet wird</li>
+          <li>bei auftretenden Fällen die Fälle korrekt zurückverfolgt werden (auch über Kantonsgrenzen hinweg)</li>
+          <li>die Isolations- und Quarantäneanordnungen zeitnah erfolgen und deren Einhaltung kontrolliert wird</li>
+          <li>bei Clustern unverzüglich Massentests in der entsprechenden sozialen Gruppe durchgeführt werden<li>
+          <li>Entschädigungen bei Isolation/Quarantäneanordnung zeitnah erfolgen</li>
+        </ul>
+        Dieser Krisenstab hat Weisungsrechte gegenüber den kantonalen Behörden, die mit der Umsetzung betraut sind (meist via Gesundheitsdirektionen/Kantonsarztämter).
+      </div>
     <div class="ntext">
       <ul>
-        <li><strong>Testen</strong> Testen ist das zentrale Element in der Gesamtstrategie: Ohne Tests weiss man nicht, wie sich das Virus in der Bevölkerung verbreitet. Eine gezielte Eindämmung ist nur mittels einer gut eingerichteten und leistungsstarken Testinfrastruktur möglich. Schnelltests haben ein höheres Risiko für viele falsch Positive Fälle. Im Schnelltest positive Fälle müssen mit einem PCR-Test nachgeprüft werden. Beachten: Auch bei PCR-Tests sind negative Tests bei bestehender Coronainfektion möglich. Ab Stufe 2 müssen in Gesundheitsinstitutionen (Spitälern, Heimen) regelmässige Schnelltests beim Personal durchgeführt werden, um eine Ausbreitung frühzeitig zu verhindern. Massentests sind eine wichtige Zusatzmassnahme in Stufe 3, um die Kontrolle über die Pandemie wiederzuerlangen.</li>
-        <li><strong>Contact Tracing</strong> Das Contact Tracing, mit dem Infektionsketten unterbrochen werden sollen, erfolgt durch geschultes Personal in ausreichender Menge. Mit bestätigten Fällen muss eine ausführliche Anamnese durchgeführt werden (Backward/Forward). Personen in Isolation und Quarantäne müssen zur Kontrolle regelmässig (idealerweise täglich) angerufen werden. Die Verarbeitung erfolgt durch ein in der Schweiz einheitliches Contact Tracing-System, mit dem die Daten automatisch an das BAG übermittelt werden.</li>
+        <li><strong>Testen</strong> Testen ist das zentrale Element in der Gesamtstrategie: Ohne Tests weiss man nicht, wie sich das Virus in der Bevölkerung verbreitet. Eine gezielte Eindämmung ist nur mittels einer gut eingerichteten und leistungsstarken Testinfrastruktur möglich. Schnelltests haben ein höheres Risiko für falsch positive Fälle und wegen der begrenzten Sensitivität auch falsch negative Fälle. Im Schnelltest positive Fälle müssen zwingend mit einem PCR-Test nachgeprüft werden. Beachten: Auch bei PCR-Tests sind negative Tests bei bestehender Coronainfektion möglich. Ab Stufe 2 müssen in Gesundheitsinstitutionen (Spitälern, Heimen) regelmässige Schnelltests beim Personal durchgeführt werden, um eine Ausbreitung frühzeitig zu verhindern. Massentests sind eine wichtige Zusatzmassnahme in Stufe 3, um die Kontrolle über die Pandemie wiederzuerlangen. Bei Massentests sind Speichel-PCR-Tests vorzuziehen – diese können noch gleichentags ausgewertet werden (Aguzzi 2021)</li>
+        <li><strong>Contact Tracing</strong> Das Contact Tracing, mit dem Infektionsketten unterbrochen werden sollen, erfolgt durch geschultes Personal in ausreichender Menge (Grundregel: 3–4 Vollzeitstellen pro täglichen Infektionsfall. Mit bestätigten Fällen muss eine ausführliche Anamnese durchgeführt werden (Backward/Forward). Die Rückverfolgung muss mindestens über 4 Tage rückwärts erfolgen. Personen in Isolation und Quarantäne müssen zur Kontrolle regelmässig (idealerweise täglich) angerufen werden, bei Isolierten sind stichprobenartige Kontrolle bezüglich Einhaltung der Isolation vorzusehen. Die Verarbeitung erfolgt durch ein in der Schweiz einheitliches Contact Tracing-System, mit dem die Daten automatisch an das BAG übermittelt werden.</li>
         <li><strong>Covid App</strong> Die Covid-App kann durch ihren dezentralen Ansatz das klassische «manuelle» Contact Tracing nicht ersetzen, sie kann aber Kontaktpersonen von Infizierten frühzeitig alarmieren und zum Unterbruch von Infektionsketten beitragen.</li>
       </ul>
     </div>
@@ -94,3 +104,4 @@
 
 <h3>Literatur</h3>
 Baharudin H. Trace Together programme hits 70 % participation among Singapore residents. https://www.straitstimes.com/singapore/tracetogether-programme-hits-70-participation-among-singapore-residents, abgerufen 23.12.2020
+Aguzzi A. SAMBA-PCR durch Swissmedic zugelassen. Twitter-Mitteilung, https://twitter.com/AdrianoAguzzi/status/1371708023303979010?s=20, abgerufen 16.03.2021
