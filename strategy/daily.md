@@ -82,7 +82,7 @@
      Exp. Wachstum, Massnahmen erforderlich
     </div>
   </div>
-      <div>* No data update available today</div>
+      <div style="font-size:0.9em;margin-top:1em;">* No data update available today</div>
 <div id="foot" style="font-size:0.9em;margin-top:1em;font-style:italic;">
   <h3>Literatur</h3>
   <div id="ref1">Low N. Contact tracing for COVID-19. WHO/GOARN Global Consultation on Contact Tracing for COVID-19. https://ispmbern.github.io/covid-19/Forward_backward_WHO_201007.pdf, abgerufen 18.12.2020</div>
