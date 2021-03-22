@@ -12,14 +12,14 @@
  <div style="display:flex;"><h2>Modul 4: Infektion aufspüren + isolieren</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="twocol">
       <div class="ntext">
-      TTIQ (Test Trace Isolate Quarantine) ist so zentral in der Gesamtstrategie, dass dies nicht föderal, sondern nur zentral geführt werden kann. Der Bund setzt dafür einen Krisenstab ein, der dafür sorgt, dass im gesamten Land
+      TTIQ (Test Trace Isolate Quarantine) ist so zentral in der Gesamtstrategie, dass dies nicht föderal, sondern nur zentral geführt werden kann. Der Bund setzt dafür einen Krisenstab ein, der dafür sorgt, dass im gesamten Land</div>
         <ul><li>eine einheitliche Teststrategie angewendet wird</li>
           <li>bei auftretenden Fällen die Fälle korrekt zurückverfolgt werden (auch über Kantonsgrenzen hinweg)</li>
           <li>die Isolations- und Quarantäneanordnungen zeitnah erfolgen und deren Einhaltung kontrolliert wird</li>
-          <li>bei Clustern unverzüglich Massentests in der entsprechenden sozialen Gruppe durchgeführt werden<li>
+          <li>bei Clustern unverzüglich Massentests in der entsprechenden sozialen Gruppe durchgeführt werden</li>
           <li>Entschädigungen bei Isolation/Quarantäneanordnung zeitnah erfolgen</li>
         </ul>
-        Dieser Krisenstab hat Weisungsrechte gegenüber den kantonalen Behörden, die mit der Umsetzung betraut sind (meist via Gesundheitsdirektionen/Kantonsarztämter).
+        <div class="ntext">Dieser Krisenstab hat Weisungsrechte gegenüber den kantonalen Behörden, die mit der Umsetzung betraut sind (meist via Gesundheitsdirektionen/Kantonsarztämter).
       </div>
     <div class="ntext">
       <ul>
