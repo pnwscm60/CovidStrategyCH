@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:150px">
-      77.4 % <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span> *
+      84.5 % <span class="material-icons md-18" style="color:red;background-color:#aaa;">north</span> *
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
@@ -91,5 +91,5 @@
     <div id="ref4">https://www.endcoronavirus.org/ Internationale Aktionsgruppe zur Bekämpfung der Pandemie, abgerufen: 30.12.2020</div>
       <div id="ref5">Data from ETH Zurich. https://tb.ethz.ch/plot.html (abgerufen 25.03.2021)</div>
       <div id="ref6">Data from Bundesamt für Gesundheit, Bern. https://www.covid19.admin.ch/de/overview (abgerufen 25.03.2021)</div>
-      <div id="ref5">Data from ETH Zurich. https://icumonitoring.ch/ (abgerufen 22.03.2021)</div>
+      <div id="ref5">Data from ETH Zurich. https://icumonitoring.ch/ (abgerufen 25.03.2021)</div>
       </div>
