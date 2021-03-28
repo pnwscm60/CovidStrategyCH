@@ -17,12 +17,14 @@
   <a href="mailto:info@gs-edi.admin.ch">Emailadresse BR Alain Berse</a> Twitter: @alain_berset<br/>
   <a href="mailto:info@gs-edi.admin.ch">Emailadresse BR Guy Parmelin (Bundespräsident)</a> Twitter: @ParmelinG<br/>
   <a href="https://github.com/pnwscm60/CovidStrategyCH/raw/main/strategy/DurchseuchungNeinDanke.docx">Plakat «Durchseuchen nein danke»</a> als Worddatei zum selbst ausfüllen<br/>
-  <a href="https://user-images.githubusercontent.com/46749603/112768543-c4319580-901c-11eb-95fd-c7db4ca744d4.png"><img src="https://user-images.githubusercontent.com/46749603/112768543-c4319580-901c-11eb-95fd-c7db4ca744d4.png" style="width:200px;"></a>[<a href="">PDF</a>]<br/>
+  <a href="https://user-images.githubusercontent.com/46749603/112768543-c4319580-901c-11eb-95fd-c7db4ca744d4.png"><img src="https://user-images.githubusercontent.com/46749603/112768543-c4319580-901c-11eb-95fd-c7db4ca744d4.png" style="width:200px;"></a><div style="margin-top:-0.5em;"[<a href="">PDF</a>]</div><br/>
   <a href="https://user-images.githubusercontent.com/46749603/112768589-ff33c900-901c-11eb-895b-2e2e48f2e3a8.png"><img src="https://user-images.githubusercontent.com/46749603/112768589-ff33c900-901c-11eb-895b-2e2e48f2e3a8.png" style="width:200px;"></a><br/>
   <a href="https://user-images.githubusercontent.com/46749603/112768609-12469900-901d-11eb-982f-8829b65fc75d.png"><img src="https://user-images.githubusercontent.com/46749603/112768609-12469900-901d-11eb-982f-8829b65fc75d.png" style="width:200px;"></a><br/>
-  <a href="https://user-images.githubusercontent.com/46749603/112768590-ffcc5f80-901c-11eb-85e6-d1f87bd256f6.png"><img src="https://user-images.githubusercontent.com/46749603/112768590-ffcc5f80-901c-11eb-85e6-d1f87bd256f6.png" style="width:200px;"></a>
-  <a href="https://user-images.githubusercontent.com/46749603/112769837-8edc7600-9023-11eb-9df9-80bfb6f6e713.png"><img src="https://user-images.githubusercontent.com/46749603/112769837-8edc7600-9023-11eb-9df9-80bfb6f6e713.png" style="width:200px;"></a>
+  <a href="https://user-images.githubusercontent.com/46749603/112768590-ffcc5f80-901c-11eb-85e6-d1f87bd256f6.png"><img src="https://user-images.githubusercontent.com/46749603/112768590-ffcc5f80-901c-11eb-85e6-d1f87bd256f6.png" style="width:150px;"></a>
+  <a href="https://user-images.githubusercontent.com/46749603/112769837-8edc7600-9023-11eb-9df9-80bfb6f6e713.png"><img src="https://user-images.githubusercontent.com/46749603/112769837-8edc7600-9023-11eb-9df9-80bfb6f6e713.png" style="width:150px;"></a>
   <br/>
-    
+  <a href="https://user-images.githubusercontent.com/46749603/112769838-8f750c80-9023-11eb-9a5c-33d8cd4d9e5b.png"><img src="https://user-images.githubusercontent.com/46749603/112769838-8f750c80-9023-11eb-9a5c-33d8cd4d9e5b.png" style="width:150px;"></a>
+  <a href="https://user-images.githubusercontent.com/46749603/112769839-900da300-9023-11eb-8b4a-ca4a2a02dbb7.png"><img src="https://user-images.githubusercontent.com/46749603/112769839-900da300-9023-11eb-8b4a-ca4a2a02dbb7.png" style="width:150px;"></a>
+  <br/>  
   </div>
     </div>
