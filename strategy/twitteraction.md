@@ -18,11 +18,15 @@ Du hast es sicher gehört: Äusserungen von BR Berset («Sobald alle Impfwillige
   <div class="ntext">
   So kann und darf es nicht weitergehen. Es reicht! Der BR und die Kantone sollen endlich begreifen, dass viele Menschen in der Schweiz es leid sind, mit zu schwachen Massnahmen vertröstet zu werden und als Folge davon in einem ewigen Shutdown gefangen zu bleiben. Das schadet den Menschen, der Wirtschaft und gleichzeitig nimmt man weitere Tausende LongCovid-Fälle und Tote in kauf. Wir sagen stopp! 
   </div>
- <div class="ntext" style="border:1px solid red;">
+ <div class="ntext" style="border:2px solid red;padding:0.5em;background-color:lightred;">
 Am Dienstag 30.3. werden wir laut. Wir schreiben BR Berset, BR Parmelin als Bundespräsident und RR Engelberger (Präsident GDK) einen (digitalen) Brief. Wir verlangen einen Strategiewechsel: <span style="bold">Gemeinsam zu NoCovid!</span><br/>
    Mach einen Screenshot der Briefe und poste sie auf Twitter/Instagram/Facebook. Poste ein Bild von dir (mit Maske!) und einem Schild auf Social Media, zB mit I&hearts;NoCovid, Gemeinsam zu NoCovid oder Ähnlichem. Beispiele siehst du auf dem Bild rechts. Vergiss nicht, deinem Post folgende Hashtags hinzuzufügen: #NoCovid #ProtectTheKids #BriefeAnEngelberger #briefenachbern #NoLiestal.
     </div>
   <img src="https://user-images.githubusercontent.com/46749603/112766800-b0cdfc80-9013-11eb-8b8f-dcea386b92ae.png" style="width:100%;">
   <div class="ntext">
-   Die Argumente für die NoCovid-Strategie sind vielfältig. Du findest die wichtigsten Argumente auf unserer <a href="main">Hauptseite</a> unter «Ziele» (Rettet Leben, verringert Folgekosten durch Long Covid, rettet Arbeitsplätze und Unternehmen, stützt die Wirtschaft, erlaubt Offenhalten von Schulen und Geschäften, ermöglicht ein funktionierendes Contact TTIQ-System, begrenzt das Aufkommen von neuen Mutanten). 
+   Die Argumente für die NoCovid-Strategie sind vielfältig. Du findest die wichtigsten Argumente auf unserer <a href="main">Hauptseite</a> unter «Ziele» (Rettet Leben, verringert Folgekosten durch Long Covid, rettet Arbeitsplätze und Unternehmen, stützt die Wirtschaft, erlaubt Offenhalten von Schulen und Geschäften, ermöglicht ein funktionierendes Contact TTIQ-System, begrenzt das Aufkommen von neuen Mutanten). Dort ist auch das Konzept für den Weg zu NoCovid ausgeführt. Die Logos in der Grafik rechts findest du bei den Materialien. Dabei ist z. B. auch eine Word-Datei, in der das graue Schild eingefügt ist. Du kannst dort einen eigenen Text einfüllen und das ausdrucken.
+  </div>
+    <div class="ntext">
+    Ab nächster Woche sind Konzept und Infos auf https://nocovidnow.ch verfügbar. Dort können dann auch Sticker und weiteres Material bestellt werden.
+  </div>
   </div>
