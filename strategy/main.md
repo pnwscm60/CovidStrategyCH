@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Strategie Pandemiemanagement</title>
+    <title>Gemeinsam zu NoCovid</title>
     <meta charset="utf-8" />
     <meta http-equiv="expires" content="0">
   <style>
@@ -10,7 +10,7 @@
   </head>
   <body>
   <header>
- <div style="display:flex;"><h2>Strategieskizze Covid-19-Management</h2> <div style="margin-left:0.5em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="https://github.com/pnwscm60/CovidStrategyCH/issues" style="color:#fff;">Mitarbeiten</a></div><div style="margin-left:0.5em;padding:3px 6px 0 6px;background-color:#ffcc00;color:#fff;font-weight:300;height:27px!important;"><a href="daily" style="color:#fff;">Aktuelle Ampelwerte</a></div> <div style="margin-top:4px;margin-left:0.5em;">Kurzlink zu dieser Seite: <a href="https://t1p.de/nocovid">t1p.de/nocovid</a></div></div>
+ <div style="display:flex;"><h2>Gemeinsam zu NoCovid – Pandemiemanagement</h2> <div style="margin-left:0.5em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="daily" style="color:#fff;">Aktuelle Ampelwerte</a></div> <div style="margin-top:4px;margin-left:0.5em;">Kurzlink zu dieser Seite: <a href="https://t1p.de/nocovid">t1p.de/nocovid</a></div></div>
 <div class="twocol">
 <div class="ntext">
 Basierend auf dem «Swiss Cheese Modell» (Reason 2000) wird ein System mit zwei Ebenen und einem darübergelegten Ampelsystem gebildet. Vier übergeordnete Module bilden die Hauptgliederungsebene. Jedes dieser Module enthält eine unterschiedliche Anzahl von weiteren Komponenten («Käsescheiben»). Jede dieser Komponenten entspricht einer Massnahme, mit der die Ausbreitung der Pandemie, d. h. die Reproduktion des Virus verhindert werden soll. Grundzüge wurden von Pueyo [Pueyo 2020] beschrieben. Der Massnahmenkatalog orientiert sich an Modellen aus Irland, Island, Neuseeland, Norwegen und weiteren Staaten, die über ein erfolgreiches Pandemiemanagement verfügen. Das Ampelsystem grün – rot ist darauf ausgerichtet, Übertragung in der Bevölkerung möglichst schnell zu eliminieren. Überschreitet die 7-Tage-Inzidenz/100000 den Wert von 5 (mehr als 35 Fälle/Tag), schaltet die Ampel auf rot.
