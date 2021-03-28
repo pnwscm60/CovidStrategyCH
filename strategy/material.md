@@ -16,10 +16,11 @@
   <a href="">Adressliste Nationalrat u. Ständerat</a><br/>
   <a href="mailto:info@gs-edi.admin.ch">Emailadresse BR Alain Berse</a> Twitter: @alain_berset<br/>
   <a href="mailto:info@gs-edi.admin.ch">Emailadresse BR Guy Parmelin (Bundespräsident)</a> Twitter: @ParmelinG<br/>
-  <a href="">Plakat «Durchseuchen nein danke»</a> als Worddatei zum selbst ausfüllen<br/>
+  <a href="https://github.com/pnwscm60/CovidStrategyCH/raw/main/strategy/DurchseuchungNeinDanke.docx">Plakat «Durchseuchen nein danke»</a> als Worddatei zum selbst ausfüllen<br/>
   <a href="https://user-images.githubusercontent.com/46749603/112768543-c4319580-901c-11eb-95fd-c7db4ca744d4.png"><img src="https://user-images.githubusercontent.com/46749603/112768543-c4319580-901c-11eb-95fd-c7db4ca744d4.png" style="width:200px;"></a><br/>
   <a href="https://user-images.githubusercontent.com/46749603/112768589-ff33c900-901c-11eb-895b-2e2e48f2e3a8.png"><img src="https://user-images.githubusercontent.com/46749603/112768589-ff33c900-901c-11eb-895b-2e2e48f2e3a8.png" style="width:200px;"></a><br/>
+  <a href="https://user-images.githubusercontent.com/46749603/112768609-12469900-901d-11eb-982f-8829b65fc75d.png"><img src="https://user-images.githubusercontent.com/46749603/112768609-12469900-901d-11eb-982f-8829b65fc75d.png" style="width:200px;"></a><br/>
   <a href="https://user-images.githubusercontent.com/46749603/112768590-ffcc5f80-901c-11eb-85e6-d1f87bd256f6.png"><img src="https://user-images.githubusercontent.com/46749603/112768590-ffcc5f80-901c-11eb-85e6-d1f87bd256f6.png" style="width:200px;"></a><br/>
-    <a href="https://user-images.githubusercontent.com/46749603/112768609-12469900-901d-11eb-982f-8829b65fc75d.png"><img src="https://user-images.githubusercontent.com/46749603/112768609-12469900-901d-11eb-982f-8829b65fc75d.png" style="width:200px;"></a><br/>
+    
   </div>
     </div>
