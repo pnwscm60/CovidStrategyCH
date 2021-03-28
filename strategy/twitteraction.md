@@ -18,7 +18,7 @@ Du hast es sicher gehört: Äusserungen von BR Berset («Sobald alle Impfwillige
   <div class="ntext">
     So kann und darf es nicht weitergehen. <span style="font-weight:bold;">Es reicht!</span> Der BR und die Kantone sollen endlich begreifen, dass viele Menschen in der Schweiz es leid sind, mit zu schwachen Massnahmen vertröstet zu werden und als Folge davon in einem ewigen Shutdown gefangen zu bleiben. Das schadet den Menschen, der Wirtschaft und gleichzeitig nimmt man weitere Tausende LongCovid-Fälle und Tote in Kauf. Wir sagen stopp! 
   </div>
- <div class="ntext" style="border:2px solid red;padding:0.5em;color:white;background-color:Coral;">
+ <div class="ntext" style="border:2px solid red;padding:0.5em;color:white;background-color:Coral;margin-bottom:1em;">
 Am Dienstag 30.3. werden wir laut. Wir schreiben BR Berset, BR Parmelin als Bundespräsident und RR Engelberger (Präsident GDK) einen (digitalen) Brief. Wir verlangen einen Strategiewechsel: <span style="font-weight:bold;">Gemeinsam zu NoCovid!</span><br/> (Adressen unter <a href="material">Materialien</a>).
    Mach einen Screenshot der Briefe und poste sie auf Twitter/Instagram/Facebook. Poste ein Bild von dir (mit Maske!) und einem Schild auf Social Media, zB mit I<span style="color:red;">&hearts;</span>NoCovid, Gemeinsam zu NoCovid oder Ähnlichem. Beispiele siehst du auf dem Bild rechts. Oder du zeichnest dein Schild selbst. Vergiss nicht, deinem Post folgende Hashtags hinzuzufügen: #NoCovid #ProtectTheKids #BriefeAnEngelberger #briefenachbern #NoLiestal.
     </div>
