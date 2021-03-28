@@ -10,7 +10,7 @@
   </head>
   <body>
   <header>
- <div style="display:flex;"><h2>Gemeinsam zu NoCovid – Material zur Twitteraction am 30.3.21 ab 7.30 Uhr</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="material" style="color:#fff;">Zurück zur Aktionsseite</a></div></div>
+ <div style="display:flex;"><h2>Gemeinsam zu NoCovid – Material zur Twitteraction am 30.3.21 ab 7.30 Uhr</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="twitteraction" style="color:#fff;">Zurück zur Aktionsseite</a></div></div>
 <div class="twocol">
 <div class="ntext">
   <a href="https://github.com/pnwscm60/CovidStrategyCH/raw/main/strategy/raete.pdf">Adressliste Nationalrat u. Ständerat</a><br/>
