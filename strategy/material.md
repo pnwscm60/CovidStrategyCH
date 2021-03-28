@@ -14,8 +14,8 @@
 <div class="twocol">
 <div class="ntext">
   <a href="https://github.com/pnwscm60/CovidStrategyCH/raw/main/strategy/raete.pdf">Adressliste Nationalrat u. Ständerat</a><br/>
-  <a href="mailto:info@gs-edi.admin.ch">Emailadresse BR Alain Berse</a> Twitter: @alain_berset<br/>
-  <a href="mailto:info@gs-edi.admin.ch">Emailadresse BR Guy Parmelin (Bundespräsident)</a> Twitter: @ParmelinG<br/>
+  <a href="mailto:info@gs-edi.admin.ch">Emailadresse BR Alain Berset</a> Twitter: @alain_berset<br/>
+  <a href="mailto:info@gs-wbf.admin.ch">Emailadresse BR Guy Parmelin (Bundespräsident)</a> Twitter: @ParmelinG<br/>
   <a href="https://github.com/pnwscm60/CovidStrategyCH/raw/main/strategy/DurchseuchungNeinDanke.docx">Plakat «Durchseuchen nein danke»</a> als Worddatei zum selbst ausfüllen
   </div></div>
   <div class="twocol">
