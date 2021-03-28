@@ -20,8 +20,9 @@ Du hast es sicher gehört: Äusserungen von BR Berset («Sobald alle Impfwillige
   </div>
  <div class="ntext" style="border:1px solid red;">
 Am Dienstag 30.3. werden wir laut. Wir schreiben BR Berset, BR Parmelin als Bundespräsident und RR Engelberger (Präsident GDK) einen (digitalen) Brief. Wir verlangen einen Strategiewechsel: <span style="bold">Gemeinsam zu NoCovid!</span><br/>
-   Mach einen Screenshot der Briefe und poste sie auf Twitter/Instagram/Facebook. Poste ein Bild von dir (mit Maske!) und einem Schild auf Social Media, zB mit I&hearts;NoCovid, Gemeinsam zu NoCovid oder Ähnlichem. 
+   Mach einen Screenshot der Briefe und poste sie auf Twitter/Instagram/Facebook. Poste ein Bild von dir (mit Maske!) und einem Schild auf Social Media, zB mit I&hearts;NoCovid, Gemeinsam zu NoCovid oder Ähnlichem. Beispiele siehst du auf dem Bild rechts. Vergiss nicht, deinem Post folgende Hashtags hinzuzufügen: #NoCovid #ProtectTheKids #BriefeAnEngelberger #briefenachbern #NoLiestal.
     </div>
+  <img src="https://user-images.githubusercontent.com/46749603/112766800-b0cdfc80-9013-11eb-8b8f-dcea386b92ae.png" style="width:100%;">
   <div class="ntext">
    Die Argumente für die NoCovid-Strategie sind vielfältig. Du findest die wichtigsten Argumente auf unserer <a href="main">Hauptseite</a> unter «Ziele» (Rettet Leben, verringert Folgekosten durch Long Covid, rettet Arbeitsplätze und Unternehmen, stützt die Wirtschaft, erlaubt Offenhalten von Schulen und Geschäften, ermöglicht ein funktionierendes Contact TTIQ-System, begrenzt das Aufkommen von neuen Mutanten). 
   </div>
