@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:150px">
-      84.5 % <span class="material-icons md-18" style="color:red;background-color:#aaa;">north</span> *
+      84.5 % <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span> *
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
