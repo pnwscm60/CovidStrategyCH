@@ -9,7 +9,7 @@
 </style>
   </head>
   <body> 
- <div style="display:flex;"><h2>Aktuelle Ampelwerte 29.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
+ <div style="display:flex;"><h2>Aktuelle Ampelwerte 30.03.2021</h2> <div style="margin-left:2em;padding:3px 6px 0 6px;background-color:#888;color:#fff;font-weight:300;height:27px!important;"><a href="main" style="color:#fff;">Zurück</a></div></div>
     <div class="onecol">
   <div class="ntbl" style="display:flex;width:373px;margin-top:1em;">
     <div class="st0" style="width:120px">
@@ -27,7 +27,7 @@
       7d-Inzidenz/100k
     </div>
     <div class="st0" style="width:150px">
-     141.0 <span class="material-icons md-18" style="color:red;background-color:#aaa;">north</span>
+     137.2 <span class="material-icons md-18" style="color:green;background-color:#aaa;">south</span>
     </div>
      <div class=" st4b" style="width:100px">
       >8
@@ -49,7 +49,7 @@
       Auslastung IPS zert.
     </div>
     <div class=" st0" style="width:150px">
-      84.5 % <span class="material-icons md-18" style="color:#fed300;background-color:#aaa;">east</span> *
+      81.4 % <span class="material-icons md-18" style="color:green;background-color:#aaa;">south</span> *
     </div>
      <div class=" st4b" style="width:100px">
       > 70 %
@@ -89,7 +89,7 @@
 <div id="ref2">Priesemann V et al. Calling for pan-European commitment for rapid and sustained reduction in SARS-CoV-2 infections. The Lancet, 2020, DOI:https://doi.org/10.1016/S0140-6736(20)32625-8, abgerufen 15.03.2021</div>
   <div id="ref3">Schweizerische Gesellschaft für Intensivmedizin SGI, Zertifizierungskommission. https://www.sgi-ssmi.ch/de/zertifizierte-is.html (abgerufen 18.12.2020)</div>
     <div id="ref4">https://www.endcoronavirus.org/ Internationale Aktionsgruppe zur Bekämpfung der Pandemie, abgerufen: 30.12.2020</div>
-      <div id="ref5">Data from ETH Zurich. https://tb.ethz.ch/plot.html (abgerufen 29.03.2021)</div>
-      <div id="ref6">Data from Bundesamt für Gesundheit, Bern. https://www.covid19.admin.ch/de/overview (abgerufen 29.03.2021)</div>
-      <div id="ref5">Data from ETH Zurich. https://icumonitoring.ch/ (abgerufen 26.03.2021)</div>
+      <div id="ref5">Data from ETH Zurich. https://tb.ethz.ch/plot.html (abgerufen 30.03.2021)</div>
+      <div id="ref6">Data from Bundesamt für Gesundheit, Bern. https://www.covid19.admin.ch/de/overview (abgerufen 30.03.2021)</div>
+      <div id="ref5">Data from ETH Zurich. https://icumonitoring.ch/ (abgerufen 30.03.2021)</div>
       </div>
